@@ -1,7 +1,6 @@
 import { DonatingCard } from '../DonatingCard'
 import { StickerButton } from '../DonatingCard/components/StickerButton'
 import labLogo from '@/assets/lab-logo.svg'
-import redBookCode from '@/assets/redBook-code.jpg'
 import InfoPanel from '@/components/InfoPanel'
 import Tooltip from '@/components/Tooltip'
 import { BRAND } from '@/constants/brand'
@@ -107,45 +106,31 @@ const Footer: React.FC = () => {
         onClose={() => handleCloseInfoPanel('community')}
       >
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          Qwerty Learner 是一个开源项目，旨在为用户提供高质量、可靠的打字练习工具。
-          <br />
-          加入我们的用户社群后，您可以与我们的开发团队进行沟通，分享您的使用体验和建议，帮助我们改进产品，同时也能够及时了解我们的最新动态和更新内容。
-          <br />
-          <br />
-        </p>
-        <p className="text-sm text-gray-700 dark:text-gray-200">
-          我们深信，与用户的良好互动和反馈是推动我们不断前进和提高的重要因素。因此，我们诚挚邀请您加入我们的社群，与我们一起打造更好的
-          「Qwerty Learner」！
+          见鹿（JianLu）由鹿溪联合创新实验室出品，基于开源项目 Qwerty Learner 二次开发。
         </p>
         <br />
-        <p className="text-sm text-gray-500  dark:text-gray-400">再次感谢您的支持和关注！</p>
-        <br />
-        <img className="ml-1 w-2/6 " src="https://qwerty.kaiyi.cool/weChat-group.png" alt="weChat-group" />
+        <p className="text-sm font-medium text-gray-700 dark:text-gray-200">
+          暂无官方群 / 请邮件联系
+        </p>
+        <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">
+          当前未开设官方微信用户群。如有问题或建议，请通过邮件与我们联系（以实验室公布的联系方式为准）。
+        </p>
         <br />
       </InfoPanel>
 
       <InfoPanel
         openState={infoPanelState.redBook}
-        title="小红书社群"
+        title="小红书"
         icon={IconXiaoHongShu}
         buttonClassName="bg-red-500 hover:bg-red-400"
         iconClassName="text-red-500 bg-red-100 dark:text-red-600 dark:bg-red-500"
         onClose={() => handleCloseInfoPanel('redBook')}
       >
-        <p className="text-sm text-gray-500  dark:text-gray-400">
-          Qwerty Learner 是一个开源项目，旨在为用户提供高质量、可靠的打字练习工具。
-          <br />
-          关注小红书后，您可以获得开发团队的最新动态和更新内容，反馈您的使用体验和建议，帮助我们改进产品。
-          <br />
-          <br />
-        </p>
-        <p className="text-sm text-gray-700 dark:text-gray-200">
-          我们深信，与用户的良好互动和反馈是推动我们不断前进和提高的重要因素。因此，我们诚挚邀请您关注我们的小红书账号，与我们一起打造更好的
-          「Qwerty Learner」！
+        <p className="text-sm text-gray-500 dark:text-gray-400">
+          见鹿目前暂无官方小红书账号。产品动态与反馈渠道将随实验室运营逐步完善。
         </p>
         <br />
-        <img className="ml-1 w-5/12 " src={redBookCode} alt="redBook" />
-        <p className="text-sm text-gray-500 dark:text-gray-400">Tips: 从小红书“我”的左上角点击 三 找到 扫一扫</p>
+        <p className="text-sm font-medium text-gray-700 dark:text-gray-200">暂无官方账号 / 请邮件联系</p>
         <br />
       </InfoPanel>
 

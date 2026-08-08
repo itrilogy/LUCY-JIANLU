@@ -1,7 +1,0 @@
-{
-  "id": "english-essay-level2",
-  "title": "Clean Code & Programming Philosophy (英文短文)",
-  "language": "english",
-  "codeLanguage": "markdown",
-  "content": "//: 💡 软件开发哲学：关于清晰代码的思考\nAny fool can write code that a computer can understand.\nGood programmers write code that humans can understand.\n\n//: 💡 软件持续重构原则\nAlways leave the code cleaner than you found it.\nSmall improvements made consistently over time lead to great software."
-}

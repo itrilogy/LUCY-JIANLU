@@ -1,7 +1,0 @@
-{
-  "id": "python-basics-level1",
-  "title": "Python 基础语法与列表推导式 (Level 1)",
-  "language": "code",
-  "codeLanguage": "python",
-  "content": "#: 💡 示例：定义阶乘函数与边界条件检查\ndef factorial(n):\n    # Check for invalid input\n    if n < 0:\n        raise ValueError('n must be non-negative')\n    if n == 0 or n == 1:\n        return 1\n    return n * factorial(n - 1)\n\n#: 💡 使用 Python 列表推导式过滤偶数\nnumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\neven_squares = [x ** 2 for x in numbers if x % 2 == 0]\nprint('Even squares:', even_squares)"
-}

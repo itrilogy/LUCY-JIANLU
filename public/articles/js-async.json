@@ -1,7 +1,0 @@
-{
-  "id": "js-async-level3",
-  "title": "JavaScript 异步编程 Promise & async/await (Level 3)",
-  "language": "code",
-  "codeLanguage": "javascript",
-  "content": "//: 💡 示例：封装一个返回 Promise 的延迟异步函数\nfunction delay(ms) {\n  // Promise 构造函数接收一个 executor 函数\n  return new Promise((resolve) => {\n    setTimeout(resolve, ms);\n  });\n}\n\n//: 💡 使用 async/await 顺序执行异步请求\nasync function fetchUserData(userId) {\n  // Simulate network delay\n  await delay(500);\n  if (!userId) {\n    throw new Error('User ID is required');\n  }\n  return { id: userId, role: 'developer' };\n}"
-}

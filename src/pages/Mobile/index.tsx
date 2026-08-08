@@ -1,13 +1,12 @@
 import logo from '@/assets/logo.svg'
-import directoryImg from '@/assets/mobile/carousel/directory.png'
-import hotImg from '@/assets/mobile/carousel/hot.png'
-import indexImg from '@/assets/mobile/carousel/index.png'
+import labLogo from '@/assets/lab-logo.svg'
 import codeImg from '@/assets/mobile/detail/code.png'
 import dictationImg from '@/assets/mobile/detail/dictation.png'
 import phoneticImg from '@/assets/mobile/detail/phonetic.png'
 import speedImg from '@/assets/mobile/detail/speed.png'
+import { BRAND } from '@/constants/brand'
 import type React from 'react'
-import { useEffect, useRef, useState } from 'react'
+import { useState } from 'react'
 
 const detail = [
   {
@@ -33,36 +32,7 @@ const detail = [
 ]
 
 const MobilePage: React.FC = () => {
-  const [currentSlide, setCurrentSlide] = useState(0)
-  const totalSlides = 3 // 轮播图的总数量
-  const containerRef = useRef<HTMLDivElement>(null)
   const [activeIndex, setActiveIndex] = useState(0)
-
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setCurrentSlide((prevSlide) => (prevSlide + 1) % totalSlides)
-    }, 3000)
-
-    return () => clearInterval(timer)
-  }, [])
-
-  useEffect(() => {
-    if (containerRef.current) {
-      const container = containerRef.current
-      const slideWidth = container.offsetWidth
-
-      if (currentSlide === 0) {
-        container.style.transform = `translateX(-${totalSlides * slideWidth}px)`
-        setTimeout(() => {
-          container.style.transition = 'none'
-          container.style.transform = `translateX(0)`
-        }, 500)
-      } else {
-        container.style.transition = 'transform 0.5s ease'
-        container.style.transform = `translateX(-${currentSlide * slideWidth}px)`
-      }
-    }
-  }, [currentSlide])
 
   return (
     <div className="flex w-screen flex-col bg-white lg:mx-auto lg:max-w-7xl">
@@ -190,43 +160,29 @@ const MobilePage: React.FC = () => {
           </div>
         </section>
 
-        <section className="mt-24 px-6 md:px-12 lg:mt-32 lg:px-24">
-          <div className="relative overflow-hidden rounded-3xl border border-gray-100 bg-white p-2 shadow-2xl">
-            <div className="overflow-hidden rounded-2xl bg-white">
-              <div
-                ref={containerRef}
-                style={{
-                  display: 'flex',
-                  transition: 'transform 0.5s ease',
-                }}
-              >
-                <img
-                  src={hotImg}
-                  alt="鹿溪实验室 热门词库界面"
-                  className="w-full flex-shrink-0"
-                />
-                <img
-                  src={directoryImg}
-                  alt="鹿溪实验室 词库目录"
-                  className="w-full flex-shrink-0"
-                />
-                <img src={indexImg} alt="鹿溪实验室 练习主界面" className="w-full flex-shrink-0" />
-                <img
-                  src={hotImg}
-                  alt="鹿溪实验室 热门词库界面"
-                  className="w-full flex-shrink-0"
-                />
-              </div>
-            </div>
-            <div className="mt-8 flex justify-center space-x-3">
-              {[0, 1, 2].map((index) => (
-                <div
-                  key={index}
-                  className={`h-2 w-2 rounded-full transition-all duration-500 ${
-                    currentSlide === index ? 'w-8 bg-[#0D5E42]' : 'bg-gray-300 hover:bg-emerald-300'
-                  }`}
-                />
-              ))}
+        {/* 鹿溪品牌说明 */}
+        <section className="border-y border-emerald-900/5 bg-[#F5F7FA]/80 px-6 py-16 lg:px-24" aria-labelledby="luxi-brand-heading">
+          <div className="mx-auto flex max-w-3xl flex-col items-center text-center">
+            <img src={labLogo} alt="" className="mb-5 h-16 w-auto object-contain opacity-95" aria-hidden />
+            <h2 id="luxi-brand-heading" className="text-2xl font-bold tracking-tight text-[#0D5E42] lg:text-3xl">
+              {BRAND.fullNameZh}
+            </h2>
+            <p className="mt-1 text-xs font-semibold tracking-[0.2em] text-[#0D5E42]/70">{BRAND.labNameEn.toUpperCase()}</p>
+            <p className="mt-4 text-base font-medium text-gray-700 sm:text-lg">{BRAND.slogan}</p>
+            <p className="mt-1 text-sm tracking-wide text-gray-400">{BRAND.sloganEn}</p>
+            <div className="mt-6 max-w-2xl space-y-3 text-sm leading-relaxed text-gray-600 sm:text-base">
+              <p>
+                <strong className="font-semibold text-gray-800">{BRAND.productNameZh}（{BRAND.productNameEn}）</strong>
+                是{BRAND.fullNameZh}出品的键盘学习产品，定位于
+                {BRAND.productTagline.replace(/ · /g, '、')}。
+              </p>
+              <p>
+                「鹿溪」寓意在复杂知识中看见规律（见鹿），以清澈、可持续的技术与练习路径启源赋能（源启清溪）。
+                实验室使命：{BRAND.mission}
+              </p>
+              <p className="text-gray-500">
+                本产品基于开源项目 Qwerty Learner 二次开发；练习引擎与部分词库承自上游社区，品牌与课程内容由实验室定制扩展。
+              </p>
             </div>
           </div>
         </section>
@@ -1129,8 +1085,19 @@ const MobilePage: React.FC = () => {
           </div>
         </section>
       </main>
+
+      <footer className="border-t border-emerald-900/10 bg-white px-6 py-10 text-center lg:px-24">
+        <p className="text-sm font-semibold text-[#0D5E42]">
+          {BRAND.productNameZh} · {BRAND.productNameEn}
+        </p>
+        <p className="mt-1 text-xs text-gray-500">
+          {BRAND.fullNameZh} 出品 · {BRAND.slogan}
+        </p>
+        <p className="mt-2 text-[11px] text-gray-400">{BRAND.productTagline}</p>
+      </footer>
     </div>
   )
 }
 
 export default MobilePage
+
