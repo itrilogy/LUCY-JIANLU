@@ -1,0 +1,7 @@
+{
+  "id": "js-basics-level1",
+  "title": "JavaScript 基础控制流与函数 (Level 1)",
+  "language": "code",
+  "codeLanguage": "javascript",
+  "content": "//: 💡 示例 1：检查用户年龄并判断是否成年\nfunction checkAdult(age) {\n  // 验证输入年龄是否大于等于 18 岁\n  if (age >= 18) {\n    return true;\n  } else {\n    return false;\n  }\n}\n\n//: 💡 示例 2：使用 for 循环计算 1 到 N 的累加和\nfunction calculateSum(n) {\n  let total = 0;\n  for (let i = 1; i <= n; i++) {\n    total += i;\n  }\n  return total;\n}"
+}

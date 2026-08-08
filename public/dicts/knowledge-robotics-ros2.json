@@ -1,0 +1,1042 @@
+[
+  {
+    "name": "callback",
+    "trans": [
+      "回调函数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transpose",
+    "trans": [
+      "转置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "maximum likelihood",
+    "trans": [
+      "最大似然"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gross domestic product",
+    "trans": [
+      "国内生产总值 GDP"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prospect theory",
+    "trans": [
+      "前景理论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cross section",
+    "trans": [
+      "横截面数据"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cross validation",
+    "trans": [
+      "交叉验证"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "animal spirits",
+    "trans": [
+      "动物精神"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "margin of safety",
+    "trans": [
+      "安全边际"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ROS2",
+    "trans": [
+      "机器人操作系统第二代"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ROS",
+    "trans": [
+      "机器人操作系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nav2",
+    "trans": [
+      "ROS2 导航栈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "SLAM",
+    "trans": [
+      "同步定位与地图构建"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "LiDAR",
+    "trans": [
+      "激光雷达"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "2D LiDAR",
+    "trans": [
+      "二维激光雷达"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gazebo",
+    "trans": [
+      "机器人仿真环境"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "URDF",
+    "trans": [
+      "统一机器人描述格式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Xacro",
+    "trans": [
+      "URDF 宏语言"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tf2",
+    "trans": [
+      "ROS 坐标变换库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "base_link",
+    "trans": [
+      "机器人基坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "odometry",
+    "trans": [
+      "里程计"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "path planning",
+    "trans": [
+      "路径规划"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "global planner",
+    "trans": [
+      "全局规划器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "local planner",
+    "trans": [
+      "局部规划器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "costmap",
+    "trans": [
+      "代价地图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "occupancy grid",
+    "trans": [
+      "占用栅格地图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "point cloud",
+    "trans": [
+      "点云"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "laser scan",
+    "trans": [
+      "激光扫描"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "RViz",
+    "trans": [
+      "ROS 可视化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rclpy",
+    "trans": [
+      "ROS2 Python 客户端"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rclcpp",
+    "trans": [
+      "ROS2 C++ 客户端"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "publisher",
+    "trans": [
+      "发布者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "subscriber",
+    "trans": [
+      "订阅者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "QoS",
+    "trans": [
+      "通信服务质量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "launch file",
+    "trans": [
+      "启动文件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "colcon",
+    "trans": [
+      "ROS2 构建工具"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ament",
+    "trans": [
+      "ROS2 构建系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "micro-ROS",
+    "trans": [
+      "微控制器 ROS"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ESP32",
+    "trans": [
+      "ESP32 微控制器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Arduino",
+    "trans": [
+      "Arduino 平台"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Raspberry Pi",
+    "trans": [
+      "树莓派"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Home Assistant",
+    "trans": [
+      "开源智能家居平台"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "firmware",
+    "trans": [
+      "固件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PCB",
+    "trans": [
+      "印刷电路板"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "BOM",
+    "trans": [
+      "物料清单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "3D printing",
+    "trans": [
+      "3D 打印"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "FDM",
+    "trans": [
+      "熔融沉积成型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chassis",
+    "trans": [
+      "底盘"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "differential drive",
+    "trans": [
+      "差速驱动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "motor driver",
+    "trans": [
+      "电机驱动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "encoder",
+    "trans": [
+      "编码器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "IMU",
+    "trans": [
+      "惯性测量单元"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bumper",
+    "trans": [
+      "防撞条"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "suction fan",
+    "trans": [
+      "吸尘风机"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "docking",
+    "trans": [
+      "回充对接"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bringup",
+    "trans": [
+      "整机联调"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "simulation-first",
+    "trans": [
+      "仿真优先"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interface contract",
+    "trans": [
+      "接口契约"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "module boundary",
+    "trans": [
+      "模块边界"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "safety review",
+    "trans": [
+      "安全评审"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Apache-2.0",
+    "trans": [
+      "Apache 2.0 许可"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vendor lock-in",
+    "trans": [
+      "厂商锁定"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "local-first",
+    "trans": [
+      "本地优先"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "telemetry",
+    "trans": [
+      "遥测"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "watchdog",
+    "trans": [
+      "看门狗"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "recovery behavior",
+    "trans": [
+      "恢复行为"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "obstacle avoidance",
+    "trans": [
+      "避障"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "coverage path planning",
+    "trans": [
+      "覆盖路径规划"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sensor fusion",
+    "trans": [
+      "传感器融合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "state estimation",
+    "trans": [
+      "状态估计"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PID control",
+    "trans": [
+      "PID 控制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "embedded system",
+    "trans": [
+      "嵌入式系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "GPIO",
+    "trans": [
+      "通用输入输出"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "I2C",
+    "trans": [
+      "I2C 总线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "SPI",
+    "trans": [
+      "SPI 总线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "UART",
+    "trans": [
+      "串口"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PWM",
+    "trans": [
+      "脉宽调制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "digital twin",
+    "trans": [
+      "数字孪生"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hackable",
+    "trans": [
+      "可改装"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bill of materials",
+    "trans": [
+      "物料清单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "teardown",
+    "trans": [
+      "拆机分析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reference design",
+    "trans": [
+      "参考设计"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "thread safety",
+    "trans": [
+      "线程安全"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "executor",
+    "trans": [
+      "ROS2 执行器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "callback group",
+    "trans": [
+      "回调组"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rosbag",
+    "trans": [
+      "ROS 录包"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reliable QoS",
+    "trans": [
+      "可靠 QoS"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Docker",
+    "trans": [
+      "Docker 容器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "brush motor",
+    "trans": [
+      "边刷电机"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "I/O board",
+    "trans": [
+      "IO 电路板"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "firmware update",
+    "trans": [
+      "固件更新"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "over-the-air",
+    "trans": [
+      "空中升级"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gazebo plugin",
+    "trans": [
+      "Gazebo 插件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "URDF joint",
+    "trans": [
+      "URDF 关节"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pose",
+    "trans": [
+      "位姿"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "frame_id",
+    "trans": [
+      "坐标系 id"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "child frame",
+    "trans": [
+      "子坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "parent frame",
+    "trans": [
+      "父坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "map frame",
+    "trans": [
+      "地图坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "odom frame",
+    "trans": [
+      "里程计坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "AMCL",
+    "trans": [
+      "自适应蒙特卡洛定位"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "slam_toolbox",
+    "trans": [
+      "SLAM 工具箱"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "behavior tree",
+    "trans": [
+      "行为树"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spin recovery",
+    "trans": [
+      "旋转恢复"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "backup recovery",
+    "trans": [
+      "后退恢复"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wait recovery",
+    "trans": [
+      "等待恢复"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "goal pose",
+    "trans": [
+      "目标位姿"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "waypoint",
+    "trans": [
+      "航点"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "path follower",
+    "trans": [
+      "路径跟随"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "controller server",
+    "trans": [
+      "控制器服务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "planner server",
+    "trans": [
+      "规划器服务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "footprint",
+    "trans": [
+      "足迹轮廓"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inflation radius",
+    "trans": [
+      "膨胀半径"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lethal cost",
+    "trans": [
+      "致命代价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unknown space",
+    "trans": [
+      "未知空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "free space",
+    "trans": [
+      "自由空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "occupied space",
+    "trans": [
+      "占用空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "OOMWOO",
+    "trans": [
+      "开源扫地机器项目"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "makerspet",
+    "trans": [
+      "OOMWOO 社区组织"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "simulation world",
+    "trans": [
+      "仿真世界"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bringup launch",
+    "trans": [
+      "联调启动文件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "safety interlock",
+    "trans": [
+      "安全互锁"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "estop",
+    "trans": [
+      "急停"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "watchdog timeout",
+    "trans": [
+      "看门狗超时"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "heartbeat",
+    "trans": [
+      "心跳包"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "health check",
+    "trans": [
+      "健康检查"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "graceful shutdown",
+    "trans": [
+      "优雅停机"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "degraded mode",
+    "trans": [
+      "降级模式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fail-safe",
+    "trans": [
+      "失效安全"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fail-soft",
+    "trans": [
+      "失效软化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  }
+]

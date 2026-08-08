@@ -1,0 +1,682 @@
+[
+  {
+    "name": "clearing house",
+    "trans": [
+      "清算所"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "data warehouse",
+    "trans": [
+      "数据仓库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "black swan",
+    "trans": [
+      "黑天鹅事件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fat tail",
+    "trans": [
+      "肥尾分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "skewness",
+    "trans": [
+      "偏度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "kurtosis",
+    "trans": [
+      "峰度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cumulant",
+    "trans": [
+      "累积量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "regime",
+    "trans": [
+      "市场状态；体制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "regime switching",
+    "trans": [
+      "状态切换模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "GMM",
+    "trans": [
+      "高斯混合模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Markov chain",
+    "trans": [
+      "马尔可夫链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transition matrix",
+    "trans": [
+      "转移矩阵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stationary distribution",
+    "trans": [
+      "稳态分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feedback loop",
+    "trans": [
+      "反馈回路"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "house edge",
+    "trans": [
+      "庄家优势"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "odds",
+    "trans": [
+      "赔率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "expected payoff",
+    "trans": [
+      "期望收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lottery",
+    "trans": [
+      "彩票"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "jackpot",
+    "trans": [
+      "头奖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prize pool",
+    "trans": [
+      "奖池"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ticket sales",
+    "trans": [
+      "投注额"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "frequency analysis",
+    "trans": [
+      "频次分析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chi-square test",
+    "trans": [
+      "卡方检验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "goodness of fit",
+    "trans": [
+      "拟合优度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "uniform distribution",
+    "trans": [
+      "均匀分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "independence test",
+    "trans": [
+      "独立性检验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "crawler",
+    "trans": [
+      "爬虫"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feature vector",
+    "trans": [
+      "特征向量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "precompute",
+    "trans": [
+      "预计算"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scheduler",
+    "trans": [
+      "调度器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "APScheduler",
+    "trans": [
+      "Python 定时调度库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Flask",
+    "trans": [
+      "Flask Web 框架"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "validator",
+    "trans": [
+      "验证器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "genetic algorithm",
+    "trans": [
+      "遗传算法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "candidate sampling",
+    "trans": [
+      "候选采样"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scoring",
+    "trans": [
+      "打分"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "orchestration",
+    "trans": [
+      "编排"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "data hub",
+    "trans": [
+      "数据中枢"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bettor behavior",
+    "trans": [
+      "投注者行为"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gambler fallacy",
+    "trans": [
+      "赌徒谬误"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "system 1",
+    "trans": [
+      "系统1快思考"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "system 2",
+    "trans": [
+      "系统2慢思考"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "irrational exuberance",
+    "trans": [
+      "非理性繁荣"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "asymmetric payoff",
+    "trans": [
+      "不对称收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "convex payoff",
+    "trans": [
+      "凸性收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prize structure",
+    "trans": [
+      "奖金结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bookmaker",
+    "trans": [
+      "庄家"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "look-ahead bias",
+    "trans": [
+      "前视偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "survivorship bias",
+    "trans": [
+      "幸存者偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "walk-forward",
+    "trans": [
+      "前向滚动验证"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "out of sample",
+    "trans": [
+      "样本外"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "in sample",
+    "trans": [
+      "样本内"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transition probability",
+    "trans": [
+      "转移概率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "state space",
+    "trans": [
+      "状态空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "latent variable",
+    "trans": [
+      "潜变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mixture model",
+    "trans": [
+      "混合模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "EM algorithm",
+    "trans": [
+      "期望最大化算法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "p-hacking",
+    "trans": [
+      "p值操纵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reproducibility",
+    "trans": [
+      "可复现性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "annotated code",
+    "trans": [
+      "注解代码"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "house model",
+    "trans": [
+      "庄家模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feedback mechanism",
+    "trans": [
+      "反馈机制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "predictability",
+    "trans": [
+      "可预测性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "production system",
+    "trans": [
+      "生产系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "analysis script",
+    "trans": [
+      "分析脚本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "web service",
+    "trans": [
+      "Web 服务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "configuration",
+    "trans": [
+      "配置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "traceback",
+    "trans": [
+      "堆栈追踪"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "logging",
+    "trans": [
+      "日志"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "soft assignment",
+    "trans": [
+      "软分配"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hard assignment",
+    "trans": [
+      "硬分配"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market heat",
+    "trans": [
+      "市场热度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prize feedback",
+    "trans": [
+      "奖池反馈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "jackpot rollover",
+    "trans": [
+      "奖池滚存"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "independent draw",
+    "trans": [
+      "独立开奖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "probability modeling",
+    "trans": [
+      "概率建模"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "FinTech starter",
+    "trans": [
+      "FinTech 起步项目"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ssq predictor",
+    "trans": [
+      "双色球预测系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dual validator",
+    "trans": [
+      "双向验证器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market regime",
+    "trans": [
+      "市场 Regime"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "number frequency",
+    "trans": [
+      "号码频次"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "distribution test",
+    "trans": [
+      "分布检验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scraping pipeline",
+    "trans": [
+      "抓取流水线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "JSON dataset",
+    "trans": [
+      "JSON 数据集"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feature precompute",
+    "trans": [
+      "特征预计算"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  }
+]

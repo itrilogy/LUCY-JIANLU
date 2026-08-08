@@ -1,0 +1,1762 @@
+[
+  {
+    "name": "variable",
+    "trans": [
+      "变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "principal",
+    "trans": [
+      "本金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interest",
+    "trans": [
+      "利息；利益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "simple interest",
+    "trans": [
+      "单利"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "compound interest",
+    "trans": [
+      "复利"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "annual rate",
+    "trans": [
+      "年利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "yield",
+    "trans": [
+      "收益率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "return on investment",
+    "trans": [
+      "投资回报率 ROI"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "discount rate",
+    "trans": [
+      "贴现率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "annuity",
+    "trans": [
+      "年金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "maturity",
+    "trans": [
+      "到期日；期限"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "coupon",
+    "trans": [
+      "票息"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bond",
+    "trans": [
+      "债券"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "equity",
+    "trans": [
+      "股权；权益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "asset",
+    "trans": [
+      "资产"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "liability",
+    "trans": [
+      "负债"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "portfolio",
+    "trans": [
+      "投资组合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "volatility",
+    "trans": [
+      "波动率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "liquidity",
+    "trans": [
+      "流动性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "order",
+    "trans": [
+      "订单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "settlement",
+    "trans": [
+      "清算；交收"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clearing",
+    "trans": [
+      "清算"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "notional",
+    "trans": [
+      "名义本金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "leverage",
+    "trans": [
+      "杠杆"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "margin",
+    "trans": [
+      "保证金；利润率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hedge",
+    "trans": [
+      "对冲"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "arbitrage",
+    "trans": [
+      "套利"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "risk",
+    "trans": [
+      "风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "risk premium",
+    "trans": [
+      "风险溢价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "value at risk",
+    "trans": [
+      "风险价值 VaR"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "drawdown",
+    "trans": [
+      "回撤"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sharpe ratio",
+    "trans": [
+      "夏普比率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "covariance",
+    "trans": [
+      "协方差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "variance",
+    "trans": [
+      "方差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "option",
+    "trans": [
+      "期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "futures",
+    "trans": [
+      "期货"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "swap",
+    "trans": [
+      "互换"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dividend",
+    "trans": [
+      "股息"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fund",
+    "trans": [
+      "基金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "index fund",
+    "trans": [
+      "指数基金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "premium",
+    "trans": [
+      "保费；溢价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "credit",
+    "trans": [
+      "信贷；信用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "default",
+    "trans": [
+      "违约"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "marginal",
+    "trans": [
+      "边际的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "utility",
+    "trans": [
+      "效用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "GDP",
+    "trans": [
+      "国内生产总值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inflation",
+    "trans": [
+      "通货膨胀"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "monetary policy",
+    "trans": [
+      "货币政策"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fiscal policy",
+    "trans": [
+      "财政政策"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interest rate",
+    "trans": [
+      "利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "central bank",
+    "trans": [
+      "中央银行"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cash flow",
+    "trans": [
+      "现金流"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "credit entry",
+    "trans": [
+      "贷方（会计分录）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "efficient market",
+    "trans": [
+      "有效市场"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "systemic risk",
+    "trans": [
+      "系统性风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clearing house",
+    "trans": [
+      "清算所"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "KYC",
+    "trans": [
+      "了解你的客户"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "AML",
+    "trans": [
+      "反洗钱"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ESG",
+    "trans": [
+      "环境社会治理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "DeFi",
+    "trans": [
+      "去中心化金融"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "blockchain",
+    "trans": [
+      "区块链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "marginal cost",
+    "trans": [
+      "边际成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "portfolio weight",
+    "trans": [
+      "组合权重"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mean variance",
+    "trans": [
+      "均值-方差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "covariance matrix",
+    "trans": [
+      "协方差矩阵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "random variable",
+    "trans": [
+      "随机变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Bayes theorem",
+    "trans": [
+      "贝叶斯定理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unbiased",
+    "trans": [
+      "无偏的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "open market operation",
+    "trans": [
+      "公开市场操作"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "policy rate",
+    "trans": [
+      "政策利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exchange rate",
+    "trans": [
+      "汇率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cash basis",
+    "trans": [
+      "收付实现制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "working capital",
+    "trans": [
+      "营运资本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "free cash flow",
+    "trans": [
+      "自由现金流 FCF"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "leverage ratio",
+    "trans": [
+      "杠杆比率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "liquidity ratio",
+    "trans": [
+      "流动性比率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "yield curve",
+    "trans": [
+      "收益率曲线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "duration",
+    "trans": [
+      "久期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "convexity",
+    "trans": [
+      "凸性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "credit spread",
+    "trans": [
+      "信用利差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sovereign bond",
+    "trans": [
+      "主权债"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "corporate bond",
+    "trans": [
+      "公司债"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "call option",
+    "trans": [
+      "看涨期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "put option",
+    "trans": [
+      "看跌期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "strike price",
+    "trans": [
+      "行权价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "OTC",
+    "trans": [
+      "场外交易"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exchange traded",
+    "trans": [
+      "场内交易的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mark to market",
+    "trans": [
+      "盯市"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "CAPM",
+    "trans": [
+      "资本资产定价模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market portfolio",
+    "trans": [
+      "市场组合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "risk free rate",
+    "trans": [
+      "无风险利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "security market line",
+    "trans": [
+      "证券市场线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "asset allocation",
+    "trans": [
+      "资产配置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "strategic allocation",
+    "trans": [
+      "战略配置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "IPO",
+    "trans": [
+      "首次公开发行"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "secondary market",
+    "trans": [
+      "二级市场"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "primary market",
+    "trans": [
+      "一级市场"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "open banking",
+    "trans": [
+      "开放银行"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "capital adequacy",
+    "trans": [
+      "资本充足"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "operational risk",
+    "trans": [
+      "操作风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "price discrimination",
+    "trans": [
+      "价格歧视"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "behavioral bias",
+    "trans": [
+      "行为偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "availability bias",
+    "trans": [
+      "可得性偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "confirmation bias",
+    "trans": [
+      "确认偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ORDER BY",
+    "trans": [
+      "排序子句"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "data warehouse",
+    "trans": [
+      "数据仓库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "YAML",
+    "trans": [
+      "YAML 配置/元数据语言"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "WACC",
+    "trans": [
+      "加权平均资本成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "NPV",
+    "trans": [
+      "净现值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "IRR",
+    "trans": [
+      "内部收益率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cost of capital",
+    "trans": [
+      "资本成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cost of equity",
+    "trans": [
+      "权益成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cost of debt",
+    "trans": [
+      "债务成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "equity value",
+    "trans": [
+      "股权价值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "DCF",
+    "trans": [
+      "现金流折现"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "capital structure",
+    "trans": [
+      "资本结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dividend policy",
+    "trans": [
+      "股利政策"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "corporate governance",
+    "trans": [
+      "公司治理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market impact",
+    "trans": [
+      "市场冲击"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "limit order",
+    "trans": [
+      "限价单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market order",
+    "trans": [
+      "市价单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market making",
+    "trans": [
+      "做市"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "order book",
+    "trans": [
+      "订单簿"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mankiw",
+    "trans": [
+      "曼昆（经济学原理）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mishkin",
+    "trans": [
+      "米什金（货币金融学）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Bodie",
+    "trans": [
+      "博迪（投资学）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Hull",
+    "trans": [
+      "赫尔（期权期货）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Taleb",
+    "trans": [
+      "塔勒布（黑天鹅）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Kahneman",
+    "trans": [
+      "卡尼曼（思考快与慢）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Shiller",
+    "trans": [
+      "席勒（非理性繁荣）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Munger",
+    "trans": [
+      "芒格（穷查理宝典）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Black-Scholes",
+    "trans": [
+      "布莱克-舒尔斯模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "black swan",
+    "trans": [
+      "黑天鹅事件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fat tail",
+    "trans": [
+      "肥尾分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "regime",
+    "trans": [
+      "市场状态；体制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "regime switching",
+    "trans": [
+      "状态切换模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "GMM",
+    "trans": [
+      "高斯混合模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Markov chain",
+    "trans": [
+      "马尔可夫链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transition matrix",
+    "trans": [
+      "转移矩阵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stationary distribution",
+    "trans": [
+      "稳态分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feedback loop",
+    "trans": [
+      "反馈回路"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "house edge",
+    "trans": [
+      "庄家优势"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "odds",
+    "trans": [
+      "赔率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "expected payoff",
+    "trans": [
+      "期望收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lottery",
+    "trans": [
+      "彩票"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "jackpot",
+    "trans": [
+      "头奖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prize pool",
+    "trans": [
+      "奖池"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ticket sales",
+    "trans": [
+      "投注额"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "frequency analysis",
+    "trans": [
+      "频次分析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chi-square test",
+    "trans": [
+      "卡方检验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "goodness of fit",
+    "trans": [
+      "拟合优度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "crawler",
+    "trans": [
+      "爬虫"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scheduler",
+    "trans": [
+      "调度器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "APScheduler",
+    "trans": [
+      "Python 定时调度库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Flask",
+    "trans": [
+      "Flask Web 框架"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "validator",
+    "trans": [
+      "验证器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scoring",
+    "trans": [
+      "打分"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "orchestration",
+    "trans": [
+      "编排"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "data hub",
+    "trans": [
+      "数据中枢"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bettor behavior",
+    "trans": [
+      "投注者行为"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gambler fallacy",
+    "trans": [
+      "赌徒谬误"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "availability heuristic",
+    "trans": [
+      "可得性启发"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "representativeness heuristic",
+    "trans": [
+      "代表性启发"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "system 1",
+    "trans": [
+      "系统1快思考"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "system 2",
+    "trans": [
+      "系统2慢思考"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "irrational exuberance",
+    "trans": [
+      "非理性繁荣"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "animal spirits",
+    "trans": [
+      "动物精神"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "skin in the game",
+    "trans": [
+      "利益攸关"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "circle of competence",
+    "trans": [
+      "能力圈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "margin of safety",
+    "trans": [
+      "安全边际"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bank run",
+    "trans": [
+      "银行挤兑"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "asymmetric payoff",
+    "trans": [
+      "不对称收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "optionality",
+    "trans": [
+      "期权性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "convex payoff",
+    "trans": [
+      "凸性收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tail risk",
+    "trans": [
+      "尾部风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "left tail",
+    "trans": [
+      "左尾"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "right tail",
+    "trans": [
+      "右尾"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prize structure",
+    "trans": [
+      "奖金结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bookmaker",
+    "trans": [
+      "庄家"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inventory risk",
+    "trans": [
+      "库存风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "model risk",
+    "trans": [
+      "模型风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "look-ahead bias",
+    "trans": [
+      "前视偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "survivorship bias",
+    "trans": [
+      "幸存者偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "walk-forward",
+    "trans": [
+      "前向滚动验证"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transition probability",
+    "trans": [
+      "转移概率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "state space",
+    "trans": [
+      "状态空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "latent variable",
+    "trans": [
+      "潜变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mixture model",
+    "trans": [
+      "混合模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "EM algorithm",
+    "trans": [
+      "期望最大化算法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Bayesian update",
+    "trans": [
+      "贝叶斯更新"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "entropy",
+    "trans": [
+      "熵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mutual information",
+    "trans": [
+      "互信息"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spurious correlation",
+    "trans": [
+      "伪相关"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "p-hacking",
+    "trans": [
+      "p值操纵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "liquidity preference",
+    "trans": [
+      "流动性偏好"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Fisher effect",
+    "trans": [
+      "费雪效应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quantity theory of money",
+    "trans": [
+      "货币数量论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "velocity of money",
+    "trans": [
+      "货币流通速度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "term structure",
+    "trans": [
+      "期限结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "forward rate",
+    "trans": [
+      "远期利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spot rate",
+    "trans": [
+      "即期利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "par yield",
+    "trans": [
+      "平价收益率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dirty price",
+    "trans": [
+      "含息全价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clean price",
+    "trans": [
+      "净价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "accrued interest",
+    "trans": [
+      "应计利息"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "day count convention",
+    "trans": [
+      "计日惯例"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "put-call parity",
+    "trans": [
+      "看跌看涨平价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "implied volatility",
+    "trans": [
+      "隐含波动率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "historical volatility",
+    "trans": [
+      "历史波动率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Greeks",
+    "trans": [
+      "期权希腊字母"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "delta hedging",
+    "trans": [
+      "德尔塔对冲"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gamma",
+    "trans": [
+      "伽马"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vega",
+    "trans": [
+      "维加"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "theta",
+    "trans": [
+      "西塔时间损耗"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "American option",
+    "trans": [
+      "美式期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "European option",
+    "trans": [
+      "欧式期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "binomial tree",
+    "trans": [
+      "二叉树定价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "risk-neutral",
+    "trans": [
+      "风险中性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "no-arbitrage",
+    "trans": [
+      "无套利"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "replicating portfolio",
+    "trans": [
+      "复制组合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  }
+]

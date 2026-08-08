@@ -1,0 +1,7546 @@
+[
+  {
+    "name": "variable",
+    "trans": [
+      "变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "constant",
+    "trans": [
+      "常量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "function",
+    "trans": [
+      "函数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "parameter",
+    "trans": [
+      "参数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "argument",
+    "trans": [
+      "实参；参数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "boolean",
+    "trans": [
+      "布尔值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "integer",
+    "trans": [
+      "整数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "string",
+    "trans": [
+      "字符串"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "array",
+    "trans": [
+      "数组"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "object",
+    "trans": [
+      "对象"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "loop",
+    "trans": [
+      "循环"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "condition",
+    "trans": [
+      "条件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "syntax",
+    "trans": [
+      "语法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "module",
+    "trans": [
+      "模块"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "import",
+    "trans": [
+      "导入"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "export",
+    "trans": [
+      "导出"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "debug",
+    "trans": [
+      "调试"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "compile",
+    "trans": [
+      "编译"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "runtime",
+    "trans": [
+      "运行时"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "algorithm",
+    "trans": [
+      "算法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dictionary",
+    "trans": [
+      "字典；映射表"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "list",
+    "trans": [
+      "列表"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tuple",
+    "trans": [
+      "元组"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "set",
+    "trans": [
+      "集合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "map",
+    "trans": [
+      "映射；Array.map"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "filter",
+    "trans": [
+      "过滤；筛选"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reduce",
+    "trans": [
+      "归约；累计"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "iterator",
+    "trans": [
+      "迭代器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "generator",
+    "trans": [
+      "生成器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "closure",
+    "trans": [
+      "闭包"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "recursion",
+    "trans": [
+      "递归"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "callback",
+    "trans": [
+      "回调函数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "promise",
+    "trans": [
+      "Promise 异步承诺"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "async",
+    "trans": [
+      "异步的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "await",
+    "trans": [
+      "等待异步结果"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exception",
+    "trans": [
+      "异常"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stack",
+    "trans": [
+      "栈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "queue",
+    "trans": [
+      "队列"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "binary search",
+    "trans": [
+      "二分查找"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "linked list",
+    "trans": [
+      "链表"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interface",
+    "trans": [
+      "接口"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "class",
+    "trans": [
+      "类"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "instance",
+    "trans": [
+      "实例"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "method",
+    "trans": [
+      "方法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "property",
+    "trans": [
+      "属性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "generic",
+    "trans": [
+      "泛型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "debounce",
+    "trans": [
+      "防抖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "throttle",
+    "trans": [
+      "节流"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cache",
+    "trans": [
+      "缓存"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "latency",
+    "trans": [
+      "延迟"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "refactor",
+    "trans": [
+      "重构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "repository",
+    "trans": [
+      "代码仓库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "commit",
+    "trans": [
+      "提交（版本）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "branch",
+    "trans": [
+      "分支"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "merge",
+    "trans": [
+      "合并"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pipeline",
+    "trans": [
+      "流水线；管道"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "endpoint",
+    "trans": [
+      "接口端点"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "payload",
+    "trans": [
+      "载荷；请求体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "validation",
+    "trans": [
+      "校验；验证"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "middleware",
+    "trans": [
+      "中间件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "principal",
+    "trans": [
+      "本金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interest",
+    "trans": [
+      "利息；利益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "compound",
+    "trans": [
+      "复利的；复合的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "simple interest",
+    "trans": [
+      "单利"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "compound interest",
+    "trans": [
+      "复利"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "annual rate",
+    "trans": [
+      "年利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "yield",
+    "trans": [
+      "收益率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "return on investment",
+    "trans": [
+      "投资回报率 ROI"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "horizon",
+    "trans": [
+      "投资期限"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "present value",
+    "trans": [
+      "现值 PV"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "future value",
+    "trans": [
+      "终值 FV"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "discount rate",
+    "trans": [
+      "贴现率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "annuity",
+    "trans": [
+      "年金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "amortization",
+    "trans": [
+      "摊销；等额还款"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "installment",
+    "trans": [
+      "分期付款"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "maturity",
+    "trans": [
+      "到期日；期限"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "coupon",
+    "trans": [
+      "票息"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bond",
+    "trans": [
+      "债券"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "equity",
+    "trans": [
+      "股权；权益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "asset",
+    "trans": [
+      "资产"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "liability",
+    "trans": [
+      "负债"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "portfolio",
+    "trans": [
+      "投资组合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "diversification",
+    "trans": [
+      "分散投资"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "allocation",
+    "trans": [
+      "资产配置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rebalance",
+    "trans": [
+      "再平衡"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "volatility",
+    "trans": [
+      "波动率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "liquidity",
+    "trans": [
+      "流动性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bid",
+    "trans": [
+      "买价；出价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ask",
+    "trans": [
+      "卖价；要价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spread",
+    "trans": [
+      "价差；点差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "order",
+    "trans": [
+      "订单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "settlement",
+    "trans": [
+      "清算；交收"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clearing",
+    "trans": [
+      "清算"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "notional",
+    "trans": [
+      "名义本金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "leverage",
+    "trans": [
+      "杠杆"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "margin",
+    "trans": [
+      "保证金；利润率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exposure",
+    "trans": [
+      "风险敞口"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hedge",
+    "trans": [
+      "对冲"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "arbitrage",
+    "trans": [
+      "套利"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "benchmark",
+    "trans": [
+      "基准（指数）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "risk",
+    "trans": [
+      "风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "risk premium",
+    "trans": [
+      "风险溢价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "value at risk",
+    "trans": [
+      "风险价值 VaR"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "drawdown",
+    "trans": [
+      "回撤"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sharpe ratio",
+    "trans": [
+      "夏普比率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "beta",
+    "trans": [
+      "贝塔系数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "correlation",
+    "trans": [
+      "相关性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "covariance",
+    "trans": [
+      "协方差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "standard deviation",
+    "trans": [
+      "标准差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "variance",
+    "trans": [
+      "方差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "expected value",
+    "trans": [
+      "期望值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "probability",
+    "trans": [
+      "概率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quantile",
+    "trans": [
+      "分位数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "distribution",
+    "trans": [
+      "分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sample",
+    "trans": [
+      "样本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "population",
+    "trans": [
+      "总体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "regression",
+    "trans": [
+      "回归"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feature",
+    "trans": [
+      "特征（机器学习）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "overfitting",
+    "trans": [
+      "过拟合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "backtest",
+    "trans": [
+      "回测"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "derivative",
+    "trans": [
+      "衍生品"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "option",
+    "trans": [
+      "期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "futures",
+    "trans": [
+      "期货"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "forward",
+    "trans": [
+      "远期合约"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "swap",
+    "trans": [
+      "互换"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "security",
+    "trans": [
+      "证券"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stock",
+    "trans": [
+      "股票"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "share",
+    "trans": [
+      "股份；份额"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dividend",
+    "trans": [
+      "股息"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fund",
+    "trans": [
+      "基金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "index fund",
+    "trans": [
+      "指数基金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ETF",
+    "trans": [
+      "交易型开放式指数基金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "insurance",
+    "trans": [
+      "保险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "premium",
+    "trans": [
+      "保费；溢价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "underwriting",
+    "trans": [
+      "承销；核保"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "credit",
+    "trans": [
+      "信贷；信用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "default",
+    "trans": [
+      "违约"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "collateral",
+    "trans": [
+      "抵押品"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "regulation",
+    "trans": [
+      "监管；法规"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "compliance",
+    "trans": [
+      "合规"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "supply",
+    "trans": [
+      "供给"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "demand",
+    "trans": [
+      "需求"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "equilibrium",
+    "trans": [
+      "均衡"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "elasticity",
+    "trans": [
+      "弹性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "marginal",
+    "trans": [
+      "边际的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "utility",
+    "trans": [
+      "效用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "GDP",
+    "trans": [
+      "国内生产总值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inflation",
+    "trans": [
+      "通货膨胀"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unemployment",
+    "trans": [
+      "失业"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "monetary policy",
+    "trans": [
+      "货币政策"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fiscal policy",
+    "trans": [
+      "财政政策"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interest rate",
+    "trans": [
+      "利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "central bank",
+    "trans": [
+      "中央银行"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "balance sheet",
+    "trans": [
+      "资产负债表"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "income statement",
+    "trans": [
+      "利润表"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cash flow",
+    "trans": [
+      "现金流"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "double entry",
+    "trans": [
+      "复式记账"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "debit",
+    "trans": [
+      "借方"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "credit entry",
+    "trans": [
+      "贷方（会计分录）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "audit",
+    "trans": [
+      "审计"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "adverse selection",
+    "trans": [
+      "逆向选择"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "moral hazard",
+    "trans": [
+      "道德风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "asymmetric information",
+    "trans": [
+      "信息不对称"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "loss aversion",
+    "trans": [
+      "损失厌恶"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "overconfidence",
+    "trans": [
+      "过度自信"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "efficient market",
+    "trans": [
+      "有效市场"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bubble",
+    "trans": [
+      "泡沫"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "crisis",
+    "trans": [
+      "危机"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "contagion",
+    "trans": [
+      "传染（风险）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "systemic risk",
+    "trans": [
+      "系统性风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fintech",
+    "trans": [
+      "金融科技"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "payment",
+    "trans": [
+      "支付"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clearing house",
+    "trans": [
+      "清算所"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "KYC",
+    "trans": [
+      "了解你的客户"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "AML",
+    "trans": [
+      "反洗钱"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ESG",
+    "trans": [
+      "环境社会治理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "DeFi",
+    "trans": [
+      "去中心化金融"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "blockchain",
+    "trans": [
+      "区块链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "smart contract",
+    "trans": [
+      "智能合约"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "oracle",
+    "trans": [
+      "预言机（链上）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "markdown",
+    "trans": [
+      "Markdown 标记语言"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "frontmatter",
+    "trans": [
+      "文前元数据"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "metadata",
+    "trans": [
+      "元数据"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vault",
+    "trans": [
+      "仓库（Obsidian）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wikilink",
+    "trans": [
+      "双向链接"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "backlink",
+    "trans": [
+      "反向链接"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "graph",
+    "trans": [
+      "图谱；图结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "callout",
+    "trans": [
+      "提示块；标注"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "template",
+    "trans": [
+      "模板"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "atomic note",
+    "trans": [
+      "原子笔记"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "evergreen note",
+    "trans": [
+      "常青笔记"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fleeting note",
+    "trans": [
+      "闪念笔记"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Zettelkasten",
+    "trans": [
+      "卡片盒笔记法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "outline",
+    "trans": [
+      "大纲"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "heading",
+    "trans": [
+      "标题"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bullet",
+    "trans": [
+      "项目符号"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "checkbox",
+    "trans": [
+      "复选框"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "embed",
+    "trans": [
+      "嵌入"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "plugin",
+    "trans": [
+      "插件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dataview",
+    "trans": [
+      "Dataview 查询插件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "flowchart",
+    "trans": [
+      "流程图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sequence diagram",
+    "trans": [
+      "时序图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "state diagram",
+    "trans": [
+      "状态图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gantt chart",
+    "trans": [
+      "甘特图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "entity",
+    "trans": [
+      "实体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "relationship",
+    "trans": [
+      "关系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "workflow",
+    "trans": [
+      "工作流"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "knowledge graph",
+    "trans": [
+      "知识图谱"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "taxonomy",
+    "trans": [
+      "分类体系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ontology",
+    "trans": [
+      "本体；本体论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "retrieval",
+    "trans": [
+      "检索"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spaced repetition",
+    "trans": [
+      "间隔重复"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "progressive summary",
+    "trans": [
+      "渐进式总结"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "MOC",
+    "trans": [
+      "内容地图 Map of Content"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PARA",
+    "trans": [
+      "Projects/Areas/Resources/Archives"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "daily note",
+    "trans": [
+      "日记笔记"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inbox",
+    "trans": [
+      "收集箱"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "archive",
+    "trans": [
+      "归档"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "publish",
+    "trans": [
+      "发布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sync",
+    "trans": [
+      "同步"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "API",
+    "trans": [
+      "应用程序接口"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "REST",
+    "trans": [
+      "表述性状态转移接口风格"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "HTTP",
+    "trans": [
+      "超文本传输协议"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "request",
+    "trans": [
+      "请求"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "response",
+    "trans": [
+      "响应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "authentication",
+    "trans": [
+      "认证"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "authorization",
+    "trans": [
+      "授权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "encryption",
+    "trans": [
+      "加密"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hash",
+    "trans": [
+      "哈希；散列"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "token",
+    "trans": [
+      "令牌；代币"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "session",
+    "trans": [
+      "会话"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "database",
+    "trans": [
+      "数据库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "query",
+    "trans": [
+      "查询"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "index",
+    "trans": [
+      "索引"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transaction",
+    "trans": [
+      "事务；交易"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ACID",
+    "trans": [
+      "原子性一致性隔离性持久性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scalability",
+    "trans": [
+      "可扩展性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "observability",
+    "trans": [
+      "可观测性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "metric",
+    "trans": [
+      "指标"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "trace",
+    "trans": [
+      "链路追踪"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "limit",
+    "trans": [
+      "极限"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "continuity",
+    "trans": [
+      "连续性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "integral",
+    "trans": [
+      "积分"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "differential",
+    "trans": [
+      "微分的；差分的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "approximation",
+    "trans": [
+      "近似"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "numerical method",
+    "trans": [
+      "数值方法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Newton method",
+    "trans": [
+      "牛顿法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Monte Carlo",
+    "trans": [
+      "蒙特卡洛（模拟）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "convergence",
+    "trans": [
+      "收敛"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sequence",
+    "trans": [
+      "序列；数列"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "series",
+    "trans": [
+      "级数；系列"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "partial derivative",
+    "trans": [
+      "偏导数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gradient",
+    "trans": [
+      "梯度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "optimization",
+    "trans": [
+      "最优化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "constraint",
+    "trans": [
+      "约束"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Lagrange",
+    "trans": [
+      "拉格朗日（乘数）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Taylor series",
+    "trans": [
+      "泰勒级数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "elasticity of demand",
+    "trans": [
+      "需求弹性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "marginal cost",
+    "trans": [
+      "边际成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "matrix",
+    "trans": [
+      "矩阵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vector",
+    "trans": [
+      "向量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eigenvalue",
+    "trans": [
+      "特征值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eigenvector",
+    "trans": [
+      "特征向量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "linear combination",
+    "trans": [
+      "线性组合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "span",
+    "trans": [
+      "张成；生成空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "basis",
+    "trans": [
+      "基（向量空间）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dimension",
+    "trans": [
+      "维数；维度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "determinant",
+    "trans": [
+      "行列式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inverse matrix",
+    "trans": [
+      "逆矩阵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transpose",
+    "trans": [
+      "转置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dot product",
+    "trans": [
+      "点积"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "orthogonal",
+    "trans": [
+      "正交的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PCA",
+    "trans": [
+      "主成分分析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dimension reduction",
+    "trans": [
+      "降维"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "portfolio weight",
+    "trans": [
+      "组合权重"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "efficient frontier",
+    "trans": [
+      "有效前沿"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mean variance",
+    "trans": [
+      "均值-方差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "covariance matrix",
+    "trans": [
+      "协方差矩阵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "identity matrix",
+    "trans": [
+      "单位矩阵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "random variable",
+    "trans": [
+      "随机变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "expectation",
+    "trans": [
+      "期望"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "independence",
+    "trans": [
+      "独立性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "conditional probability",
+    "trans": [
+      "条件概率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Bayes theorem",
+    "trans": [
+      "贝叶斯定理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "normal distribution",
+    "trans": [
+      "正态分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "binomial distribution",
+    "trans": [
+      "二项分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Poisson distribution",
+    "trans": [
+      "泊松分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "law of large numbers",
+    "trans": [
+      "大数定律"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "central limit theorem",
+    "trans": [
+      "中心极限定理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hypothesis testing",
+    "trans": [
+      "假设检验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "confidence interval",
+    "trans": [
+      "置信区间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "p-value",
+    "trans": [
+      "p 值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "null hypothesis",
+    "trans": [
+      "原假设"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "significance",
+    "trans": [
+      "显著性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "estimator",
+    "trans": [
+      "估计量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unbiased",
+    "trans": [
+      "无偏的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "maximum likelihood",
+    "trans": [
+      "最大似然"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stochastic process",
+    "trans": [
+      "随机过程"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "random walk",
+    "trans": [
+      "随机游走"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gross domestic product",
+    "trans": [
+      "国内生产总值 GDP"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "CPI",
+    "trans": [
+      "消费者物价指数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "deflation",
+    "trans": [
+      "通货紧缩"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "recession",
+    "trans": [
+      "衰退"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "business cycle",
+    "trans": [
+      "经济周期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "IS-LM",
+    "trans": [
+      "IS-LM 模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "aggregate demand",
+    "trans": [
+      "总需求"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "aggregate supply",
+    "trans": [
+      "总供给"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "open market operation",
+    "trans": [
+      "公开市场操作"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reserve requirement",
+    "trans": [
+      "存款准备金率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "policy rate",
+    "trans": [
+      "政策利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "LPR",
+    "trans": [
+      "贷款市场报价利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exchange rate",
+    "trans": [
+      "汇率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "foreign exchange",
+    "trans": [
+      "外汇"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "commodity",
+    "trans": [
+      "大宗商品"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "deposit",
+    "trans": [
+      "存款"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reserve currency",
+    "trans": [
+      "储备货币"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quantitative easing",
+    "trans": [
+      "量化宽松"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transmission mechanism",
+    "trans": [
+      "传导机制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "output gap",
+    "trans": [
+      "产出缺口"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "accounts receivable",
+    "trans": [
+      "应收账款"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "accounts payable",
+    "trans": [
+      "应付账款"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "depreciation",
+    "trans": [
+      "折旧"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "amortize",
+    "trans": [
+      "摊销（动词）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "accrual",
+    "trans": [
+      "应计；权责发生"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "accrual basis",
+    "trans": [
+      "权责发生制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cash basis",
+    "trans": [
+      "收付实现制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "revenue",
+    "trans": [
+      "收入；营收"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "expense",
+    "trans": [
+      "费用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "net income",
+    "trans": [
+      "净利润"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "retained earnings",
+    "trans": [
+      "留存收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "working capital",
+    "trans": [
+      "营运资本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "free cash flow",
+    "trans": [
+      "自由现金流 FCF"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ROE",
+    "trans": [
+      "净资产收益率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ROA",
+    "trans": [
+      "总资产收益率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "leverage ratio",
+    "trans": [
+      "杠杆比率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "liquidity ratio",
+    "trans": [
+      "流动性比率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "goodwill",
+    "trans": [
+      "商誉"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "impairment",
+    "trans": [
+      "减值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fair value",
+    "trans": [
+      "公允价值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "yield curve",
+    "trans": [
+      "收益率曲线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "duration",
+    "trans": [
+      "久期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "convexity",
+    "trans": [
+      "凸性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "par value",
+    "trans": [
+      "面值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "face value",
+    "trans": [
+      "票面价值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "YTM",
+    "trans": [
+      "到期收益率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "credit spread",
+    "trans": [
+      "信用利差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sovereign bond",
+    "trans": [
+      "主权债"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "corporate bond",
+    "trans": [
+      "公司债"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "MBS",
+    "trans": [
+      "住房抵押贷款证券"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "CDO",
+    "trans": [
+      "担保债务凭证"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "CDS",
+    "trans": [
+      "信用违约互换"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "call option",
+    "trans": [
+      "看涨期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "put option",
+    "trans": [
+      "看跌期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "strike price",
+    "trans": [
+      "行权价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "underlying",
+    "trans": [
+      "标的资产"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "OTC",
+    "trans": [
+      "场外交易"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exchange traded",
+    "trans": [
+      "场内交易的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mark to market",
+    "trans": [
+      "盯市"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "CAPM",
+    "trans": [
+      "资本资产定价模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "alpha",
+    "trans": [
+      "阿尔法（超额收益）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market portfolio",
+    "trans": [
+      "市场组合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "risk free rate",
+    "trans": [
+      "无风险利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "security market line",
+    "trans": [
+      "证券市场线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "active management",
+    "trans": [
+      "主动管理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "passive management",
+    "trans": [
+      "被动管理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tracking error",
+    "trans": [
+      "跟踪误差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "information ratio",
+    "trans": [
+      "信息比率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "momentum",
+    "trans": [
+      "动量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "value investing",
+    "trans": [
+      "价值投资"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "growth investing",
+    "trans": [
+      "成长投资"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rebalancing",
+    "trans": [
+      "再平衡"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "asset allocation",
+    "trans": [
+      "资产配置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tactical allocation",
+    "trans": [
+      "战术配置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "strategic allocation",
+    "trans": [
+      "战略配置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "benchmark index",
+    "trans": [
+      "基准指数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "IPO",
+    "trans": [
+      "首次公开发行"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "secondary market",
+    "trans": [
+      "二级市场"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "primary market",
+    "trans": [
+      "一级市场"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "RegTech",
+    "trans": [
+      "监管科技"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "SupTech",
+    "trans": [
+      "监管科技（监管端）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "InsurTech",
+    "trans": [
+      "保险科技"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "WealthTech",
+    "trans": [
+      "财富科技"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PayTech",
+    "trans": [
+      "支付科技"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "open banking",
+    "trans": [
+      "开放银行"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "API economy",
+    "trans": [
+      "API 经济"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sandbox",
+    "trans": [
+      "监管沙盒"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "CFA",
+    "trans": [
+      "特许金融分析师"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "FRM",
+    "trans": [
+      "金融风险管理师"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "SAFTI",
+    "trans": [
+      "深圳南特金融科技学院"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "MiFID",
+    "trans": [
+      "欧盟金融工具市场指令"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Basel",
+    "trans": [
+      "巴塞尔（协议）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stress test",
+    "trans": [
+      "压力测试"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "capital adequacy",
+    "trans": [
+      "资本充足"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "know your customer",
+    "trans": [
+      "了解你的客户 KYC"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "anti money laundering",
+    "trans": [
+      "反洗钱 AML"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "data privacy",
+    "trans": [
+      "数据隐私"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cybersecurity",
+    "trans": [
+      "网络安全"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "operational risk",
+    "trans": [
+      "操作风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "opportunity cost",
+    "trans": [
+      "机会成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sunk cost",
+    "trans": [
+      "沉没成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "price discrimination",
+    "trans": [
+      "价格歧视"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "perfect competition",
+    "trans": [
+      "完全竞争"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "monopoly",
+    "trans": [
+      "垄断"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "oligopoly",
+    "trans": [
+      "寡头垄断"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nash equilibrium",
+    "trans": [
+      "纳什均衡"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "game theory",
+    "trans": [
+      "博弈论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prisoner dilemma",
+    "trans": [
+      "囚徒困境"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "signaling",
+    "trans": [
+      "信号传递"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "screening",
+    "trans": [
+      "筛选（机制设计）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "incentive",
+    "trans": [
+      "激励"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "behavioral bias",
+    "trans": [
+      "行为偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "anchoring",
+    "trans": [
+      "锚定效应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "herding",
+    "trans": [
+      "羊群效应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prospect theory",
+    "trans": [
+      "前景理论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mental accounting",
+    "trans": [
+      "心理账户"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "framing",
+    "trans": [
+      "框架效应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "availability bias",
+    "trans": [
+      "可得性偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "confirmation bias",
+    "trans": [
+      "确认偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pandas",
+    "trans": [
+      "Python 数据分析库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "numpy",
+    "trans": [
+      "Python 数值计算库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "matplotlib",
+    "trans": [
+      "Python 绘图库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dataframe",
+    "trans": [
+      "数据框 DataFrame"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "time series",
+    "trans": [
+      "时间序列"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "panel data",
+    "trans": [
+      "面板数据"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cross section",
+    "trans": [
+      "横截面数据"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feature engineering",
+    "trans": [
+      "特征工程"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "label",
+    "trans": [
+      "标签（监督学习）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "training set",
+    "trans": [
+      "训练集"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "test set",
+    "trans": [
+      "测试集"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cross validation",
+    "trans": [
+      "交叉验证"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "supervised learning",
+    "trans": [
+      "监督学习"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unsupervised learning",
+    "trans": [
+      "无监督学习"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "classification",
+    "trans": [
+      "分类"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clustering",
+    "trans": [
+      "聚类"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "neural network",
+    "trans": [
+      "神经网络"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "deep learning",
+    "trans": [
+      "深度学习"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "natural language processing",
+    "trans": [
+      "自然语言处理 NLP"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "large language model",
+    "trans": [
+      "大语言模型 LLM"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "SELECT",
+    "trans": [
+      "SQL 查询语句"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "JOIN",
+    "trans": [
+      "表连接"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "WHERE",
+    "trans": [
+      "条件过滤子句"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "GROUP BY",
+    "trans": [
+      "分组聚合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ORDER BY",
+    "trans": [
+      "排序子句"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "primary key",
+    "trans": [
+      "主键"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "foreign key",
+    "trans": [
+      "外键"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "normalization",
+    "trans": [
+      "范式化；归一化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "schema",
+    "trans": [
+      "模式；表结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ETL",
+    "trans": [
+      "抽取转换加载"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "data warehouse",
+    "trans": [
+      "数据仓库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "OLAP",
+    "trans": [
+      "联机分析处理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "OLTP",
+    "trans": [
+      "联机事务处理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "replication",
+    "trans": [
+      "复制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sharding",
+    "trans": [
+      "分片"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "consistency",
+    "trans": [
+      "一致性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "isolation",
+    "trans": [
+      "隔离性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "durability",
+    "trans": [
+      "持久性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "atomicity",
+    "trans": [
+      "原子性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rollback",
+    "trans": [
+      "回滚"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "GFM",
+    "trans": [
+      "GitHub 风格 Markdown"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "YAML",
+    "trans": [
+      "YAML 配置/元数据语言"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "LaTeX",
+    "trans": [
+      "LaTeX 排版/公式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "KaTeX",
+    "trans": [
+      "KaTeX 公式渲染"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "MathJax",
+    "trans": [
+      "MathJax 公式渲染"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Templater",
+    "trans": [
+      "Obsidian 模板插件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Excalidraw",
+    "trans": [
+      "白板绘图插件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "canvas",
+    "trans": [
+      "白板；Canvas"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hotkey",
+    "trans": [
+      "快捷键"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "command palette",
+    "trans": [
+      "命令面板"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "workspace",
+    "trans": [
+      "工作区"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pane",
+    "trans": [
+      "窗格"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sidebar",
+    "trans": [
+      "侧边栏"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "graph view",
+    "trans": [
+      "关系图谱视图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "local graph",
+    "trans": [
+      "局部图谱"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "outgoing link",
+    "trans": [
+      "出链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "incoming link",
+    "trans": [
+      "入链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "alias",
+    "trans": [
+      "别名"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tag",
+    "trans": [
+      "标签"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sequenceDiagram",
+    "trans": [
+      "时序图（Mermaid）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "classDiagram",
+    "trans": [
+      "类图（Mermaid）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "erDiagram",
+    "trans": [
+      "ER 图（Mermaid）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stateDiagram",
+    "trans": [
+      "状态图（Mermaid）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pie chart",
+    "trans": [
+      "饼图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "journey",
+    "trans": [
+      "用户旅程图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gitGraph",
+    "trans": [
+      "Git 图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mindmap",
+    "trans": [
+      "思维导图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "timeline",
+    "trans": [
+      "时间线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "subgraph",
+    "trans": [
+      "子图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "participant",
+    "trans": [
+      "参与者（时序图）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "actor",
+    "trans": [
+      "角色；参与者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "direction",
+    "trans": [
+      "方向（布局）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "style",
+    "trans": [
+      "样式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "theme",
+    "trans": [
+      "主题"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "render",
+    "trans": [
+      "渲染"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "syntax error",
+    "trans": [
+      "语法错误"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "diagram type",
+    "trans": [
+      "图表类型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "edge",
+    "trans": [
+      "边（图）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "WACC",
+    "trans": [
+      "加权平均资本成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "NPV",
+    "trans": [
+      "净现值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "IRR",
+    "trans": [
+      "内部收益率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "payback period",
+    "trans": [
+      "回收期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cost of capital",
+    "trans": [
+      "资本成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cost of equity",
+    "trans": [
+      "权益成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cost of debt",
+    "trans": [
+      "债务成本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "enterprise value",
+    "trans": [
+      "企业价值 EV"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "equity value",
+    "trans": [
+      "股权价值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "DCF",
+    "trans": [
+      "现金流折现"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "terminal value",
+    "trans": [
+      "终值（估值）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sensitivity analysis",
+    "trans": [
+      "敏感性分析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scenario analysis",
+    "trans": [
+      "情景分析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "capital structure",
+    "trans": [
+      "资本结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dividend policy",
+    "trans": [
+      "股利政策"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "share repurchase",
+    "trans": [
+      "股份回购"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "agency problem",
+    "trans": [
+      "代理问题"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "corporate governance",
+    "trans": [
+      "公司治理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stakeholder",
+    "trans": [
+      "利益相关方"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "shareholder",
+    "trans": [
+      "股东"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "alpha signal",
+    "trans": [
+      "阿尔法信号"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "execution",
+    "trans": [
+      "成交执行"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "slippage",
+    "trans": [
+      "滑点"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market impact",
+    "trans": [
+      "市场冲击"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "TWAP",
+    "trans": [
+      "时间加权平均价格"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "VWAP",
+    "trans": [
+      "成交量加权平均价格"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "limit order",
+    "trans": [
+      "限价单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market order",
+    "trans": [
+      "市价单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stop loss",
+    "trans": [
+      "止损"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "take profit",
+    "trans": [
+      "止盈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "position sizing",
+    "trans": [
+      "仓位管理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Kelly criterion",
+    "trans": [
+      "凯利公式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "paper trading",
+    "trans": [
+      "模拟交易"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "live trading",
+    "trans": [
+      "实盘交易"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market making",
+    "trans": [
+      "做市"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "order book",
+    "trans": [
+      "订单簿"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tick data",
+    "trans": [
+      "逐笔数据"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bar data",
+    "trans": [
+      "K 线/柱数据"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "indicator",
+    "trans": [
+      "技术指标"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "signal",
+    "trans": [
+      "信号"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mankiw",
+    "trans": [
+      "曼昆（经济学原理）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mishkin",
+    "trans": [
+      "米什金（货币金融学）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Bodie",
+    "trans": [
+      "博迪（投资学）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Hull",
+    "trans": [
+      "赫尔（期权期货）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Taleb",
+    "trans": [
+      "塔勒布（黑天鹅）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Kahneman",
+    "trans": [
+      "卡尼曼（思考快与慢）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Shiller",
+    "trans": [
+      "席勒（非理性繁荣）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Munger",
+    "trans": [
+      "芒格（穷查理宝典）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Black-Scholes",
+    "trans": [
+      "布莱克-舒尔斯模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "black swan",
+    "trans": [
+      "黑天鹅事件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fat tail",
+    "trans": [
+      "肥尾分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "skewness",
+    "trans": [
+      "偏度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "kurtosis",
+    "trans": [
+      "峰度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cumulant",
+    "trans": [
+      "累积量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "regime",
+    "trans": [
+      "市场状态；体制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "regime switching",
+    "trans": [
+      "状态切换模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "GMM",
+    "trans": [
+      "高斯混合模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Markov chain",
+    "trans": [
+      "马尔可夫链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transition matrix",
+    "trans": [
+      "转移矩阵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stationary distribution",
+    "trans": [
+      "稳态分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "steady state",
+    "trans": [
+      "稳态"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ergodic",
+    "trans": [
+      "遍历的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "absorbing state",
+    "trans": [
+      "吸收态"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feedback loop",
+    "trans": [
+      "反馈回路"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "house edge",
+    "trans": [
+      "庄家优势"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "odds",
+    "trans": [
+      "赔率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "expected payoff",
+    "trans": [
+      "期望收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lottery",
+    "trans": [
+      "彩票"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "jackpot",
+    "trans": [
+      "头奖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prize pool",
+    "trans": [
+      "奖池"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ticket sales",
+    "trans": [
+      "投注额"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "frequency analysis",
+    "trans": [
+      "频次分析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chi-square test",
+    "trans": [
+      "卡方检验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "goodness of fit",
+    "trans": [
+      "拟合优度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "uniform distribution",
+    "trans": [
+      "均匀分布"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "independence test",
+    "trans": [
+      "独立性检验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "crawler",
+    "trans": [
+      "爬虫"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scraper",
+    "trans": [
+      "抓取器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feature vector",
+    "trans": [
+      "特征向量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "precompute",
+    "trans": [
+      "预计算"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scheduler",
+    "trans": [
+      "调度器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "APScheduler",
+    "trans": [
+      "Python 定时调度库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Flask",
+    "trans": [
+      "Flask Web 框架"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "SQLite",
+    "trans": [
+      "SQLite 数据库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "validator",
+    "trans": [
+      "验证器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bidirectional validation",
+    "trans": [
+      "双向验证"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "genetic algorithm",
+    "trans": [
+      "遗传算法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "candidate sampling",
+    "trans": [
+      "候选采样"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cost function",
+    "trans": [
+      "代价函数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scoring",
+    "trans": [
+      "打分"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "orchestration",
+    "trans": [
+      "编排"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "data hub",
+    "trans": [
+      "数据中枢"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bettor behavior",
+    "trans": [
+      "投注者行为"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bounded rationality",
+    "trans": [
+      "有限理性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gambler fallacy",
+    "trans": [
+      "赌徒谬误"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hot hand fallacy",
+    "trans": [
+      "热手谬误"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "availability heuristic",
+    "trans": [
+      "可得性启发"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "representativeness heuristic",
+    "trans": [
+      "代表性启发"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "system 1",
+    "trans": [
+      "系统1快思考"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "system 2",
+    "trans": [
+      "系统2慢思考"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "irrational exuberance",
+    "trans": [
+      "非理性繁荣"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "animal spirits",
+    "trans": [
+      "动物精神"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "random walk theory",
+    "trans": [
+      "随机游走理论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "skin in the game",
+    "trans": [
+      "利益攸关"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mental model",
+    "trans": [
+      "心智模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "circle of competence",
+    "trans": [
+      "能力圈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "margin of safety",
+    "trans": [
+      "安全边际"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "money supply",
+    "trans": [
+      "货币供给"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "money demand",
+    "trans": [
+      "货币需求"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fractional reserve",
+    "trans": [
+      "部分准备金"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bank run",
+    "trans": [
+      "银行挤兑"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lender of last resort",
+    "trans": [
+      "最后贷款人"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "financial intermediation",
+    "trans": [
+      "金融中介"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "asymmetric payoff",
+    "trans": [
+      "不对称收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "optionality",
+    "trans": [
+      "期权性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "convex payoff",
+    "trans": [
+      "凸性收益"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tail risk",
+    "trans": [
+      "尾部风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "left tail",
+    "trans": [
+      "左尾"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "right tail",
+    "trans": [
+      "右尾"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prize structure",
+    "trans": [
+      "奖金结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "payout ratio",
+    "trans": [
+      "派彩比率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bookmaker",
+    "trans": [
+      "庄家"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inventory risk",
+    "trans": [
+      "库存风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "model risk",
+    "trans": [
+      "模型风险"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "data leakage",
+    "trans": [
+      "数据泄漏"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "look-ahead bias",
+    "trans": [
+      "前视偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "survivorship bias",
+    "trans": [
+      "幸存者偏差"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "walk-forward",
+    "trans": [
+      "前向滚动验证"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "out of sample",
+    "trans": [
+      "样本外"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "in sample",
+    "trans": [
+      "样本内"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transition probability",
+    "trans": [
+      "转移概率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "state space",
+    "trans": [
+      "状态空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "latent variable",
+    "trans": [
+      "潜变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mixture model",
+    "trans": [
+      "混合模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "EM algorithm",
+    "trans": [
+      "期望最大化算法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "log likelihood",
+    "trans": [
+      "对数似然"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Bayesian update",
+    "trans": [
+      "贝叶斯更新"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dynamical system",
+    "trans": [
+      "动力系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "entropy",
+    "trans": [
+      "熵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mutual information",
+    "trans": [
+      "互信息"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spurious correlation",
+    "trans": [
+      "伪相关"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "p-hacking",
+    "trans": [
+      "p值操纵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reproducibility",
+    "trans": [
+      "可复现性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "annotated code",
+    "trans": [
+      "注解代码"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "time preference",
+    "trans": [
+      "时间偏好"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "liquidity preference",
+    "trans": [
+      "流动性偏好"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Fisher effect",
+    "trans": [
+      "费雪效应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quantity theory of money",
+    "trans": [
+      "货币数量论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "velocity of money",
+    "trans": [
+      "货币流通速度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "term structure",
+    "trans": [
+      "期限结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "forward rate",
+    "trans": [
+      "远期利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spot rate",
+    "trans": [
+      "即期利率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "par yield",
+    "trans": [
+      "平价收益率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dirty price",
+    "trans": [
+      "含息全价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clean price",
+    "trans": [
+      "净价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "accrued interest",
+    "trans": [
+      "应计利息"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "day count convention",
+    "trans": [
+      "计日惯例"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "put-call parity",
+    "trans": [
+      "看跌看涨平价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "implied volatility",
+    "trans": [
+      "隐含波动率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "historical volatility",
+    "trans": [
+      "历史波动率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Greeks",
+    "trans": [
+      "期权希腊字母"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "delta hedging",
+    "trans": [
+      "德尔塔对冲"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gamma",
+    "trans": [
+      "伽马"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vega",
+    "trans": [
+      "维加"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "theta",
+    "trans": [
+      "西塔时间损耗"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "American option",
+    "trans": [
+      "美式期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "European option",
+    "trans": [
+      "欧式期权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "early exercise",
+    "trans": [
+      "提前行权"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "binomial tree",
+    "trans": [
+      "二叉树定价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "risk-neutral",
+    "trans": [
+      "风险中性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "no-arbitrage",
+    "trans": [
+      "无套利"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "replicating portfolio",
+    "trans": [
+      "复制组合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "complete market",
+    "trans": [
+      "完全市场"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "incomplete market",
+    "trans": [
+      "不完全市场"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "utility maximization",
+    "trans": [
+      "效用最大化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "indifference curve",
+    "trans": [
+      "无差异曲线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "budget constraint",
+    "trans": [
+      "预算约束"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "consumer surplus",
+    "trans": [
+      "消费者剩余"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "producer surplus",
+    "trans": [
+      "生产者剩余"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "deadweight loss",
+    "trans": [
+      "无谓损失"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "externality",
+    "trans": [
+      "外部性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "public good",
+    "trans": [
+      "公共物品"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "free rider",
+    "trans": [
+      "搭便车"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "comparative advantage",
+    "trans": [
+      "比较优势"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "absolute advantage",
+    "trans": [
+      "绝对优势"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "purchasing power parity",
+    "trans": [
+      "购买力平价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interest rate parity",
+    "trans": [
+      "利率平价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "carry trade",
+    "trans": [
+      "套息交易"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "flight to quality",
+    "trans": [
+      "避险追逐质量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "credit crunch",
+    "trans": [
+      "信贷紧缩"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "macroprudential",
+    "trans": [
+      "宏观审慎"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "microprudential",
+    "trans": [
+      "微观审慎"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "house model",
+    "trans": [
+      "庄家模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feedback mechanism",
+    "trans": [
+      "反馈机制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "predictability",
+    "trans": [
+      "可预测性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unpredictable",
+    "trans": [
+      "不可预测的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "production system",
+    "trans": [
+      "生产系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "analysis script",
+    "trans": [
+      "分析脚本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "web service",
+    "trans": [
+      "Web 服务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "configuration",
+    "trans": [
+      "配置"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "traceback",
+    "trans": [
+      "堆栈追踪"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "logging",
+    "trans": [
+      "日志"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "soft assignment",
+    "trans": [
+      "软分配"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hard assignment",
+    "trans": [
+      "硬分配"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "observation",
+    "trans": [
+      "观测值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "state vector",
+    "trans": [
+      "状态向量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market heat",
+    "trans": [
+      "市场热度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prize feedback",
+    "trans": [
+      "奖池反馈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "betting volume",
+    "trans": [
+      "投注量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "jackpot rollover",
+    "trans": [
+      "奖池滚存"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "independent draw",
+    "trans": [
+      "独立开奖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "kernel module",
+    "trans": [
+      "核心模块"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "label leakage",
+    "trans": [
+      "标签泄漏"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "offline analysis",
+    "trans": [
+      "离线分析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "online service",
+    "trans": [
+      "在线服务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "batch pipeline",
+    "trans": [
+      "批处理流水线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "daily job",
+    "trans": [
+      "日批任务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "course linkage",
+    "trans": [
+      "课程联动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "probability modeling",
+    "trans": [
+      "概率建模"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "software engineering",
+    "trans": [
+      "软件工程"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "data engineering",
+    "trans": [
+      "数据工程"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "product thinking",
+    "trans": [
+      "产品思维"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "FinTech starter",
+    "trans": [
+      "FinTech 起步项目"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ssq predictor",
+    "trans": [
+      "双色球预测系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dual validator",
+    "trans": [
+      "双向验证器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transfer matrix",
+    "trans": [
+      "转移矩阵（同 transition）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market regime",
+    "trans": [
+      "市场 Regime"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "number frequency",
+    "trans": [
+      "号码频次"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "distribution test",
+    "trans": [
+      "分布检验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scraping pipeline",
+    "trans": [
+      "抓取流水线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "JSON dataset",
+    "trans": [
+      "JSON 数据集"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feature precompute",
+    "trans": [
+      "特征预计算"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "service oriented",
+    "trans": [
+      "面向服务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "monolith script",
+    "trans": [
+      "单体脚本"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ROS2",
+    "trans": [
+      "机器人操作系统第二代"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ROS",
+    "trans": [
+      "机器人操作系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nav2",
+    "trans": [
+      "ROS2 导航栈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "SLAM",
+    "trans": [
+      "同步定位与地图构建"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "LiDAR",
+    "trans": [
+      "激光雷达"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "2D LiDAR",
+    "trans": [
+      "二维激光雷达"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gazebo",
+    "trans": [
+      "机器人仿真环境"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "URDF",
+    "trans": [
+      "统一机器人描述格式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Xacro",
+    "trans": [
+      "URDF 宏语言"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tf2",
+    "trans": [
+      "ROS 坐标变换库"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "base_link",
+    "trans": [
+      "机器人基坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "odometry",
+    "trans": [
+      "里程计"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "localization",
+    "trans": [
+      "定位"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mapping",
+    "trans": [
+      "建图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "navigation",
+    "trans": [
+      "导航"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "path planning",
+    "trans": [
+      "路径规划"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "global planner",
+    "trans": [
+      "全局规划器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "local planner",
+    "trans": [
+      "局部规划器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "costmap",
+    "trans": [
+      "代价地图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "occupancy grid",
+    "trans": [
+      "占用栅格地图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "point cloud",
+    "trans": [
+      "点云"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "laser scan",
+    "trans": [
+      "激光扫描"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "RViz",
+    "trans": [
+      "ROS 可视化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rclpy",
+    "trans": [
+      "ROS2 Python 客户端"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rclcpp",
+    "trans": [
+      "ROS2 C++ 客户端"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "publisher",
+    "trans": [
+      "发布者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "subscriber",
+    "trans": [
+      "订阅者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "QoS",
+    "trans": [
+      "通信服务质量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lifecycle node",
+    "trans": [
+      "生命周期节点"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "launch file",
+    "trans": [
+      "启动文件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "colcon",
+    "trans": [
+      "ROS2 构建工具"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ament",
+    "trans": [
+      "ROS2 构建系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "micro-ROS",
+    "trans": [
+      "微控制器 ROS"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ESP32",
+    "trans": [
+      "ESP32 微控制器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Arduino",
+    "trans": [
+      "Arduino 平台"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Raspberry Pi",
+    "trans": [
+      "树莓派"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Home Assistant",
+    "trans": [
+      "开源智能家居平台"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "firmware",
+    "trans": [
+      "固件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PCB",
+    "trans": [
+      "印刷电路板"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "BOM",
+    "trans": [
+      "物料清单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "3D printing",
+    "trans": [
+      "3D 打印"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "FDM",
+    "trans": [
+      "熔融沉积成型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chassis",
+    "trans": [
+      "底盘"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wheelbase",
+    "trans": [
+      "轴距"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "differential drive",
+    "trans": [
+      "差速驱动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "motor driver",
+    "trans": [
+      "电机驱动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "encoder",
+    "trans": [
+      "编码器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "IMU",
+    "trans": [
+      "惯性测量单元"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bumper",
+    "trans": [
+      "防撞条"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "suction fan",
+    "trans": [
+      "吸尘风机"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dust bin",
+    "trans": [
+      "尘盒"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "docking",
+    "trans": [
+      "回充对接"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bringup",
+    "trans": [
+      "整机联调"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "simulation-first",
+    "trans": [
+      "仿真优先"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hardware-in-the-loop",
+    "trans": [
+      "硬件在环"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interface contract",
+    "trans": [
+      "接口契约"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "module boundary",
+    "trans": [
+      "模块边界"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "RFC",
+    "trans": [
+      "设计提案"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "REP-103",
+    "trans": [
+      "ROS 坐标约定"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "right-handed frame",
+    "trans": [
+      "右手坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "radian",
+    "trans": [
+      "弧度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "SI units",
+    "trans": [
+      "国际单位制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "safety review",
+    "trans": [
+      "安全评审"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "power budget",
+    "trans": [
+      "功率预算"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mass budget",
+    "trans": [
+      "质量预算"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bounding envelope",
+    "trans": [
+      "包络尺寸"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mounting pattern",
+    "trans": [
+      "安装孔位"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "open source",
+    "trans": [
+      "开源"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Apache-2.0",
+    "trans": [
+      "Apache 2.0 许可"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vendor lock-in",
+    "trans": [
+      "厂商锁定"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "local-first",
+    "trans": [
+      "本地优先"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "telemetry",
+    "trans": [
+      "遥测"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "watchdog",
+    "trans": [
+      "看门狗"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "recovery behavior",
+    "trans": [
+      "恢复行为"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "obstacle avoidance",
+    "trans": [
+      "避障"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "coverage path planning",
+    "trans": [
+      "覆盖路径规划"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cleaning job",
+    "trans": [
+      "清扫任务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "calibration",
+    "trans": [
+      "标定"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sensor fusion",
+    "trans": [
+      "传感器融合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "state estimation",
+    "trans": [
+      "状态估计"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PID control",
+    "trans": [
+      "PID 控制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "control loop",
+    "trans": [
+      "控制回路"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "real-time",
+    "trans": [
+      "实时"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "embedded system",
+    "trans": [
+      "嵌入式系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "GPIO",
+    "trans": [
+      "通用输入输出"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "I2C",
+    "trans": [
+      "I2C 总线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "SPI",
+    "trans": [
+      "SPI 总线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "UART",
+    "trans": [
+      "串口"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PWM",
+    "trans": [
+      "脉宽调制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "battery management",
+    "trans": [
+      "电池管理"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "charging cycle",
+    "trans": [
+      "充电循环"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "brownout",
+    "trans": [
+      "欠压"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "thermal protection",
+    "trans": [
+      "过热保护"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "digital twin",
+    "trans": [
+      "数字孪生"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hackable",
+    "trans": [
+      "可改装"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pull request",
+    "trans": [
+      "拉取请求"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "maintainer",
+    "trans": [
+      "维护者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "integration test",
+    "trans": [
+      "集成测试"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "smoke test",
+    "trans": [
+      "冒烟测试"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reproducible build",
+    "trans": [
+      "可复现构建"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "MVP",
+    "trans": [
+      "最小可行产品"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stretch goal",
+    "trans": [
+      "延伸目标"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bill of materials",
+    "trans": [
+      "物料清单"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "teardown",
+    "trans": [
+      "拆机分析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reference design",
+    "trans": [
+      "参考设计"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "swappable module",
+    "trans": [
+      "可替换模块"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "thread safety",
+    "trans": [
+      "线程安全"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "executor",
+    "trans": [
+      "ROS2 执行器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "callback group",
+    "trans": [
+      "回调组"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "remapping",
+    "trans": [
+      "重映射"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rosbag",
+    "trans": [
+      "ROS 录包"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "replay",
+    "trans": [
+      "回放"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "profiling",
+    "trans": [
+      "性能剖析"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bottleneck",
+    "trans": [
+      "瓶颈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "jitter",
+    "trans": [
+      "抖动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "best effort",
+    "trans": [
+      "尽力而为 QoS"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reliable QoS",
+    "trans": [
+      "可靠 QoS"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "history depth",
+    "trans": [
+      "历史深度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "namespace",
+    "trans": [
+      "命名空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "composition",
+    "trans": [
+      "组件组合"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dependency pinning",
+    "trans": [
+      "依赖钉死"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Docker",
+    "trans": [
+      "Docker 容器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "CI pipeline",
+    "trans": [
+      "CI 流水线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "architecture decision record",
+    "trans": [
+      "架构决策记录"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "north star metric",
+    "trans": [
+      "北极星指标"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "collision avoidance",
+    "trans": [
+      "防碰撞"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "drive wheel",
+    "trans": [
+      "驱动轮"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "brush motor",
+    "trans": [
+      "边刷电机"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "I/O board",
+    "trans": [
+      "IO 电路板"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "firmware update",
+    "trans": [
+      "固件更新"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "over-the-air",
+    "trans": [
+      "空中升级"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "local control",
+    "trans": [
+      "本地控制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cloud optional",
+    "trans": [
+      "云可选"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gazebo plugin",
+    "trans": [
+      "Gazebo 插件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "URDF joint",
+    "trans": [
+      "URDF 关节"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inertia",
+    "trans": [
+      "惯性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "friction",
+    "trans": [
+      "摩擦"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "torque",
+    "trans": [
+      "力矩"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "angular velocity",
+    "trans": [
+      "角速度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "linear velocity",
+    "trans": [
+      "线速度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pose",
+    "trans": [
+      "位姿"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transform",
+    "trans": [
+      "变换"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "frame_id",
+    "trans": [
+      "坐标系 id"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "child frame",
+    "trans": [
+      "子坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "parent frame",
+    "trans": [
+      "父坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "static transform",
+    "trans": [
+      "静态变换"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dynamic transform",
+    "trans": [
+      "动态变换"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "map frame",
+    "trans": [
+      "地图坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "odom frame",
+    "trans": [
+      "里程计坐标系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "AMCL",
+    "trans": [
+      "自适应蒙特卡洛定位"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "slam_toolbox",
+    "trans": [
+      "SLAM 工具箱"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "behavior tree",
+    "trans": [
+      "行为树"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bt navigator",
+    "trans": [
+      "行为树导航"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spin recovery",
+    "trans": [
+      "旋转恢复"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "backup recovery",
+    "trans": [
+      "后退恢复"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wait recovery",
+    "trans": [
+      "等待恢复"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "goal pose",
+    "trans": [
+      "目标位姿"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "waypoint",
+    "trans": [
+      "航点"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "path follower",
+    "trans": [
+      "路径跟随"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "controller server",
+    "trans": [
+      "控制器服务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "planner server",
+    "trans": [
+      "规划器服务"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "smoother",
+    "trans": [
+      "平滑器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "footprint",
+    "trans": [
+      "足迹轮廓"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inflation radius",
+    "trans": [
+      "膨胀半径"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lethal cost",
+    "trans": [
+      "致命代价"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unknown space",
+    "trans": [
+      "未知空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "free space",
+    "trans": [
+      "自由空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "occupied space",
+    "trans": [
+      "占用空间"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "OOMWOO",
+    "trans": [
+      "开源扫地机器项目"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "makerspet",
+    "trans": [
+      "OOMWOO 社区组织"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "community module",
+    "trans": [
+      "社区模块"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "parallel contribution",
+    "trans": [
+      "并行贡献"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interface specification",
+    "trans": [
+      "接口规格"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "simulation world",
+    "trans": [
+      "仿真世界"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "robot description",
+    "trans": [
+      "机器人描述包"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bringup launch",
+    "trans": [
+      "联调启动文件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "safety interlock",
+    "trans": [
+      "安全互锁"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "estop",
+    "trans": [
+      "急停"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "current limit",
+    "trans": [
+      "限流"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "voltage monitor",
+    "trans": [
+      "电压监测"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "watchdog timeout",
+    "trans": [
+      "看门狗超时"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "heartbeat",
+    "trans": [
+      "心跳包"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "health check",
+    "trans": [
+      "健康检查"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "graceful shutdown",
+    "trans": [
+      "优雅停机"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fault isolation",
+    "trans": [
+      "故障隔离"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "degraded mode",
+    "trans": [
+      "降级模式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fail-safe",
+    "trans": [
+      "失效安全"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fail-soft",
+    "trans": [
+      "失效软化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "race condition",
+    "trans": [
+      "竞态条件"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "deadlock",
+    "trans": [
+      "死锁"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mutex",
+    "trans": [
+      "互斥锁"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lock-free",
+    "trans": [
+      "无锁"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "message queue",
+    "trans": [
+      "消息队列"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "event loop",
+    "trans": [
+      "事件循环"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "polling",
+    "trans": [
+      "轮询"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interrupt",
+    "trans": [
+      "中断"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "DMA",
+    "trans": [
+      "直接内存访问"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "baud rate",
+    "trans": [
+      "波特率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "CRC",
+    "trans": [
+      "循环冗余校验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "checksum",
+    "trans": [
+      "校验和"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "packet loss",
+    "trans": [
+      "丢包"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "retransmission",
+    "trans": [
+      "重传"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "latency budget",
+    "trans": [
+      "延迟预算"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bandwidth",
+    "trans": [
+      "带宽"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "backpressure",
+    "trans": [
+      "背压"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rate limit",
+    "trans": [
+      "限流"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "circuit breaker",
+    "trans": [
+      "熔断器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "retry policy",
+    "trans": [
+      "重试策略"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exponential backoff",
+    "trans": [
+      "指数退避"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "idempotent",
+    "trans": [
+      "幂等"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exactly once",
+    "trans": [
+      "精确一次"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "at least once",
+    "trans": [
+      "至少一次"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "at most once",
+    "trans": [
+      "至多一次"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  }
+]
