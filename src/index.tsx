@@ -64,7 +64,7 @@ function Root() {
               <>
                 <Route index element={<TypingPage />} />
                 <Route path="/article-typing" element={<ArticleTypingPage />} />
-                {/* 统一画廊入口：独立 ArticleGallery 重定向至 Gallery 文章模式 */}
+                {/* 兼容旧链接：文章库已并入 /gallery?mode=article */}
                 <Route path="/article-gallery" element={<Navigate to="/gallery?mode=article" replace />} />
                 <Route path="/gallery" element={<GalleryPage />} />
 

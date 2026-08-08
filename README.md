@@ -145,8 +145,7 @@
 src/
   constants/brand.ts          # 产品 / 实验室品牌常量
   pages/ArticleTyping/        # 文章打字练习
-  pages/ArticleGallery/       # 文章库浏览（若启用独立页）
-  pages/Gallery-N/            # 词典 Gallery（含文章模式切换）
+  pages/Gallery-N/            # 词典 Gallery（单词 + 文章双模式）
   resources/articles/         # 文章资源按 track 拆分
   resources/articleDictionary.ts
   assets/logo.svg             # 产品 favicon 标识
@@ -155,10 +154,8 @@ public/
   dicts/knowledge-*.json      # Knowledge 词库
   favicon.svg
 docs/
-  article_curriculum_map.md
-  article_resource_authoring_guide.md
-  article_typing_design_spec.md
-  article_typing_development_log.md
+  operations_guide.md         # 构建 / 部署 / 品牌资产
+  article_*.md                # 文章练习设计与课程映射
 ```
 
 ---

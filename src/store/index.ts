@@ -147,8 +147,5 @@ export const wordDictationConfigAtom = atomForConfig('wordDictationConfig', {
 
 export const dismissStartCardDateAtom = atomWithStorage<Date | null>(DISMISS_START_CARD_DATE_KEY, null)
 
-// Enhanced version promotion popup state
-export const hasSeenEnhancedPromotionAtom = atomWithStorage('hasSeenEnhancedPromotion', false)
-
 // for dev test
 //   dismissStartCardDateAtom = atom<Date | null>(new Date())

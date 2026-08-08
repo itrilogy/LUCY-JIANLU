@@ -29,7 +29,12 @@ pnpm-lock.yaml
 .env
 stats.html
 
+# local tooling / agent
+.claude/
 .idea
+*.swp
+*~
+
 /test-results/
 /blob-report/
 /playwright/.cache/
