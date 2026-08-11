@@ -12,6 +12,7 @@ export default function groupBy<T>(elements: T[], iteratee: (value: T) => string
   }, {})
 }
 
+/** 单词词典：按 dict.tags 全量分组（上游词库本身 tag 已精简） */
 export function groupByDictTags(dicts: Dictionary[]) {
   return dicts.reduce<Record<string, Dictionary[]>>((result, dict) => {
     dict.tags.forEach((tag) => {
@@ -25,24 +26,56 @@ export function groupByDictTags(dicts: Dictionary[]) {
   }, {})
 }
 
-/** 文章 Gallery 用：只保留用户可读的主题标签，排除 track/module 技术字段 */
-const ARTICLE_GALLERY_TAG_DENY =
-  /^(cs-programming|fintech-code|finance-concept|knowledge-eng|english-literacy|SAFTI-.*|KE-.*|KnowledgeEng)$/
-
-const ARTICLE_GALLERY_TAG_ALLOW =
-  /^(Level [1-4]|JavaScript|TypeScript|Python|English|FinTech|Markdown|Obsidian|Mermaid|SQL|算法|数据结构|计算科学|控制流|数组|异步|复利|风险|支付|监管|SAFTI)$/
+/**
+ * 文章 Gallery 标签：对齐单词词典的「少量、稳定」标签条。
+ * 只保留白名单主题，避免课程细标签（苏格拉底/康德…）把标签栏撑爆、布局崩坏。
+ */
+const ARTICLE_GALLERY_TAG_ALLOW = new Set([
+  'Level 1',
+  'Level 2',
+  'Level 3',
+  'Level 4',
+  'JavaScript',
+  'TypeScript',
+  'Python',
+  'English',
+  'FinTech',
+  'Markdown',
+  'Obsidian',
+  'Mermaid',
+  'SQL',
+  '算法',
+  '数据结构',
+  '计算科学',
+  '控制流',
+  '数组',
+  '异步',
+  '复利',
+  '风险',
+  '支付',
+  '监管',
+  'SAFTI',
+  // 课程系列（系列级，非单篇主题）
+  'Philosophy',
+  '苏菲的世界',
+  '大一精读',
+])
 
 export function getArticleGalleryTags(article: ArticleResource): string[] {
-  const fromTags = (article.tags || []).filter(
-    (t) => !ARTICLE_GALLERY_TAG_DENY.test(t) && (ARTICLE_GALLERY_TAG_ALLOW.test(t) || /^Level /.test(t)),
-  )
-  // 保底：至少有 Level
-  if (fromTags.length === 0) {
-    return [`Level ${article.level || 1}`]
+  const fromTags = (article.tags || []).filter((t) => ARTICLE_GALLERY_TAG_ALLOW.has(t) || /^Level [1-4]$/.test(t))
+
+  const levelTag = article.level ? `Level ${article.level}` : undefined
+  const withLevel =
+    levelTag && !fromTags.some((t) => t.startsWith('Level '))
+      ? [levelTag, ...fromTags]
+      : fromTags
+
+  if (withLevel.length === 0) {
+    return [levelTag || 'Level 1']
   }
-  // Level 优先排前，其余按出现顺序去重
-  const level = fromTags.filter((t) => t.startsWith('Level '))
-  const rest = fromTags.filter((t) => !t.startsWith('Level '))
+
+  const level = withLevel.filter((t) => t.startsWith('Level '))
+  const rest = withLevel.filter((t) => !t.startsWith('Level '))
   return [...new Set([...level, ...rest])]
 }
 

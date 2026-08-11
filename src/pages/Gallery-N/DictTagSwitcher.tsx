@@ -17,7 +17,8 @@ export default function DictTagSwitcher({ tagList, currentTag, onChangeCurrentTa
 
   return (
     <RadioGroup value={currentTag} onChange={onChangeTag}>
-      <div className="flex items-center space-x-4">
+      {/* 与单词词典一致的胶囊标签；允许换行以免极多 tag 时横向撑破布局 */}
+      <div className="flex max-w-full flex-wrap items-center gap-x-4 gap-y-2">
         {tagList.map((option) => (
           <RadioGroup.Option
             key={option}
@@ -28,7 +29,7 @@ export default function DictTagSwitcher({ tagList, currentTag, onChangeCurrentTa
               } ${!checked && 'hover:bg-indigo-100 dark:hover:bg-gray-600'}`
             }
           >
-            <p className={`font-normal `}>{option}</p>
+            <p className="font-normal">{option}</p>
           </RadioGroup.Option>
         ))}
       </div>

@@ -6,11 +6,12 @@
  * - docs/article_resource_authoring_guide.md
  *
  * 模块目录 src/resources/articles/
- *   path-knowledge-eng.ts   KE A–F
- *   path-safti-concepts.ts   SAFTI 概念/跨课/地基
- *   path-js|python|ts.ts     程序设计语法
- *   path-fintech.ts          金融代码场景
- *   path-english.ts          技术英文素养
+ *   path-knowledge-eng.ts       KE A–F
+ *   path-safti-concepts.ts      SAFTI 概念/跨课/地基
+ *   path-js|python|ts.ts        程序设计语法
+ *   path-fintech.ts             金融代码场景
+ *   path-english.ts             技术英文素养
+ *   path-sophie-philosophy.ts   《苏菲的世界》哲学主题精读
  */
 export {
   ARTICLE_RESOURCES,

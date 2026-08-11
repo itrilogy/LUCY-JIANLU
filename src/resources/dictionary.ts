@@ -4277,6 +4277,18 @@ const knowledge: DictionaryResource[] = [
     language: 'en',
     languageCategory: 'en',
   },
+  {
+    id: 'knowledge-sophie-philosophy',
+    name: 'Knowledge · 苏菲的世界哲学词',
+    description:
+      '《苏菲的世界》哲学主题词：词根聚类 18 章背景（约 397 词 / 约 20 章），含音标与词源讲解',
+    category: 'Knowledge',
+    tags: ['Knowledge', 'Philosophy', '苏菲的世界', '大一精读'],
+    url: '/dicts/knowledge-sophie-philosophy.json',
+    length: 397,
+    language: 'en',
+    languageCategory: 'en',
+  },
 ]
 
 /**

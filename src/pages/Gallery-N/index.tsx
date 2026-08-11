@@ -103,12 +103,21 @@ export default function GalleryPage() {
       if (tab === 'knowledge-eng' || tab === 'finance-concept' || tab === 'fintech-code' || tab === 'cs-programming') {
         return art.track === tab || art.tags.includes(tab)
       }
+      // 《苏菲的世界》哲学短文：module / 标签均可命中
+      if (tab === 'sophie-philosophy') {
+        return (
+          art.module === 'Sophie-Philosophy' ||
+          art.tags.includes('苏菲的世界') ||
+          art.tags.includes('Philosophy') ||
+          art.id.startsWith('sophie-philosophy-')
+        )
+      }
       if (tab === 'code') {
         return art.category === '代码片段' || (art.language !== 'english' && art.category === '技术文档')
       }
       if (tab === 'javascript') return art.language === 'javascript' || art.language === 'typescript'
       if (tab === 'english') return art.language === 'english' || art.category === '英文文章'
-      return art.language === tab || art.category === tab
+      return art.language === tab || art.category === tab || art.tags.includes(tab)
     })
 
     const groupedByCategory = Object.entries(groupBy(filteredArticles, (art) => art.category))

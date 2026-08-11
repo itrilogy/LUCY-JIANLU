@@ -1,0 +1,3575 @@
+[
+  {
+    "name": "philosophy",
+    "trans": [
+      "哲学；人生观",
+      "phil（爱）+ soph（智慧）+ y，字面\"爱智慧\"。哲学诞生于对神话的反叛，追问\"世界从何而来\"。"
+    ],
+    "usphone": "fəˈlɑːsəfi",
+    "ukphone": "fəˈlɒsəfi"
+  },
+  {
+    "name": "philosopher",
+    "trans": [
+      "哲学家",
+      "历史上第一位哲学家通常记作泰勒斯（Thales），他提出\"万物的本原是水\"。"
+    ],
+    "usphone": "fəˈlɑːsəfər",
+    "ukphone": "fəˈlɒsəfə(r)"
+  },
+  {
+    "name": "philosophical",
+    "trans": [
+      "哲学的；达观的",
+      "口语中 \"be philosophical about it\" 指对挫折看得开、有哲人风度。"
+    ],
+    "usphone": "ˌfɪləˈsɑːfɪkl",
+    "ukphone": "ˌfɪləˈsɒfɪkl"
+  },
+  {
+    "name": "philosophize",
+    "trans": [
+      "进行哲学思考；以哲学方式讨论",
+      "-ize 为动词后缀（表\"使……化\"），如 criticize、analyze。"
+    ],
+    "usphone": "fəˈlɑːsəfaɪz",
+    "ukphone": "fəˈlɒsəfaɪz"
+  },
+  {
+    "name": "sophist",
+    "trans": [
+      "智者派；诡辩家",
+      "与 philosophy 同根但转向\"以辩取胜\"。智者派主张\"人是万物的尺度\"，被苏格拉底批判。"
+    ],
+    "usphone": "ˈsɑːfɪst",
+    "ukphone": "ˈsɒfɪst"
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "老练的；复杂精密的",
+      "由\"智者式圆滑\"引申为\"世故、精密\"（如 sophisticated technology）。"
+    ],
+    "usphone": "səˈfɪstɪkeɪtɪd",
+    "ukphone": "səˈfɪstɪkeɪtɪd"
+  },
+  {
+    "name": "sophistry",
+    "trans": [
+      "诡辩；似是而非的推理",
+      "贬义词，指看似有理实则谬误的论证，与逻辑（logic）相对。"
+    ],
+    "usphone": "ˈsɒfɪstri",
+    "ukphone": "ˈsɒfɪstri"
+  },
+  {
+    "name": "sophomore",
+    "trans": [
+      "（大学）二年级学生",
+      "soph（智慧）+ more（更多）——\"自以为更有智慧的人\"，大学新生的自嘲由来。"
+    ],
+    "usphone": "ˈsɑːfəmɔːr",
+    "ukphone": "ˈsɒfəmɔː(r)"
+  },
+  {
+    "name": "philology",
+    "trans": [
+      "语文学；文献学",
+      "phil（爱）+ log（言语）+ y，古典时代\"爱言语之学\"，今指历史语言学。"
+    ],
+    "usphone": "fɪˈlɒlədʒi",
+    "ukphone": "fɪˈlɒlədʒi"
+  },
+  {
+    "name": "philanthropy",
+    "trans": [
+      "慈善；博爱",
+      "phil（爱）+ anthrop（人）+ y，\"爱人类\"，引申为慈善事业。"
+    ],
+    "usphone": "fɪˈlænθrəpi",
+    "ukphone": "fɪˈlænθrəpi"
+  },
+  {
+    "name": "philanthropist",
+    "trans": [
+      "慈善家",
+      "同根词：anthropology（人类学）也用 anthrop（人）词根。"
+    ],
+    "usphone": "fɪˈlænθrəpɪst",
+    "ukphone": "fɪˈlænθrəpɪst"
+  },
+  {
+    "name": "bibliophile",
+    "trans": [
+      "爱书者；藏书家",
+      "biblio（书）+ phile（爱），如 biblio- 也见于 bibliography（书目）。"
+    ],
+    "usphone": "ˈbɪbliəfaɪl",
+    "ukphone": "ˈbɪbliəfaɪl"
+  },
+  {
+    "name": "wisdom",
+    "trans": [
+      "智慧；明智",
+      "wis(e) + dom（状态后缀）。苏格拉底说\"我唯一知道的是我一无所知\"——智慧始于自知无知。"
+    ],
+    "usphone": "ˈwɪzdəm",
+    "ukphone": "ˈwɪzdəm"
+  },
+  {
+    "name": "sage",
+    "trans": [
+      "智者；贤人 adj. 明智的",
+      "常指东方或古典的睿智长者；sage 也指\"鼠尾草\"（同名植物）。"
+    ],
+    "usphone": "seɪdʒ",
+    "ukphone": "seɪdʒ"
+  },
+  {
+    "name": "academy",
+    "trans": [
+      "学院；研究院",
+      "源自柏拉图讲学的\"学园\"（Akademeia），后泛指学术机构。"
+    ],
+    "usphone": "əˈkædəmi",
+    "ukphone": "əˈkædəmi"
+  },
+  {
+    "name": "lyceum",
+    "trans": [
+      "学园；讲堂",
+      "亚里士多德在雅典创办的\"吕克昂学园\"（Lyceum），逍遥学派因此得名。"
+    ],
+    "usphone": "laɪˈsiːəm",
+    "ukphone": "laɪˈsiːəm"
+  },
+  {
+    "name": "doctrine",
+    "trans": [
+      "教义；学说",
+      "源自拉丁语 docere（教导），同根词 doctor（博士/医生）、document（文件）。"
+    ],
+    "usphone": "ˈdɑːktrɪn",
+    "ukphone": "ˈdɒktrɪn"
+  },
+  {
+    "name": "dogma",
+    "trans": [
+      "教条；信条",
+      "dogmatism（教条主义）指不加检验地固守信念，与怀疑精神（skepticism）对立。"
+    ],
+    "usphone": "ˈdɔːɡmə",
+    "ukphone": "ˈdɒɡmə"
+  },
+  {
+    "name": "dogmatic",
+    "trans": [
+      "教条的；武断的",
+      "康德把\"独断论\"（dogmatism）当作批判对象——理性须先自我审查。"
+    ],
+    "usphone": "dɒɡˈmætɪk",
+    "ukphone": "dɒɡˈmætɪk"
+  },
+  {
+    "name": "worldview",
+    "trans": [
+      "世界观",
+      "德语 Weltanschauung 的英译；哲学就是系统化的世界观。"
+    ],
+    "usphone": "ˈwɜːrldvjuː",
+    "ukphone": "ˈwɜːldvjuː"
+  },
+  {
+    "name": "curiosity",
+    "trans": [
+      "好奇心；求知欲",
+      "亚里士多德：哲学始于惊异（wonder）——好奇心是哲学的第一推动力。"
+    ],
+    "usphone": "ˌkjʊriˈɑːsəti",
+    "ukphone": "ˌkjʊəriˈɒsəti"
+  },
+  {
+    "name": "wonder",
+    "trans": [
+      "/v. 惊奇；想知道",
+      "\"哲学始于 wonder\"——对世界感到惊奇，才去追问\"为什么\"。"
+    ],
+    "usphone": "ˈwʌndə(r)",
+    "ukphone": "ˈwʌndə(r)"
+  },
+  {
+    "name": "inquiry",
+    "trans": [
+      "探究；质询",
+      "in（向内）+ quir（寻求）+ y；inquiry 是学术研究的核心动作。"
+    ],
+    "usphone": "ˈɪnkwəri",
+    "ukphone": "ɪnˈkwaɪəri"
+  },
+  {
+    "name": "logic",
+    "trans": [
+      "逻辑；逻辑学",
+      "源自 logos（言语/理性）。形式逻辑由亚里士多德创立，研究推理形式的有效性。"
+    ],
+    "usphone": "ˈlɑːdʒɪk",
+    "ukphone": "ˈlɒdʒɪk"
+  },
+  {
+    "name": "logical",
+    "trans": [
+      "逻辑的；合理的",
+      "反义词 illogical（不合逻辑的）。"
+    ],
+    "usphone": "ˈlɑːdʒɪkl",
+    "ukphone": "ˈlɒdʒɪkl"
+  },
+  {
+    "name": "logos",
+    "trans": [
+      "逻各斯（希腊哲学核心概念）",
+      "既指\"言语\"又指\"理性法则\"；斯多葛派视之为支配宇宙的理性，基督教译为\"道\"。"
+    ],
+    "usphone": "ˈloʊɡɑːs",
+    "ukphone": "ˈlɒɡɒs"
+  },
+  {
+    "name": "dialogue",
+    "trans": [
+      "对话；对白",
+      "dia（两者之间）+ logue（言说）。柏拉图的哲学几乎全部以对话录写成。"
+    ],
+    "usphone": "ˈdaɪəlɔːɡ",
+    "ukphone": "ˈdaɪəlɒɡ"
+  },
+  {
+    "name": "monologue",
+    "trans": [
+      "独白",
+      "mono（单一）+ logue；哲学研讨偏爱 dialogue 而非 monologue。"
+    ],
+    "usphone": "ˈmɑːnəlɔːɡ",
+    "ukphone": "ˈmɒnəlɒɡ"
+  },
+  {
+    "name": "prologue",
+    "trans": [
+      "序言；序幕",
+      "pro（在前）+ logue；epilogue（尾声）为其反义词。"
+    ],
+    "usphone": "ˈproʊlɔːɡ",
+    "ukphone": "ˈprəʊlɒɡ"
+  },
+  {
+    "name": "epilogue",
+    "trans": [
+      "尾声；后记",
+      "epi（在后）+ logue，与 prologue（序言）相对。"
+    ],
+    "usphone": "ˈepɪlɔːɡ",
+    "ukphone": "ˈepɪlɒɡ"
+  },
+  {
+    "name": "biology",
+    "trans": [
+      "生物学",
+      "bio（生命）+ logy（学科后缀），-logy 表示\"关于……的学问\"。"
+    ],
+    "usphone": "baɪˈɑːlədʒi",
+    "ukphone": "baɪˈɒlədʒi"
+  },
+  {
+    "name": "psychology",
+    "trans": [
+      "心理学",
+      "psych（灵魂）+ logy。心理学 19 世纪才从哲学中独立出来（见弗洛伊德）。"
+    ],
+    "usphone": "saɪˈkɑːlədʒi",
+    "ukphone": "saɪˈkɒlədʒi"
+  },
+  {
+    "name": "anthropology",
+    "trans": [
+      "人类学",
+      "anthrop（人）+ logy；同根词 philanthropist（慈善家）。"
+    ],
+    "usphone": "ˌænθrəˈpɑːlədʒi",
+    "ukphone": "ˌænθrəˈpɒlədʒi"
+  },
+  {
+    "name": "theology",
+    "trans": [
+      "神学",
+      "theo（神）+ logy。中世纪哲学与神学几乎不分家（奥古斯丁、阿奎那）。"
+    ],
+    "usphone": "θiˈɑːlədʒi",
+    "ukphone": "θiˈɒlədʒi"
+  },
+  {
+    "name": "ideology",
+    "trans": [
+      "意识形态；思想体系",
+      "ideo（观念）+ logy。马克思认为\"社会存在决定意识\"，意识形态是阶级利益的观念形态。"
+    ],
+    "usphone": "ˌaɪdiˈɑːlədʒi",
+    "ukphone": "ˌaɪdiˈɒlədʒi"
+  },
+  {
+    "name": "etymology",
+    "trans": [
+      "词源学；词源",
+      "etym（真实）+ logy——探究词的真实来源，是记忆单词的利器。"
+    ],
+    "usphone": "ˌetɪˈmɑːlədʒi",
+    "ukphone": "ˌetɪˈmɒlədʒi"
+  },
+  {
+    "name": "analogy",
+    "trans": [
+      "类比；相似",
+      "ana（按）+ log（比例）。类比推理是哲学论证的常用手法（如\"世界是钟表\"）。"
+    ],
+    "usphone": "əˈnælədʒi",
+    "ukphone": "əˈnælədʒi"
+  },
+  {
+    "name": "catalogue",
+    "trans": [
+      "目录；v. 编目",
+      "cata（完全）+ logue（列出），逐条列举。"
+    ],
+    "usphone": "ˈkætəlɔːɡ",
+    "ukphone": "ˈkætəlɒɡ"
+  },
+  {
+    "name": "syllogism",
+    "trans": [
+      "三段论",
+      "亚里士多德逻辑的核心：大前提+小前提→结论（如\"所有人会死；苏格拉底是人；故苏格拉底会死\"）。"
+    ],
+    "usphone": "ˈsɪlədʒɪzəm",
+    "ukphone": "ˈsɪlədʒɪzəm"
+  },
+  {
+    "name": "premise",
+    "trans": [
+      "前提",
+      "pre（在前）+ mis（放置）——推理的出发点；复述论证时先找 premise。"
+    ],
+    "usphone": "ˈpremɪs",
+    "ukphone": "ˈpremɪs"
+  },
+  {
+    "name": "conclusion",
+    "trans": [
+      "结论",
+      "con（共同）+ clud（关闭）+ ion，\"收拢\"所有前提得出的判断。"
+    ],
+    "usphone": "kənˈkluːʒn",
+    "ukphone": "kənˈkluːʒn"
+  },
+  {
+    "name": "argument",
+    "trans": [
+      "论证；论点；争论",
+      "哲学中的 argument 指\"由前提推出结论的推理\"，非\"吵架\"。"
+    ],
+    "usphone": "ˈɑːrɡjumənt",
+    "ukphone": "ˈɑːɡjumənt"
+  },
+  {
+    "name": "valid",
+    "trans": [
+      "有效的；正当的",
+      "valid argument（形式有效）≠ sound argument（前提也真的可靠论证）。"
+    ],
+    "usphone": "ˈvælɪd",
+    "ukphone": "ˈvælɪd"
+  },
+  {
+    "name": "fallacy",
+    "trans": [
+      "谬误；谬论",
+      "逻辑谬误（如诉诸人身、稻草人）是批判性思维课程的核心内容。"
+    ],
+    "usphone": "ˈfæləsi",
+    "ukphone": "ˈfæləsi"
+  },
+  {
+    "name": "paradox",
+    "trans": [
+      "悖论；似非而是的论点",
+      "para（超出）+ dox（意见）。芝诺悖论、说谎者悖论都挑战常识与逻辑。"
+    ],
+    "usphone": "ˈpærədɑːks",
+    "ukphone": "ˈpærədɒks"
+  },
+  {
+    "name": "rhetoric",
+    "trans": [
+      "修辞（学）；雄辩术",
+      "智者派的看家本领；哲学重论证（argument），修辞重说服（persuasion）。"
+    ],
+    "usphone": "ˈretərɪk",
+    "ukphone": "ˈretərɪk"
+  },
+  {
+    "name": "ontology",
+    "trans": [
+      "本体论；存在论",
+      "ont（存在）+ logy。追问\"世界最终由什么构成\"（水？原子？理型？）。"
+    ],
+    "usphone": "ɑːnˈtɑːlədʒi",
+    "ukphone": "ɒnˈtɒlədʒi"
+  },
+  {
+    "name": "ontological",
+    "trans": [
+      "本体论的",
+      "\"本体论证明\"（ontological argument）是安瑟伦对上帝存在的先验论证。"
+    ],
+    "usphone": "ˌɑːntəˈlɑːdʒɪkl",
+    "ukphone": "ˌɒntəˈlɒdʒɪkl"
+  },
+  {
+    "name": "being",
+    "trans": [
+      "存在；生命；存在物",
+      "巴门尼德：\"存在者存在，非存在者不存在\"——being 是西方形而上学的基石。"
+    ],
+    "usphone": "ˈbiːɪŋ",
+    "ukphone": "ˈbiːɪŋ"
+  },
+  {
+    "name": "existence",
+    "trans": [
+      "存在；生存",
+      "ex（出）+ ist（站）+ ence，\"站出来\"。萨特：存在先于本质。"
+    ],
+    "usphone": "ɪɡˈzɪstəns",
+    "ukphone": "ɪɡˈzɪstəns"
+  },
+  {
+    "name": "existential",
+    "trans": [
+      "存在的；存在主义的",
+      "existential crisis（存在危机）——对人生意义与身份的深度怀疑。"
+    ],
+    "usphone": "ˌeɡzɪˈstenʃl",
+    "ukphone": "ˌeɡzɪˈstenʃl"
+  },
+  {
+    "name": "existentialism",
+    "trans": [
+      "存在主义",
+      "祁克果开创、萨特集大成；核心：\"存在先于本质\"，人自由选择自我。"
+    ],
+    "usphone": "ˌeɡzɪˈstenʃəlɪzəm",
+    "ukphone": "ˌeɡzɪˈstenʃəlɪzəm"
+  },
+  {
+    "name": "essence",
+    "trans": [
+      "本质；精髓",
+      "源自拉丁语 esse（是）。传统哲学认为万物有固定本质；存在主义否定人的预定本质。"
+    ],
+    "usphone": "ˈesns",
+    "ukphone": "ˈesns"
+  },
+  {
+    "name": "essential",
+    "trans": [
+      "本质的；必不可少的",
+      "essentially（本质上）是哲学写作高频副词。"
+    ],
+    "usphone": "ɪˈsenʃl",
+    "ukphone": "ɪˈsenʃl"
+  },
+  {
+    "name": "entity",
+    "trans": [
+      "实体；存在物",
+      "指任何\"存在的东西\"，抽象或具体皆可（如 a legal entity 法人）。"
+    ],
+    "usphone": "ˈentəti",
+    "ukphone": "ˈentəti"
+  },
+  {
+    "name": "substance",
+    "trans": [
+      "实体；实质；物质",
+      "亚里士多德十范畴之首；史宾诺莎说只有一个实体——上帝即自然。"
+    ],
+    "usphone": "ˈsʌbstəns",
+    "ukphone": "ˈsʌbstəns"
+  },
+  {
+    "name": "reality",
+    "trans": [
+      "现实；实在",
+      "real（真实的）+ ity。哲学之争常围绕\"何谓真正的实在\"（理型 vs 现象）。"
+    ],
+    "usphone": "riˈæləti",
+    "ukphone": "riˈæləti"
+  },
+  {
+    "name": "actuality",
+    "trans": [
+      "现实性；现实",
+      "亚里士多德\"现实（actuality）与潜能（potentiality）\"之分的术语。"
+    ],
+    "usphone": "ˌæktʃuˈæləti",
+    "ukphone": "ˌæktʃuˈæləti"
+  },
+  {
+    "name": "potentiality",
+    "trans": [
+      "潜能；可能性",
+      "橡子有成为橡树的潜能；质料是潜能，形式是现实的实现。"
+    ],
+    "usphone": "pəˌtenʃiˈæləti",
+    "ukphone": "pəˌtenʃiˈæləti"
+  },
+  {
+    "name": "matter",
+    "trans": [
+      "物质；质料；事情",
+      "亚里士多德的\"质料（matter）+ 形式（form）\"；唯物主义（materialism）由此而来。"
+    ],
+    "usphone": "ˈmætə(r)",
+    "ukphone": "ˈmætə(r)"
+  },
+  {
+    "name": "form",
+    "trans": [
+      "形式；形状；v. 形成",
+      "柏拉图的\"理型\"（Form/Idea）与亚里士多德的\"形式\"（form）是西方哲学核心术语。"
+    ],
+    "usphone": "fɔːrm",
+    "ukphone": "fɔːm"
+  },
+  {
+    "name": "phenomenon",
+    "trans": [
+      "现象（复数 phenomena）",
+      "康德：我们只能认识现象，物自体（thing-in-itself）不可知。"
+    ],
+    "usphone": "fəˈnɑːmɪnən",
+    "ukphone": "fəˈnɒmɪnən"
+  },
+  {
+    "name": "noumenon",
+    "trans": [
+      "本体；物自体（复数 noumena）",
+      "康德术语，与 phenomenon（现象）相对，指不可知的\"事物本身\"。"
+    ],
+    "usphone": "ˈnuːmənɑːn",
+    "ukphone": "ˈnuːmənɒn"
+  },
+  {
+    "name": "transcend",
+    "trans": [
+      "超越；超出",
+      "trans（越过）+ scend（攀登）；超越经验界限的即\"先验的\"（transcendental）。"
+    ],
+    "usphone": "trænˈsend",
+    "ukphone": "trænˈsend"
+  },
+  {
+    "name": "transcendental",
+    "trans": [
+      "先验的；超验的",
+      "康德\"先验哲学\"（transcendental philosophy）研究认识的先天条件，区别于\"超验\"（transcendent）。"
+    ],
+    "usphone": "ˌtrænsenˈdentl",
+    "ukphone": "ˌtrænsenˈdentl"
+  },
+  {
+    "name": "immanent",
+    "trans": [
+      "内在的；内在于（世界的）",
+      "与 transcendent（超越的）相对；史宾诺莎的上帝\"内在于\"自然。"
+    ],
+    "usphone": "ˈɪmənənt",
+    "ukphone": "ˈɪmənənt"
+  },
+  {
+    "name": "absolute",
+    "trans": [
+      "绝对的 n. 绝对者",
+      "黑格尔的\"绝对精神\"（Absolute Spirit）即实在的终极本体。"
+    ],
+    "usphone": "ˈæbsəluːt",
+    "ukphone": "ˈæbsəluːt"
+  },
+  {
+    "name": "infinite",
+    "trans": [
+      "无限的",
+      "in（不）+ finite（有限的）。阿那克西曼德的\"无定形\"（apeiron）即无限者。"
+    ],
+    "usphone": "ˈɪnfɪnət",
+    "ukphone": "ˈɪnfɪnət"
+  },
+  {
+    "name": "finite",
+    "trans": [
+      "有限的",
+      "人是有死者（mortal）、有限的存在者（finite being）——存在主义由此出发。"
+    ],
+    "usphone": "ˈfaɪnaɪt",
+    "ukphone": "ˈfaɪnaɪt"
+  },
+  {
+    "name": "epistemology",
+    "trans": [
+      "认识论；知识论",
+      "episteme（知识）+ logy。与本体论并列为哲学两大分支，追问\"知识从何而来、如何可靠\"。"
+    ],
+    "usphone": "ɪˌpɪstəˈmɑːlədʒi",
+    "ukphone": "ɪˌpɪstəˈmɒlədʒi"
+  },
+  {
+    "name": "epistemological",
+    "trans": [
+      "认识论的",
+      "近代认识论之争：理性主义 vs 经验主义。"
+    ],
+    "usphone": "ɪˌpɪstəməˈlɒdʒɪkl",
+    "ukphone": "ɪˌpɪstəməˈlɒdʒɪkl"
+  },
+  {
+    "name": "knowledge",
+    "trans": [
+      "知识；认识",
+      "柏拉图把知识定义为\"被证成的真信念\"（justified true belief）。"
+    ],
+    "usphone": "ˈnɑːlɪdʒ",
+    "ukphone": "ˈnɒlɪdʒ"
+  },
+  {
+    "name": "cognition",
+    "trans": [
+      "认知；认识",
+      "cogn（知道）+ ition；认知科学（cognitive science）是哲学与神经科学的交叉。"
+    ],
+    "usphone": "kɑːɡˈnɪʃn",
+    "ukphone": "kɒɡˈnɪʃn"
+  },
+  {
+    "name": "cognitive",
+    "trans": [
+      "认知的",
+      "cognitive ability（认知能力）；认知偏误（cognitive bias）是批判性思维话题。"
+    ],
+    "usphone": "ˈkɑːɡnətɪv",
+    "ukphone": "ˈkɒɡnətɪv"
+  },
+  {
+    "name": "recognize",
+    "trans": [
+      "认出；承认；认识到",
+      "re（再）+ cogn（知道）+ ize，\"再次知道\"→ 认出。柏拉图\"回忆说\"（recollection）即此逻辑。"
+    ],
+    "usphone": "ˈrekəɡnaɪz",
+    "ukphone": "ˈrekəɡnaɪz"
+  },
+  {
+    "name": "recognition",
+    "trans": [
+      "认出；承认；赏识",
+      "黑格尔\"承认的斗争\"（struggle for recognition）见于主奴辩证法。"
+    ],
+    "usphone": "ˌrekəɡˈnɪʃn",
+    "ukphone": "ˌrekəɡˈnɪʃn"
+  },
+  {
+    "name": "gnostic",
+    "trans": [
+      "灵知的；诺斯替的",
+      "gnos（知道）+ tic；诺斯替主义（Gnosticism）主张通过神秘知识得救。"
+    ],
+    "usphone": "ˈnɑːstɪk",
+    "ukphone": "ˈnɒstɪk"
+  },
+  {
+    "name": "agnostic",
+    "trans": [
+      "/adj. 不可知论者（的）",
+      "a（不）+ gnost（知道）+ ic——认为上帝是否存在不可知，介于有神论与无神论之间。"
+    ],
+    "usphone": "æɡˈnɑːstɪk",
+    "ukphone": "æɡˈnɒstɪk"
+  },
+  {
+    "name": "ignorance",
+    "trans": [
+      "无知",
+      "苏格拉底\"自知无知\"（awareness of ignorance）是哲学智慧的起点。"
+    ],
+    "usphone": "ˈɪɡnərəns",
+    "ukphone": "ˈɪɡnərəns"
+  },
+  {
+    "name": "a priori",
+    "trans": [
+      "/adv. 先天的（地）；先验的（地）",
+      "拉丁语\"从前面\"。指不依赖经验即可知的（如\"所有单身汉未婚\"）。"
+    ],
+    "usphone": "ˌeɪ praɪˈɔːri",
+    "ukphone": "ˌeɪ praɪˈɔːri"
+  },
+  {
+    "name": "a posteriori",
+    "trans": [
+      "/adv. 后天的（地）；经验的（地）",
+      "拉丁语\"从后面\"。指依赖经验才能知的（如\"今天下雨\"）。"
+    ],
+    "usphone": "ˌeɪ pɑːˌstɪriˈɔːri",
+    "ukphone": "ˌeɪ pɒˌsteriˈɔːri"
+  },
+  {
+    "name": "analytic",
+    "trans": [
+      "分析的",
+      "康德\"分析判断\"（analytic judgment）：谓词已含于主词，不扩展知识。"
+    ],
+    "usphone": "ˌænəˈlɪtɪk",
+    "ukphone": "ˌænəˈlɪtɪk"
+  },
+  {
+    "name": "synthetic",
+    "trans": [
+      "综合的",
+      "康德\"综合判断\"（synthetic judgment）扩展知识；\"先天综合判断\"是其核心问题。"
+    ],
+    "usphone": "sɪnˈθetɪk",
+    "ukphone": "sɪnˈθetɪk"
+  },
+  {
+    "name": "judgment",
+    "trans": [
+      "判断；评判",
+      "康德把判断当作认识的基本单位（如\"这朵花是红的\"）。"
+    ],
+    "usphone": "ˈdʒʌdʒmənt",
+    "ukphone": "ˈdʒʌdʒmənt"
+  },
+  {
+    "name": "intuition",
+    "trans": [
+      "直觉",
+      "intuit（直接看到）+ ion。笛卡尔靠理性直觉把握\"我思故我在\"。"
+    ],
+    "usphone": "ˌɪntuˈɪʃn",
+    "ukphone": "ˌɪntjuˈɪʃn"
+  },
+  {
+    "name": "intellect",
+    "trans": [
+      "理智；智力",
+      "intel（在……之间）+ lect（选择）——\"从纷繁中分辨\"的能力。"
+    ],
+    "usphone": "ˈɪntəlekt",
+    "ukphone": "ˈɪntəlekt"
+  },
+  {
+    "name": "intellectual",
+    "trans": [
+      "智力的 n. 知识分子",
+      "intellectual history（思想史）是哲学史研究的别名。"
+    ],
+    "usphone": "ˌɪntəˈlektʃuəl",
+    "ukphone": "ˌɪntəˈlektʃuəl"
+  },
+  {
+    "name": "intelligence",
+    "trans": [
+      "智力；智慧；情报",
+      "intel + lig（选择）+ ence；人工智能（artificial intelligence）是当代哲学新战场。"
+    ],
+    "usphone": "ɪnˈtelɪdʒəns",
+    "ukphone": "ɪnˈtelɪdʒəns"
+  },
+  {
+    "name": "comprehension",
+    "trans": [
+      "理解；理解力",
+      "com（共同）+ prehend（抓住），\"一把抓住\"→ 全面理解。"
+    ],
+    "usphone": "ˌkɑːmprɪˈhenʃn",
+    "ukphone": "ˌkɒmprɪˈhenʃn"
+  },
+  {
+    "name": "empiricism",
+    "trans": [
+      "经验主义；经验论",
+      "empir（经验）+ ism。主张一切知识源于感官经验（洛克、休谟、柏克莱）。"
+    ],
+    "usphone": "ɪmˈpɪrɪsɪzəm",
+    "ukphone": "ɪmˈpɪrɪsɪzəm"
+  },
+  {
+    "name": "empirical",
+    "trans": [
+      "经验的；实证的",
+      "empirical evidence（经验证据）是科学方法的基石。"
+    ],
+    "usphone": "ɪmˈpɪrɪkl",
+    "ukphone": "ɪmˈpɪrɪkl"
+  },
+  {
+    "name": "empiricist",
+    "trans": [
+      "经验主义者",
+      "英国经验主义三杰：洛克、柏克莱、休谟。"
+    ],
+    "usphone": "ɪmˈpɪrɪsɪst",
+    "ukphone": "ɪmˈpɪrɪsɪst"
+  },
+  {
+    "name": "experience",
+    "trans": [
+      "/v. 经验；经历",
+      "经验主义的名词来源——一切知识从 experience 开始。"
+    ],
+    "usphone": "ɪkˈspɪriəns",
+    "ukphone": "ɪkˈspɪəriəns"
+  },
+  {
+    "name": "experiment",
+    "trans": [
+      "/v. 实验",
+      "伽利略以降，实验（observation + experiment）取代权威成为知识来源。"
+    ],
+    "usphone": "ɪkˈsperɪmənt",
+    "ukphone": "ɪkˈsperɪmənt"
+  },
+  {
+    "name": "sensation",
+    "trans": [
+      "感觉；轰动",
+      "sens（感觉）+ ation。洛克：感觉是观念的两大来源之一。"
+    ],
+    "usphone": "senˈseɪʃn",
+    "ukphone": "senˈseɪʃn"
+  },
+  {
+    "name": "sense",
+    "trans": [
+      "感官；感觉；意义 v. 感觉到",
+      "common sense（常识）是哲学既尊重又批判的对象。"
+    ],
+    "usphone": "sens",
+    "ukphone": "sens"
+  },
+  {
+    "name": "sensible",
+    "trans": [
+      "明智的；可感觉到的",
+      "sensible world（可感世界）在柏拉图那里低于理型世界。"
+    ],
+    "usphone": "ˈsensəbl",
+    "ukphone": "ˈsensəbl"
+  },
+  {
+    "name": "sensuous",
+    "trans": [
+      "感官的；愉悦感官的",
+      "与 sensual（肉欲的）常混用；美学讨论\"感官愉悦\"。"
+    ],
+    "usphone": "ˈsenʃuəs",
+    "ukphone": "ˈsenʃuəs"
+  },
+  {
+    "name": "perception",
+    "trans": [
+      "知觉；感知；看法",
+      "per（完全）+ cept（抓住）——\"完全抓住\"外部对象的过程。"
+    ],
+    "usphone": "pərˈsepʃn",
+    "ukphone": "pəˈsepʃn"
+  },
+  {
+    "name": "perceive",
+    "trans": [
+      "感知；察觉；认为",
+      "柏克莱\"存在即被感知\"（esse est percipi）中的动词正是 perceive。"
+    ],
+    "usphone": "pərˈsiːv",
+    "ukphone": "pəˈsiːv"
+  },
+  {
+    "name": "perceptible",
+    "trans": [
+      "可感知的",
+      "反义词 imperceptible（不可察觉的）。"
+    ],
+    "usphone": "pərˈseptəbl",
+    "ukphone": "pəˈseptəbl"
+  },
+  {
+    "name": "impression",
+    "trans": [
+      "印象",
+      "休谟术语：印象（impression）是生动的直接感觉，观念（idea）是印象的摹本。"
+    ],
+    "usphone": "ɪmˈpreʃn",
+    "ukphone": "ɪmˈpreʃn"
+  },
+  {
+    "name": "idea",
+    "trans": [
+      "观念；理念；想法",
+      "柏拉图\"理型\"（Idea/Form）与洛克、休谟的\"观念\"含义不同，须留意语境。"
+    ],
+    "usphone": "aɪˈdiːə",
+    "ukphone": "aɪˈdɪə"
+  },
+  {
+    "name": "tabula rasa",
+    "trans": [
+      "白板（拉丁语）",
+      "洛克：心灵初生如白板，无天赋观念，一切来自经验。"
+    ],
+    "usphone": "ˌtæbjələ ˈrɑːzə",
+    "ukphone": "ˌtæbjələ ˈrɑːzə"
+  },
+  {
+    "name": "memory",
+    "trans": [
+      "记忆",
+      "柏拉图\"回忆说\"（anamnesis）：学习即回忆灵魂前世见过的理型。"
+    ],
+    "usphone": "ˈmeməri",
+    "ukphone": "ˈmeməri"
+  },
+  {
+    "name": "recollection",
+    "trans": [
+      "回忆；回想",
+      "柏拉图认为一切知识是对理型的 recollection。"
+    ],
+    "usphone": "ˌrekəˈlekʃn",
+    "ukphone": "ˌrekəˈlekʃn"
+  },
+  {
+    "name": "habit",
+    "trans": [
+      "习惯",
+      "休谟：因果信念来自习惯（custom/habit），而非理性必然性。"
+    ],
+    "usphone": "ˈhæbɪt",
+    "ukphone": "ˈhæbɪt"
+  },
+  {
+    "name": "custom",
+    "trans": [
+      "习俗；惯例",
+      "休谟用 custom 解释因果联想；习俗也是伦理学的研究对象（ethos）。"
+    ],
+    "usphone": "ˈkʌstəm",
+    "ukphone": "ˈkʌstəm"
+  },
+  {
+    "name": "association",
+    "trans": [
+      "联想；联合",
+      "观念联想（association of ideas）是经验主义解释心理活动的机制。"
+    ],
+    "usphone": "əˌsoʊsiˈeɪʃn",
+    "ukphone": "əˌsəʊsiˈeɪʃn"
+  },
+  {
+    "name": "rational",
+    "trans": [
+      "理性的；合理的",
+      "ratio（计算、理性）+ nal。启蒙的口号：敢于运用自己的理性。"
+    ],
+    "usphone": "ˈræʃnəl",
+    "ukphone": "ˈræʃnəl"
+  },
+  {
+    "name": "rationality",
+    "trans": [
+      "理性；合理性",
+      "理性（rationality）vs 经验（experience）之争是近代哲学的主线。"
+    ],
+    "usphone": "ˌræʃəˈnæləti",
+    "ukphone": "ˌræʃəˈnæləti"
+  },
+  {
+    "name": "rationalism",
+    "trans": [
+      "理性主义；唯理论",
+      "主张知识源于理性推理与天赋观念（笛卡尔、史宾诺莎、莱布尼茨）。"
+    ],
+    "usphone": "ˈræʃənəlɪzəm",
+    "ukphone": "ˈræʃənəlɪzəm"
+  },
+  {
+    "name": "rationalist",
+    "trans": [
+      "理性主义者",
+      "与 empiricist（经验主义者）相对。"
+    ],
+    "usphone": "ˈræʃənəlɪst",
+    "ukphone": "ˈræʃənəlɪst"
+  },
+  {
+    "name": "irrational",
+    "trans": [
+      "不理性的；无理性的",
+      "in（不）+ rational；非理性（the irrational）在浪漫主义与尼采处被重新估价。"
+    ],
+    "usphone": "ɪˈræʃənl",
+    "ukphone": "ɪˈræʃənl"
+  },
+  {
+    "name": "reason",
+    "trans": [
+      "理性；理由 v. 推理",
+      "康德三大批判的核心词；\"用理性审查一切\"是启蒙精神。"
+    ],
+    "usphone": "ˈriːzn",
+    "ukphone": "ˈriːzn"
+  },
+  {
+    "name": "reasoning",
+    "trans": [
+      "推理；论证",
+      "deductive reasoning（演绎推理）与 inductive reasoning（归纳推理）。"
+    ],
+    "usphone": "ˈriːzənɪŋ",
+    "ukphone": "ˈriːzənɪŋ"
+  },
+  {
+    "name": "ratio",
+    "trans": [
+      "比率；比例",
+      "词根 ratio 本义\"计算\"；rational、reason 皆由此来。"
+    ],
+    "usphone": "ˈreɪʃioʊ",
+    "ukphone": "ˈreɪʃiəʊ"
+  },
+  {
+    "name": "mental",
+    "trans": [
+      "精神的；心理的",
+      "ment（心智）+ al；mental state（心灵状态）是心灵哲学话题。"
+    ],
+    "usphone": "ˈmentl",
+    "ukphone": "ˈmentl"
+  },
+  {
+    "name": "mentality",
+    "trans": [
+      "心态；思维方式",
+      "如 \"scientific mentality\"（科学心态）。"
+    ],
+    "usphone": "menˈtæləti",
+    "ukphone": "menˈtæləti"
+  },
+  {
+    "name": "mind",
+    "trans": [
+      "心灵；心智 v. 介意",
+      "心身问题（mind-body problem）由笛卡尔二元论开启，至今是哲学热点。"
+    ],
+    "usphone": "maɪnd",
+    "ukphone": "maɪnd"
+  },
+  {
+    "name": "mindfulness",
+    "trans": [
+      "正念；留心",
+      "由佛教哲学引入西方心理学的概念，现为流行术语。"
+    ],
+    "usphone": "ˈmaɪndflnəs",
+    "ukphone": "ˈmaɪndflnəs"
+  },
+  {
+    "name": "innate",
+    "trans": [
+      "天生的；先天的",
+      "in（在内）+ nate（出生）。理性主义相信 innate ideas（天赋观念），经验主义否认。"
+    ],
+    "usphone": "ɪˈneɪt",
+    "ukphone": "ɪˈneɪt"
+  },
+  {
+    "name": "inherent",
+    "trans": [
+      "固有的；内在的",
+      "与 innate 近义，强调\"内在于事物本性\"。"
+    ],
+    "usphone": "ɪnˈhɪrənt",
+    "ukphone": "ɪnˈhɪərənt"
+  },
+  {
+    "name": "deduction",
+    "trans": [
+      "演绎；推论",
+      "de（向下）+ duct（引导）。从一般到特殊，结论由前提必然推出。"
+    ],
+    "usphone": "dɪˈdʌkʃn",
+    "ukphone": "dɪˈdʌkʃn"
+  },
+  {
+    "name": "deductive",
+    "trans": [
+      "演绎的",
+      "理性主义偏爱 deductive 方法（数学是典范）。"
+    ],
+    "usphone": "dɪˈdʌktɪv",
+    "ukphone": "dɪˈdʌktɪv"
+  },
+  {
+    "name": "induction",
+    "trans": [
+      "归纳；归纳法",
+      "从特殊到一般；休谟指出归纳无法被逻辑证明（归纳问题）。"
+    ],
+    "usphone": "ɪnˈdʌkʃn",
+    "ukphone": "ɪnˈdʌkʃn"
+  },
+  {
+    "name": "inductive",
+    "trans": [
+      "归纳的",
+      "经验主义与科学方法倚重 inductive 推理。"
+    ],
+    "usphone": "ɪnˈdʌktɪv",
+    "ukphone": "ɪnˈdʌktɪv"
+  },
+  {
+    "name": "skeptic",
+    "trans": [
+      "怀疑论者；持怀疑态度者",
+      "skept（审视）+ ic。哲学意义上的\"怀疑者\"以审查信念为业。"
+    ],
+    "usphone": "ˈskeptɪk",
+    "ukphone": "ˈskeptɪk"
+  },
+  {
+    "name": "skeptical",
+    "trans": [
+      "怀疑的",
+      "be skeptical of/about 对……持怀疑态度。"
+    ],
+    "usphone": "ˈskeptɪkl",
+    "ukphone": "ˈskeptɪkl"
+  },
+  {
+    "name": "skepticism",
+    "trans": [
+      "怀疑主义",
+      "从皮浪的\"悬置判断\"到笛卡尔的方法论怀疑；怀疑是求真的起点。"
+    ],
+    "usphone": "ˈskeptɪsɪzəm",
+    "ukphone": "ˈskeptɪsɪzəm"
+  },
+  {
+    "name": "doubt",
+    "trans": [
+      "/v. 怀疑；疑问",
+      "笛卡尔把普遍怀疑（methodic doubt）当作发现确定性的方法。"
+    ],
+    "usphone": "daʊt",
+    "ukphone": "daʊt"
+  },
+  {
+    "name": "doubtful",
+    "trans": [
+      "可疑的；不确定的",
+      "与 certain（确定的）相对。"
+    ],
+    "usphone": "ˈdaʊtfl",
+    "ukphone": "ˈdaʊtfl"
+  },
+  {
+    "name": "dubious",
+    "trans": [
+      "可疑的；靠不住的",
+      "比 doubtful 语气更强，含\"值得怀疑\"之意。"
+    ],
+    "usphone": "ˈduːbiəs",
+    "ukphone": "ˈdjuːbiəs"
+  },
+  {
+    "name": "critic",
+    "trans": [
+      "批评家；评论家",
+      "crit（判断）+ ic。康德的\"批判\"（critique）不是责难，而是审查理性能力的边界。"
+    ],
+    "usphone": "ˈkrɪtɪk",
+    "ukphone": "ˈkrɪtɪk"
+  },
+  {
+    "name": "critical",
+    "trans": [
+      "批判的；关键的；危急的",
+      "critical thinking（批判性思维）是大学最受重视的能力。"
+    ],
+    "usphone": "ˈkrɪtɪkl",
+    "ukphone": "ˈkrɪtɪkl"
+  },
+  {
+    "name": "criticism",
+    "trans": [
+      "批评；批判",
+      "康德三大批判（Critique of Pure Reason 等）的英文即 criticism/critique。"
+    ],
+    "usphone": "ˈkrɪtɪsɪzəm",
+    "ukphone": "ˈkrɪtɪsɪzəm"
+  },
+  {
+    "name": "critique",
+    "trans": [
+      "评论；批判性分析 v. 评论",
+      "源自法语，比 criticism 更学术化，指系统的批判性分析。"
+    ],
+    "usphone": "krɪˈtiːk",
+    "ukphone": "krɪˈtiːk"
+  },
+  {
+    "name": "criterion",
+    "trans": [
+      "标准；准则（复数 criteria）",
+      "crit（判断）+ erion；\"真理的标准\"（criterion of truth）是认识论问题。"
+    ],
+    "usphone": "kraɪˈtɪriən",
+    "ukphone": "kraɪˈtɪəriən"
+  },
+  {
+    "name": "verify",
+    "trans": [
+      "核实；证实",
+      "ver（真）+ ify。逻辑实证主义：命题的意义在于其可证实性（verifiability）。"
+    ],
+    "usphone": "ˈverɪfaɪ",
+    "ukphone": "ˈverɪfaɪ"
+  },
+  {
+    "name": "verification",
+    "trans": [
+      "证实；验证",
+      "与 falsification（证伪）相对；波普尔主张科学在于可证伪性。"
+    ],
+    "usphone": "ˌverɪfɪˈkeɪʃn",
+    "ukphone": "ˌverɪfɪˈkeɪʃn"
+  },
+  {
+    "name": "certainty",
+    "trans": [
+      "确定性；确信",
+      "笛卡尔追求绝对确定性，以\"我思故我在\"为第一确定真理。"
+    ],
+    "usphone": "ˈsɜːrtnti",
+    "ukphone": "ˈsɜːtnti"
+  },
+  {
+    "name": "uncertain",
+    "trans": [
+      "不确定的",
+      "un（不）+ certain；不确定性是怀疑论的产物，也是现代科学常态。"
+    ],
+    "usphone": "ʌnˈsɜːrtn",
+    "ukphone": "ʌnˈsɜːtn"
+  },
+  {
+    "name": "probability",
+    "trans": [
+      "概率；可能性",
+      "休谟承认因果只是高概率信念；概率论是处理不确定性的数学工具。"
+    ],
+    "usphone": "ˌprɑːbəˈbɪləti",
+    "ukphone": "ˌprɒbəˈbɪləti"
+  },
+  {
+    "name": "probable",
+    "trans": [
+      "很可能的",
+      "prob（检验）+ able，\"经得起检验的\"→ 可能发生。"
+    ],
+    "usphone": "ˈprɑːbəbl",
+    "ukphone": "ˈprɒbəbl"
+  },
+  {
+    "name": "plausible",
+    "trans": [
+      "貌似有理的；可信的",
+      "plausible argument（貌似合理的论证）≠ valid argument，批判时须拆穿。"
+    ],
+    "usphone": "ˈplɔːzəbl",
+    "ukphone": "ˈplɔːzəbl"
+  },
+  {
+    "name": "refute",
+    "trans": [
+      "驳斥；反驳",
+      "refute an argument 指证明其不成立；与 rebut（反驳）近义。"
+    ],
+    "usphone": "rɪˈfjuːt",
+    "ukphone": "rɪˈfjuːt"
+  },
+  {
+    "name": "counterargument",
+    "trans": [
+      "反论证；反驳论点",
+      "counter（相反）+ argument；论文写作要求回应 counterargument。"
+    ],
+    "usphone": "ˈkaʊntərɑːrɡjumənt",
+    "ukphone": "ˈkaʊntərɑːɡjumənt"
+  },
+  {
+    "name": "ethics",
+    "trans": [
+      "伦理学；道德准则（作单数时指学科）",
+      "eth（品格/习俗）+ ics（学科）。哲学三大分支之一，研究\"人应当如何生活\"。"
+    ],
+    "usphone": "ˈeθɪks",
+    "ukphone": "ˈeθɪks"
+  },
+  {
+    "name": "ethical",
+    "trans": [
+      "伦理的；合乎道德的",
+      "反义词 unethical（不道德的）。"
+    ],
+    "usphone": "ˈeθɪkl",
+    "ukphone": "ˈeθɪkl"
+  },
+  {
+    "name": "ethos",
+    "trans": [
+      "精神特质；风气",
+      "ethics 的词根；指一个群体共享的价值气质。"
+    ],
+    "usphone": "ˈiːθɑːs",
+    "ukphone": "ˈiːθɒs"
+  },
+  {
+    "name": "virtue",
+    "trans": [
+      "德性；美德；优点",
+      "源自拉丁语 vir（男子），本义\"力量/卓越\"。亚里士多德：幸福在于合乎德性的活动。"
+    ],
+    "usphone": "ˈvɜːrtʃuː",
+    "ukphone": "ˈvɜːtʃuː"
+  },
+  {
+    "name": "virtuous",
+    "trans": [
+      "有德性的；品行端正的",
+      "德性论（virtue ethics）主张\"成为什么样的人\"先于\"做什么事\"。"
+    ],
+    "usphone": "ˈvɜːrtʃuəs",
+    "ukphone": "ˈvɜːtʃuəs"
+  },
+  {
+    "name": "moral",
+    "trans": [
+      "道德的 n. 寓意",
+      "源自拉丁语 mos（习俗），与 ethical 近义，morals 指道德规范。"
+    ],
+    "usphone": "ˈmɔːrəl",
+    "ukphone": "ˈmɒrəl"
+  },
+  {
+    "name": "morality",
+    "trans": [
+      "道德；道德性",
+      "morality 是规范系统，ethics 是对其进行哲学反思的学科。"
+    ],
+    "usphone": "məˈræləti",
+    "ukphone": "məˈræləti"
+  },
+  {
+    "name": "immoral",
+    "trans": [
+      "不道德的",
+      "im（不）+ moral；区别于 amoral（与道德无关的）。"
+    ],
+    "usphone": "ɪˈmɔːrəl",
+    "ukphone": "ɪˈmɒrəl"
+  },
+  {
+    "name": "value",
+    "trans": [
+      "价值 v. 珍视",
+      "价值论（axiology）研究美、善、正义等价值问题。"
+    ],
+    "usphone": "ˈvæljuː",
+    "ukphone": "ˈvæljuː"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "好的 n. 善",
+      "柏拉图\"善的理型\"（the Form of the Good）是理想国中最高的理念。"
+    ],
+    "usphone": "ɡʊd",
+    "ukphone": "ɡʊd"
+  },
+  {
+    "name": "evil",
+    "trans": [
+      "恶 adj. 邪恶的",
+      "恶的问题（problem of evil）挑战\"上帝全能全善\"（见神正论）。"
+    ],
+    "usphone": "ˈiːvl",
+    "ukphone": "ˈiːvl"
+  },
+  {
+    "name": "ought",
+    "trans": [
+      "应当；应该",
+      "休谟的\"是-应当问题\"（is-ought problem）：不能从事实直接推出规范。"
+    ],
+    "usphone": "ɔːt",
+    "ukphone": "ɔːt"
+  },
+  {
+    "name": "duty",
+    "trans": [
+      "义务；责任",
+      "康德义务论（deontology）的核心：道德出于义务而非后果。"
+    ],
+    "usphone": "ˈduːti",
+    "ukphone": "ˈdjuːti"
+  },
+  {
+    "name": "obligation",
+    "trans": [
+      "义务；责任",
+      "与 duty 近义；moral obligation（道德义务）。"
+    ],
+    "usphone": "ˌɑːblɪˈɡeɪʃn",
+    "ukphone": "ˌɒblɪˈɡeɪʃn"
+  },
+  {
+    "name": "conscience",
+    "trans": [
+      "良心；良知",
+      "con（共同）+ science（知道）——\"与己共知\"；祁克果强调\"良心的个体决断\"。"
+    ],
+    "usphone": "ˈkɑːnʃəns",
+    "ukphone": "ˈkɒnʃəns"
+  },
+  {
+    "name": "character",
+    "trans": [
+      "品格；性格；角色",
+      "亚里士多德：德性是品格状态（state of character），靠习惯养成。"
+    ],
+    "usphone": "ˈkærəktə(r)",
+    "ukphone": "ˈkærəktə(r)"
+  },
+  {
+    "name": "disposition",
+    "trans": [
+      "性情；倾向",
+      "德性即一种稳定的 disposition（行动倾向）。"
+    ],
+    "usphone": "ˌdɪspəˈzɪʃn",
+    "ukphone": "ˌdɪspəˈzɪʃn"
+  },
+  {
+    "name": "excellence",
+    "trans": [
+      "卓越；优秀",
+      "亚里士多德的 arete（德性）常译为 excellence——做人的卓越状态。"
+    ],
+    "usphone": "ˈeksələns",
+    "ukphone": "ˈeksələns"
+  },
+  {
+    "name": "happiness",
+    "trans": [
+      "幸福",
+      "亚里士多德：幸福（eudaimonia）是最高善，即合乎德性的灵魂活动。"
+    ],
+    "usphone": "ˈhæpinəs",
+    "ukphone": "ˈhæpinəs"
+  },
+  {
+    "name": "eudaimonia",
+    "trans": [
+      "幸福；繁荣（希腊语）",
+      "亚里士多德伦理学的目标词，常译\"well-being\"（良好生活）。"
+    ],
+    "usphone": "juːdaɪˈmoʊniə",
+    "ukphone": "juːdaɪˈməʊniə"
+  },
+  {
+    "name": "well-being",
+    "trans": [
+      "幸福；安康",
+      "现代伦理学与心理学用 well-being 对应 eudaimonia。"
+    ],
+    "usphone": "ˌwel ˈbiːɪŋ",
+    "ukphone": "ˌwel ˈbiːɪŋ"
+  },
+  {
+    "name": "hedonism",
+    "trans": [
+      "快乐主义；享乐主义",
+      "hedon（快乐）+ ism。伊比鸠鲁主张快乐为最高善，但真快乐=无痛苦+心灵宁静。"
+    ],
+    "usphone": "ˈhiːdənɪzəm",
+    "ukphone": "ˈhiːdənɪzəm"
+  },
+  {
+    "name": "hedonist",
+    "trans": [
+      "快乐主义者",
+      "注意区分\"纵欲享乐\"与伊比鸠鲁式的\"审慎快乐\"。"
+    ],
+    "usphone": "ˈhiːdənɪst",
+    "ukphone": "ˈhiːdənɪst"
+  },
+  {
+    "name": "hedonistic",
+    "trans": [
+      "享乐主义的",
+      "hedonistic calculus（快乐计算）：权衡长期快乐的得失。"
+    ],
+    "usphone": "ˌhiːdəˈnɪstɪk",
+    "ukphone": "ˌhiːdəˈnɪstɪk"
+  },
+  {
+    "name": "pleasure",
+    "trans": [
+      "快乐；愉悦",
+      "伊比鸠鲁把快乐定义为\"无痛苦（aponia）+无纷扰（ataraxia）\"。"
+    ],
+    "usphone": "ˈpleʒə(r)",
+    "ukphone": "ˈpleʒə(r)"
+  },
+  {
+    "name": "pain",
+    "trans": [
+      "痛苦；疼痛",
+      "快乐主义的起点：避免痛苦优先于追逐快乐。"
+    ],
+    "usphone": "peɪn",
+    "ukphone": "peɪn"
+  },
+  {
+    "name": "desire",
+    "trans": [
+      "/v. 欲望；渴望",
+      "柏拉图灵魂三分中的\"欲望\"（appetite）部分，需受理性驾驭。"
+    ],
+    "usphone": "dɪˈzaɪə(r)",
+    "ukphone": "dɪˈzaɪə(r)"
+  },
+  {
+    "name": "appetite",
+    "trans": [
+      "食欲；欲望",
+      "柏拉图：理性（reason）、激情（spirit）、欲望（appetite）三部分。"
+    ],
+    "usphone": "ˈæpɪtaɪt",
+    "ukphone": "ˈæpɪtaɪt"
+  },
+  {
+    "name": "apathy",
+    "trans": [
+      "冷漠；无动于衷",
+      "斯多葛的\"不动心\"（apatheia）——不为激情所动；现代词义已偏贬义。"
+    ],
+    "usphone": "ˈæpəθi",
+    "ukphone": "ˈæpəθi"
+  },
+  {
+    "name": "stoic",
+    "trans": [
+      "斯多葛主义者 adj. 坚忍的",
+      "源自\"柱廊\"（stoa）。现代英语中 stoic 形容沉着忍耐的人。"
+    ],
+    "usphone": "ˈstoʊɪk",
+    "ukphone": "ˈstəʊɪk"
+  },
+  {
+    "name": "stoicism",
+    "trans": [
+      "斯多葛主义；坚忍",
+      "季诺创立；主张顺应自然理性、以德性为唯一善、对命运不动心。"
+    ],
+    "usphone": "ˈstoʊɪsɪzəm",
+    "ukphone": "ˈstəʊɪsɪzəm"
+  },
+  {
+    "name": "indifferent",
+    "trans": [
+      "冷漠的；中立的；无关紧要的",
+      "斯多葛把财富、健康、名声视为\"无所谓之物\"（indifferents）。"
+    ],
+    "usphone": "ɪnˈdɪfrənt",
+    "ukphone": "ɪnˈdɪfrənt"
+  },
+  {
+    "name": "fate",
+    "trans": [
+      "命运",
+      "希腊悲剧与斯多葛的核心概念；\"愿意的人，命运领着走\"。"
+    ],
+    "usphone": "feɪt",
+    "ukphone": "feɪt"
+  },
+  {
+    "name": "destiny",
+    "trans": [
+      "命运；天命",
+      "与 fate 近义；fate 偏不可抗，destiny 偏注定的归宿。"
+    ],
+    "usphone": "ˈdestəni",
+    "ukphone": "ˈdestəni"
+  },
+  {
+    "name": "fortune",
+    "trans": [
+      "命运；财富",
+      "幸运与厄运（misfortune）是斯多葛要超脱的外在物。"
+    ],
+    "usphone": "ˈfɔːrtʃuːn",
+    "ukphone": "ˈfɔːtʃuːn"
+  },
+  {
+    "name": "misfortune",
+    "trans": [
+      "不幸；厄运",
+      "mis（坏）+ fortune。"
+    ],
+    "usphone": "ˌmɪsˈfɔːrtʃuːn",
+    "ukphone": "ˌmɪsˈfɔːtʃuːn"
+  },
+  {
+    "name": "adversity",
+    "trans": [
+      "逆境；厄运",
+      "斯多葛训练如何在 adversity 中保持内心自由。"
+    ],
+    "usphone": "ədˈvɜːrsəti",
+    "ukphone": "ədˈvɜːsəti"
+  },
+  {
+    "name": "endure",
+    "trans": [
+      "忍受；持久",
+      "斯多葛式的 endurance（忍耐）是面对命运的姿态。"
+    ],
+    "usphone": "ɪnˈdʊr",
+    "ukphone": "ɪnˈdjʊə(r)"
+  },
+  {
+    "name": "endurance",
+    "trans": [
+      "忍耐力；持久力",
+      "与 patience（耐心）近义，更强调\"扛住苦难\"。"
+    ],
+    "usphone": "ɪnˈdʊrəns",
+    "ukphone": "ɪnˈdjʊərəns"
+  },
+  {
+    "name": "tranquility",
+    "trans": [
+      "宁静；平静",
+      "伊比鸠鲁的 ataraxia（灵魂宁静）即 tranquility；斯多葛亦求之。"
+    ],
+    "usphone": "træŋˈkwɪləti",
+    "ukphone": "træŋˈkwɪləti"
+  },
+  {
+    "name": "serenity",
+    "trans": [
+      "平静；安详",
+      "serenity prayer（宁静祷文）受斯多葛控制二分法影响。"
+    ],
+    "usphone": "səˈrenəti",
+    "ukphone": "səˈrenəti"
+  },
+  {
+    "name": "theism",
+    "trans": [
+      "有神论",
+      "the（神）+ ism。相信上帝存在且干预世界。"
+    ],
+    "usphone": "ˈθiːɪzəm",
+    "ukphone": "ˈθiːɪzəm"
+  },
+  {
+    "name": "theist",
+    "trans": [
+      "有神论者",
+      "与 atheist（无神论者）、agnostic（不可知论者）并列。"
+    ],
+    "usphone": "ˈθiːɪst",
+    "ukphone": "ˈθiːɪst"
+  },
+  {
+    "name": "atheism",
+    "trans": [
+      "无神论",
+      "a（无）+ theism。萨特的无神论存在主义从\"上帝不存在\"出发。"
+    ],
+    "usphone": "ˈeɪθiɪzəm",
+    "ukphone": "ˈeɪθiɪzəm"
+  },
+  {
+    "name": "atheist",
+    "trans": [
+      "无神论者",
+      "注意发音：/ˈeɪθiɪst/，勿读成 /æt/。"
+    ],
+    "usphone": "ˈeɪθiɪst",
+    "ukphone": "ˈeɪθiɪst"
+  },
+  {
+    "name": "pantheism",
+    "trans": [
+      "泛神论",
+      "pan（全）+ theism。\"上帝即自然\"（史宾诺莎），上帝与世界同一。"
+    ],
+    "usphone": "ˈpænθiɪzəm",
+    "ukphone": "ˈpænθiɪzəm"
+  },
+  {
+    "name": "monotheism",
+    "trans": [
+      "一神论",
+      "mono（单一）+ theism。犹太教、基督教、伊斯兰教皆为一神教。"
+    ],
+    "usphone": "ˈmɑːnəθiɪzəm",
+    "ukphone": "ˈmɒnəθiɪzəm"
+  },
+  {
+    "name": "polytheism",
+    "trans": [
+      "多神论",
+      "poly（多）+ theism。古希腊奥林匹斯诸神即多神信仰。"
+    ],
+    "usphone": "ˈpɑːliθiɪzəm",
+    "ukphone": "ˈpɒliθiɪzəm"
+  },
+  {
+    "name": "deism",
+    "trans": [
+      "自然神论",
+      "相信上帝创造世界后不再干预（\"钟表匠\"上帝），启蒙运动流行观点。"
+    ],
+    "usphone": "ˈdiːɪzəm",
+    "ukphone": "ˈdiːɪzəm"
+  },
+  {
+    "name": "deity",
+    "trans": [
+      "神；神性",
+      "与 divinity 近义；deify（神化）同根。"
+    ],
+    "usphone": "ˈdiːəti",
+    "ukphone": "ˈdeɪəti"
+  },
+  {
+    "name": "divine",
+    "trans": [
+      "神的；神圣的",
+      "divine providence（神意/天意）是神正论讨论的主题。"
+    ],
+    "usphone": "dɪˈvaɪn",
+    "ukphone": "dɪˈvaɪn"
+  },
+  {
+    "name": "divinity",
+    "trans": [
+      "神性；神学（学府用语）",
+      "divinity school（神学院）。"
+    ],
+    "usphone": "dɪˈvɪnəti",
+    "ukphone": "dɪˈvɪnəti"
+  },
+  {
+    "name": "sacred",
+    "trans": [
+      "神圣的",
+      "与 profane（世俗的）相对；sacred text（圣典）。"
+    ],
+    "usphone": "ˈseɪkrɪd",
+    "ukphone": "ˈseɪkrɪd"
+  },
+  {
+    "name": "profane",
+    "trans": [
+      "世俗的；亵渎的",
+      "pro（在……前）+ fane（神殿）——\"神殿之外的\"，即世俗的。"
+    ],
+    "usphone": "prəˈfeɪn",
+    "ukphone": "prəˈfeɪn"
+  },
+  {
+    "name": "holy",
+    "trans": [
+      "神圣的；圣洁的",
+      "holy spirit（圣灵）；与 sacred 近义但更宗教化。"
+    ],
+    "usphone": "ˈhoʊli",
+    "ukphone": "ˈhəʊli"
+  },
+  {
+    "name": "salvation",
+    "trans": [
+      "拯救；救赎",
+      "salv（救）+ ation。基督教的救赎史观：历史由堕落走向拯救。"
+    ],
+    "usphone": "sælˈveɪʃn",
+    "ukphone": "sælˈveɪʃn"
+  },
+  {
+    "name": "redemption",
+    "trans": [
+      "救赎；赎回",
+      "与 salvation 近义；\"赎回\"隐喻人从罪中获得释放。"
+    ],
+    "usphone": "rɪˈdempʃn",
+    "ukphone": "rɪˈdempʃn"
+  },
+  {
+    "name": "faith",
+    "trans": [
+      "信仰；信念",
+      "祁克果\"信仰的跳跃\"（leap of faith）：信仰超越理性论证，是激情的冒险。"
+    ],
+    "usphone": "feɪθ",
+    "ukphone": "feɪθ"
+  },
+  {
+    "name": "providence",
+    "trans": [
+      "天意；神意",
+      "pro（预先）+ vid（看见）——\"预先看见并安排\"；神正论讨论的核心。"
+    ],
+    "usphone": "ˈprɑːvɪdəns",
+    "ukphone": "ˈprɒvɪdəns"
+  },
+  {
+    "name": "revelation",
+    "trans": [
+      "启示；揭示",
+      "reveal（揭示）的名词。启示（圣经、神谕）是神学知识的来源之一。"
+    ],
+    "usphone": "ˌrevəˈleɪʃn",
+    "ukphone": "ˌrevəˈleɪʃn"
+  },
+  {
+    "name": "mystery",
+    "trans": [
+      "神秘；奥秘",
+      "myst（神秘）+ ery；神秘主义（mysticism）追求与神的神秘合一。"
+    ],
+    "usphone": "ˈmɪstəri",
+    "ukphone": "ˈmɪstəri"
+  },
+  {
+    "name": "mystic",
+    "trans": [
+      "神秘主义者 adj. 神秘的",
+      "普罗汀的新柏拉图主义是哲学神秘主义的典范。"
+    ],
+    "usphone": "ˈmɪstɪk",
+    "ukphone": "ˈmɪstɪk"
+  },
+  {
+    "name": "mysticism",
+    "trans": [
+      "神秘主义",
+      "强调与终极实在的直接合一体验，而非理性论证。"
+    ],
+    "usphone": "ˈmɪstɪsɪzəm",
+    "ukphone": "ˈmɪstɪsɪzəm"
+  },
+  {
+    "name": "prophecy",
+    "trans": [
+      "预言；预言能力",
+      "pro（预先）+ phec（说）——\"预先说出\"。德尔斐神谕即预言传统。"
+    ],
+    "usphone": "ˈprɑːfəsi",
+    "ukphone": "ˈprɒfəsi"
+  },
+  {
+    "name": "oracle",
+    "trans": [
+      "神谕；神谕处",
+      "德尔斐神谕\"认识你自己\"是苏格拉底哲学的起点。"
+    ],
+    "usphone": "ˈɔːrəkl",
+    "ukphone": "ˈɒrəkl"
+  },
+  {
+    "name": "psyche",
+    "trans": [
+      "心灵；灵魂；精神",
+      "希腊语\"灵魂/蝴蝶\"；psychology、psychic 皆由此来。"
+    ],
+    "usphone": "ˈsaɪki",
+    "ukphone": "ˈsaɪki"
+  },
+  {
+    "name": "psychic",
+    "trans": [
+      "心灵的；通灵的 n. 通灵者",
+      "注意与 psychological（心理学的）区分。"
+    ],
+    "usphone": "ˈsaɪkɪk",
+    "ukphone": "ˈsaɪkɪk"
+  },
+  {
+    "name": "soul",
+    "trans": [
+      "灵魂",
+      "柏拉图：灵魂不朽，前世见过理型，学习即回忆。"
+    ],
+    "usphone": "soʊl",
+    "ukphone": "səʊl"
+  },
+  {
+    "name": "spirit",
+    "trans": [
+      "精神；心灵；灵魂",
+      "黑格尔\"绝对精神\"（Absolute Spirit）即 Geist；spirit 也指\"酒\"。"
+    ],
+    "usphone": "ˈspɪrɪt",
+    "ukphone": "ˈspɪrɪt"
+  },
+  {
+    "name": "spiritual",
+    "trans": [
+      "精神的；灵性的",
+      "spiritual life（精神生活）；与 material（物质的）相对。"
+    ],
+    "usphone": "ˈspɪrɪtʃuəl",
+    "ukphone": "ˈspɪrɪtʃuəl"
+  },
+  {
+    "name": "anima",
+    "trans": [
+      "灵魂；生命原理（拉丁语）",
+      "词根 anima=生命气息；animate、animal、animism（万物有灵论）同源。"
+    ],
+    "usphone": "ˈænɪmə",
+    "ukphone": "ˈænɪmə"
+  },
+  {
+    "name": "animal",
+    "trans": [
+      "动物",
+      "亚里士多德定义人为\"理性的动物\"（rational animal）。"
+    ],
+    "usphone": "ˈænɪml",
+    "ukphone": "ˈænɪml"
+  },
+  {
+    "name": "animate",
+    "trans": [
+      "使有生命；使活跃 adj. 有生命的",
+      "泰勒斯\"万物充满神灵\"是一种万物有灵论（animism）倾向。"
+    ],
+    "usphone": "ˈænɪmeɪt",
+    "ukphone": "ˈænɪmeɪt"
+  },
+  {
+    "name": "inanimate",
+    "trans": [
+      "无生命的",
+      "in（不）+ animate。"
+    ],
+    "usphone": "ɪnˈænɪmət",
+    "ukphone": "ɪnˈænɪmət"
+  },
+  {
+    "name": "conscious",
+    "trans": [
+      "有意识的；清醒的",
+      "con（共同）+ sci（知道）——\"与己共知\"。意识问题是心灵哲学核心。"
+    ],
+    "usphone": "ˈkɑːnʃəs",
+    "ukphone": "ˈkɒnʃəs"
+  },
+  {
+    "name": "consciousness",
+    "trans": [
+      "意识；知觉",
+      "意识的\"困难问题\"（hard problem of consciousness）是当代哲学热点。"
+    ],
+    "usphone": "ˈkɑːnʃəsnəs",
+    "ukphone": "ˈkɒnʃəsnəs"
+  },
+  {
+    "name": "unconscious",
+    "trans": [
+      "无意识的；潜意识的 n. 潜意识",
+      "弗洛伊德：心理主体是潜意识，意识只是冰山一角。"
+    ],
+    "usphone": "ʌnˈkɑːnʃəs",
+    "ukphone": "ʌnˈkɒnʃəs"
+  },
+  {
+    "name": "subconscious",
+    "trans": [
+      "潜意识的 n. 潜意识",
+      "与 unconscious 近义；弗洛伊德更常用 unconscious。"
+    ],
+    "usphone": "ˌsʌbˈkɑːnʃəs",
+    "ukphone": "ˌsʌbˈkɒnʃəs"
+  },
+  {
+    "name": "awareness",
+    "trans": [
+      "意识；觉察",
+      "self-awareness（自我意识）是\"认识你自己\"的现代表述。"
+    ],
+    "usphone": "əˈwernəs",
+    "ukphone": "əˈweənəs"
+  },
+  {
+    "name": "dream",
+    "trans": [
+      "/v. 梦；梦想",
+      "弗洛伊德《梦的解析》：梦是愿望的（改装）满足。"
+    ],
+    "usphone": "driːm",
+    "ukphone": "driːm"
+  },
+  {
+    "name": "repression",
+    "trans": [
+      "压抑；抑制",
+      "re（回）+ press（压）。被压抑的欲望进入潜意识。"
+    ],
+    "usphone": "rɪˈpreʃn",
+    "ukphone": "rɪˈpreʃn"
+  },
+  {
+    "name": "libido",
+    "trans": [
+      "力比多；性驱力",
+      "弗洛伊德术语，指心理能量的源泉。"
+    ],
+    "usphone": "lɪˈbiːdoʊ",
+    "ukphone": "lɪˈbiːdəʊ"
+  },
+  {
+    "name": "trauma",
+    "trans": [
+      "创伤；精神创伤",
+      "弗洛伊德认为早期创伤塑造人格；traumatic（创伤性的）。"
+    ],
+    "usphone": "ˈtraʊmə",
+    "ukphone": "ˈtrɔːmə"
+  },
+  {
+    "name": "neurosis",
+    "trans": [
+      "神经症（复数 neuroses）",
+      "神经症源于潜意识冲突；与之相对 psychosis（精神病）。"
+    ],
+    "usphone": "nʊˈroʊsɪs",
+    "ukphone": "njʊəˈrəʊsɪs"
+  },
+  {
+    "name": "therapy",
+    "trans": [
+      "治疗；疗法",
+      "精神分析最初是治疗（therapy）方法；psychotherapy（心理治疗）。"
+    ],
+    "usphone": "ˈθerəpi",
+    "ukphone": "ˈθerəpi"
+  },
+  {
+    "name": "democracy",
+    "trans": [
+      "民主；民主制度",
+      "demo（人民）+ cracy（统治）。雅典民主处死了苏格拉底。"
+    ],
+    "usphone": "dɪˈmɑːkrəsi",
+    "ukphone": "dɪˈmɒkrəsi"
+  },
+  {
+    "name": "democrat",
+    "trans": [
+      "民主主义者；民主党人",
+      "-crat（统治者）后缀，如 bureaucrat（官僚）。"
+    ],
+    "usphone": "ˈdeməkræt",
+    "ukphone": "ˈdeməkræt"
+  },
+  {
+    "name": "democratic",
+    "trans": [
+      "民主的",
+      "democratic society（民主社会）。"
+    ],
+    "usphone": "ˌdeməˈkrætɪk",
+    "ukphone": "ˌdeməˈkrætɪk"
+  },
+  {
+    "name": "demagogue",
+    "trans": [
+      "煽动家；蛊惑民心的政客",
+      "demo（人民）+ agog（引导）——\"引导民众\"的煽动者；柏拉图对民主的担忧。"
+    ],
+    "usphone": "ˈdeməɡɑːɡ",
+    "ukphone": "ˈdeməɡɒɡ"
+  },
+  {
+    "name": "aristocracy",
+    "trans": [
+      "贵族制；贵族",
+      "aristos（最优秀的）+ cracy；柏拉图理想政体之一。"
+    ],
+    "usphone": "ˌærɪˈstɑːkrəsi",
+    "ukphone": "ˌærɪˈstɒkrəsi"
+  },
+  {
+    "name": "oligarchy",
+    "trans": [
+      "寡头制",
+      "oligos（少数）+ archy（统治）。"
+    ],
+    "usphone": "ˈɑːlɪɡɑːrki",
+    "ukphone": "ˈɒlɪɡɑːki"
+  },
+  {
+    "name": "monarchy",
+    "trans": [
+      "君主制",
+      "mono（单一）+ archy（统治）。"
+    ],
+    "usphone": "ˈmɑːnərki",
+    "ukphone": "ˈmɒnəki"
+  },
+  {
+    "name": "anarchy",
+    "trans": [
+      "无政府状态；混乱",
+      "an（无）+ archy（统治）。"
+    ],
+    "usphone": "ˈænəki",
+    "ukphone": "ˈænəki"
+  },
+  {
+    "name": "anarchism",
+    "trans": [
+      "无政府主义",
+      "主张废除国家；与 anarchy（混乱）语义有别。"
+    ],
+    "usphone": "ˈænəkɪzəm",
+    "ukphone": "ˈænəkɪzəm"
+  },
+  {
+    "name": "autocracy",
+    "trans": [
+      "独裁；专制",
+      "auto（自己）+ cracy——一人独揽大权。"
+    ],
+    "usphone": "ɔːˈtɑːkrəsi",
+    "ukphone": "ɔːˈtɒkrəsi"
+  },
+  {
+    "name": "bureaucracy",
+    "trans": [
+      "官僚制；官僚机构",
+      "bureau（办公桌）+ cracy——\"桌子统治\"。"
+    ],
+    "usphone": "bjʊˈrɑːkrəsi",
+    "ukphone": "bjʊəˈrɒkrəsi"
+  },
+  {
+    "name": "polis",
+    "trans": [
+      "城邦（希腊语）",
+      "politics、policy、police 皆源于 polis。亚里士多德：人是政治的动物。"
+    ],
+    "usphone": "ˈpoʊlɪs",
+    "ukphone": "ˈpəʊlɪs"
+  },
+  {
+    "name": "policy",
+    "trans": [
+      "政策；方针",
+      "与 politics（政治）同源，指具体的施政方案。"
+    ],
+    "usphone": "ˈpɑːləsi",
+    "ukphone": "ˈpɒləsi"
+  },
+  {
+    "name": "politics",
+    "trans": [
+      "政治；政治学",
+      "亚里士多德《政治学》（Politics）是最早的政治哲学著作。"
+    ],
+    "usphone": "ˈpɑːlətɪks",
+    "ukphone": "ˈpɒlətɪks"
+  },
+  {
+    "name": "political",
+    "trans": [
+      "政治的",
+      "political philosophy（政治哲学）研究正义、权力与国家的正当性。"
+    ],
+    "usphone": "pəˈlɪtɪkl",
+    "ukphone": "pəˈlɪtɪkl"
+  },
+  {
+    "name": "citizen",
+    "trans": [
+      "公民；市民",
+      "civ（城邦/市民）+ izen。亚里士多德：人是\"城邦动物\"（political animal）。"
+    ],
+    "usphone": "ˈsɪtɪzən",
+    "ukphone": "ˈsɪtɪzən"
+  },
+  {
+    "name": "civil",
+    "trans": [
+      "公民的；文明的",
+      "civil society（公民社会）；civilization 同根。"
+    ],
+    "usphone": "ˈsɪvl",
+    "ukphone": "ˈsɪvl"
+  },
+  {
+    "name": "civilization",
+    "trans": [
+      "文明",
+      "弗洛伊德《文明及其不满》：文明建立在对本能的压抑之上。"
+    ],
+    "usphone": "ˌsɪvəlaɪˈzeɪʃn",
+    "ukphone": "ˌsɪvəlaɪˈzeɪʃn"
+  },
+  {
+    "name": "liberty",
+    "trans": [
+      "自由",
+      "与 freedom 近义；liberty 更侧重政治/法律自由（自由权）。"
+    ],
+    "usphone": "ˈlɪbərti",
+    "ukphone": "ˈlɪbəti"
+  },
+  {
+    "name": "equality",
+    "trans": [
+      "平等",
+      "启蒙口号\"自由、平等、博爱\"（liberty, equality, fraternity）。"
+    ],
+    "usphone": "iˈkwɑːləti",
+    "ukphone": "iˈkwɒləti"
+  },
+  {
+    "name": "fraternity",
+    "trans": [
+      "博爱；兄弟会",
+      "frater（兄弟）+ nity；法国大革命的三大价值之一。"
+    ],
+    "usphone": "frəˈtɜːrnəti",
+    "ukphone": "frəˈtɜːnəti"
+  },
+  {
+    "name": "justice",
+    "trans": [
+      "正义；公正；司法",
+      "柏拉图的《理想国》全书主题：什么是正义？正义=各司其职的和谐。"
+    ],
+    "usphone": "ˈdʒʌstɪs",
+    "ukphone": "ˈdʒʌstɪs"
+  },
+  {
+    "name": "utopia",
+    "trans": [
+      "乌托邦；理想国",
+      "u（不）+ top（地方）——\"不存在的地方\"（莫尔造词）；理想国的别名。"
+    ],
+    "usphone": "juːˈtoʊpiə",
+    "ukphone": "juːˈtəʊpiə"
+  },
+  {
+    "name": "dystopia",
+    "trans": [
+      "反乌托邦",
+      "dys（坏）+ topia；理想国被批评者视为反乌托邦雏形。"
+    ],
+    "usphone": "dɪsˈtoʊpiə",
+    "ukphone": "dɪsˈtəʊpiə"
+  },
+  {
+    "name": "idea",
+    "trans": [
+      "观念；理念；想法",
+      "柏拉图\"理型\"（Idea/Form）指永恒不变的本质，非普通\"想法\"。"
+    ],
+    "usphone": "aɪˈdiːə",
+    "ukphone": "aɪˈdɪə"
+  },
+  {
+    "name": "ideal",
+    "trans": [
+      "理想的 n. 理想",
+      "ideal state（理想国）即柏拉图构想的正义城邦。"
+    ],
+    "usphone": "aɪˈdiːəl",
+    "ukphone": "aɪˈdiːəl"
+  },
+  {
+    "name": "idealism",
+    "trans": [
+      "唯心论；观念论；理想主义",
+      "主张实在归根结底是心灵/观念的（柏克莱、黑格尔）；与唯物主义相对。"
+    ],
+    "usphone": "aɪˈdiːəlɪzəm",
+    "ukphone": "aɪˈdiːəlɪzəm"
+  },
+  {
+    "name": "idealist",
+    "trans": [
+      "唯心主义者；理想主义者",
+      "日常义\"理想主义\"与哲学义\"唯心论\"勿混淆。"
+    ],
+    "usphone": "aɪˈdiːəlɪst",
+    "ukphone": "aɪˈdiːəlɪst"
+  },
+  {
+    "name": "ideological",
+    "trans": [
+      "意识形态的",
+      "ideological critique（意识形态批判）是马克思主义哲学方法。"
+    ],
+    "usphone": "ˌaɪdiəˈlɑːdʒɪkl",
+    "ukphone": "ˌaɪdiəˈlɒdʒɪkl"
+  },
+  {
+    "name": "form",
+    "trans": [
+      "形式；形状 v. 形成",
+      "亚里士多德\"形式与质料\"（form and matter）：形式使事物成为其所是。"
+    ],
+    "usphone": "fɔːrm",
+    "ukphone": "fɔːm"
+  },
+  {
+    "name": "formal",
+    "trans": [
+      "形式的；正式的",
+      "formal logic（形式逻辑）只关心推理形式，不管内容。"
+    ],
+    "usphone": "ˈfɔːrml",
+    "ukphone": "ˈfɔːml"
+  },
+  {
+    "name": "formation",
+    "trans": [
+      "形成；构成",
+      "concept formation（概念形成）是认识论话题。"
+    ],
+    "usphone": "fɔːrˈmeɪʃn",
+    "ukphone": "fɔːˈmeɪʃn"
+  },
+  {
+    "name": "formulate",
+    "trans": [
+      "系统地阐述；制定",
+      "formulate an argument（把论证表述清楚）是论文写作基本功。"
+    ],
+    "usphone": "ˈfɔːrmjuleɪt",
+    "ukphone": "ˈfɔːmjuleɪt"
+  },
+  {
+    "name": "formula",
+    "trans": [
+      "公式；配方；准则",
+      "康德\"定言令式\"（categorical imperative）即一条道德公式。"
+    ],
+    "usphone": "ˈfɔːrmjələ",
+    "ukphone": "ˈfɔːmjələ"
+  },
+  {
+    "name": "transform",
+    "trans": [
+      "转变；改造",
+      "trans（越过）+ form——\"改变形式\"。马克思：哲学的任务是改变世界。"
+    ],
+    "usphone": "trænsˈfɔːrm",
+    "ukphone": "trænsˈfɔːm"
+  },
+  {
+    "name": "uniform",
+    "trans": [
+      "统一的 n. 制服",
+      "uni（单一）+ form（形式）。"
+    ],
+    "usphone": "ˈjuːnɪfɔːrm",
+    "ukphone": "ˈjuːnɪfɔːm"
+  },
+  {
+    "name": "information",
+    "trans": [
+      "信息；情报",
+      "in（进入）+ form + ation，\"赋予形式\"；信息论与认识论交汇。"
+    ],
+    "usphone": "ˌɪnfəˈmeɪʃn",
+    "ukphone": "ˌɪnfəˈmeɪʃn"
+  },
+  {
+    "name": "morphology",
+    "trans": [
+      "形态学；词法",
+      "morph（形状）+ logy；语言学中指词的形态变化。"
+    ],
+    "usphone": "mɔːrˈfɑːlədʒi",
+    "ukphone": "mɔːˈfɒlədʒi"
+  },
+  {
+    "name": "metamorphosis",
+    "trans": [
+      "变形；蜕变",
+      "meta（变化）+ morph（形）+ osis；卡夫卡《变形记》英文名 The Metamorphosis。"
+    ],
+    "usphone": "ˌmetəˈmɔːrfəsɪs",
+    "ukphone": "ˌmetəˈmɔːfəsɪs"
+  },
+  {
+    "name": "amorphous",
+    "trans": [
+      "无定形的",
+      "a（无）+ morph（形）+ ous；阿那克西曼德的\"无定形\"（apeiron）。"
+    ],
+    "usphone": "əˈmɔːrfəs",
+    "ukphone": "əˈmɔːfəs"
+  },
+  {
+    "name": "prototype",
+    "trans": [
+      "原型；样板",
+      "proto（最初）+ type（类型）。"
+    ],
+    "usphone": "ˈproʊtətaɪp",
+    "ukphone": "ˈprəʊtətaɪp"
+  },
+  {
+    "name": "archetype",
+    "trans": [
+      "原型；典型",
+      "arche（原始）+ type；荣格用 archetype 指集体潜意识中的原始意象。"
+    ],
+    "usphone": "ˈɑːrkitaɪp",
+    "ukphone": "ˈɑːkitaɪp"
+  },
+  {
+    "name": "type",
+    "trans": [
+      "类型；典型 v. 打字",
+      "type/token 之辨：类型 vs 具体实例（哲学语言学话题）。"
+    ],
+    "usphone": "taɪp",
+    "ukphone": "taɪp"
+  },
+  {
+    "name": "category",
+    "trans": [
+      "范畴；类别",
+      "亚里士多德十范畴、康德十二范畴——思维的基本分类框架。"
+    ],
+    "usphone": "ˈkætəɡɔːri",
+    "ukphone": "ˈkætəɡəri"
+  },
+  {
+    "name": "categorical",
+    "trans": [
+      "绝对的；范畴的",
+      "categorical imperative（定言令式）：无条件应当遵守的道德命令。"
+    ],
+    "usphone": "ˌkætəˈɡɔːrɪkl",
+    "ukphone": "ˌkætəˈɡɒrɪkl"
+  },
+  {
+    "name": "classification",
+    "trans": [
+      "分类",
+      "亚里士多德的自然分类学是科学分类的源头。"
+    ],
+    "usphone": "ˌklæsɪfɪˈkeɪʃn",
+    "ukphone": "ˌklæsɪfɪˈkeɪʃn"
+  },
+  {
+    "name": "concept",
+    "trans": [
+      "概念",
+      "concept 是哲学的最小思想单元；conception（观念/构想）为同根词。"
+    ],
+    "usphone": "ˈkɑːnsept",
+    "ukphone": "ˈkɒnsept"
+  },
+  {
+    "name": "conception",
+    "trans": [
+      "概念；观念；构想",
+      "concept 指公共的概念，conception 指个人/特定的理解。"
+    ],
+    "usphone": "kənˈsepʃn",
+    "ukphone": "kənˈsepʃn"
+  },
+  {
+    "name": "notion",
+    "trans": [
+      "概念；观念；想法",
+      "比 concept 更口语化，指一般性的想法。"
+    ],
+    "usphone": "ˈnoʊʃn",
+    "ukphone": "ˈnəʊʃn"
+  },
+  {
+    "name": "mutation",
+    "trans": [
+      "突变；变异",
+      "mut（改变）+ ation。变异是自然选择（natural selection）的前提。"
+    ],
+    "usphone": "mjuːˈteɪʃn",
+    "ukphone": "mjuːˈteɪʃn"
+  },
+  {
+    "name": "mutate",
+    "trans": [
+      "突变；变异",
+      "基因突变（genetic mutation）是进化的原材料。"
+    ],
+    "usphone": "ˈmjuːteɪt",
+    "ukphone": "mjuːˈteɪt"
+  },
+  {
+    "name": "mutable",
+    "trans": [
+      "可变的；易变的",
+      "与 immutable（不变的）相对；赫拉克利特的世界是 mutable 的。"
+    ],
+    "usphone": "ˈmjuːtəbl",
+    "ukphone": "ˈmjuːtəbl"
+  },
+  {
+    "name": "immutable",
+    "trans": [
+      "不变的；永恒的",
+      "im（不）+ mutable。巴门尼德的\"存在\"是 immutable 的。"
+    ],
+    "usphone": "ɪˈmjuːtəbl",
+    "ukphone": "ɪˈmjuːtəbl"
+  },
+  {
+    "name": "flux",
+    "trans": [
+      "流动；不断变化",
+      "赫拉克利特\"万物皆流\"（panta rhei）即一切处于 flux 中。"
+    ],
+    "usphone": "flʌks",
+    "ukphone": "flʌks"
+  },
+  {
+    "name": "fluid",
+    "trans": [
+      "流动的 n. 流体",
+      "flu（流）+ id；fluid identity（流动的身份）是现代话题。"
+    ],
+    "usphone": "ˈfluːɪd",
+    "ukphone": "ˈfluːɪd"
+  },
+  {
+    "name": "fluctuate",
+    "trans": [
+      "波动；起伏",
+      "与 flux 同根；物价、情绪皆可 fluctuate。"
+    ],
+    "usphone": "ˈflʌktʃueɪt",
+    "ukphone": "ˈflʌktʃueɪt"
+  },
+  {
+    "name": "influence",
+    "trans": [
+      "/v. 影响",
+      "in（流入）+ flu（流）+ ence——\"流入\"他人心灵，即产生影响。"
+    ],
+    "usphone": "ˈɪnfluəns",
+    "ukphone": "ˈɪnfluəns"
+  },
+  {
+    "name": "affluent",
+    "trans": [
+      "富裕的",
+      "af（向）+ flu（流）——财富\"流向\"某人。"
+    ],
+    "usphone": "ˈæfluənt",
+    "ukphone": "ˈæfluənt"
+  },
+  {
+    "name": "revolution",
+    "trans": [
+      "革命；旋转",
+      "re（回）+ vol（转）+ ution。科学革命、法国大革命、哥白尼革命。"
+    ],
+    "usphone": "ˌrevəˈluːʃn",
+    "ukphone": "ˌrevəˈluːʃn"
+  },
+  {
+    "name": "revolve",
+    "trans": [
+      "旋转；围绕",
+      "哥白尼革命的核心：地球绕太阳 revolve。"
+    ],
+    "usphone": "rɪˈvɑːlv",
+    "ukphone": "rɪˈvɒlv"
+  },
+  {
+    "name": "evolution",
+    "trans": [
+      "进化；演化；发展",
+      "e（向外）+ vol（转）+ ution——\"展开\"。达尔文《物种起源》。"
+    ],
+    "usphone": "ˌiːvəˈluːʃn",
+    "ukphone": "ˌiːvəˈluːʃn"
+  },
+  {
+    "name": "evolve",
+    "trans": [
+      "进化；演化；逐步发展",
+      "species evolve（物种演化）通过自然选择（natural selection）。"
+    ],
+    "usphone": "iˈvɑːlv",
+    "ukphone": "iˈvɒlv"
+  },
+  {
+    "name": "involve",
+    "trans": [
+      "涉及；卷入",
+      "in（入）+ volve（卷）——\"卷入其中\"。"
+    ],
+    "usphone": "ɪnˈvɑːlv",
+    "ukphone": "ɪnˈvɒlv"
+  },
+  {
+    "name": "volume",
+    "trans": [
+      "卷；册；体积；音量",
+      "源自 volvere（滚动）——古代书卷（scroll）滚动展开。"
+    ],
+    "usphone": "ˈvɑːljuːm",
+    "ukphone": "ˈvɒljuːm"
+  },
+  {
+    "name": "progress",
+    "trans": [
+      "/v. 进步；前进",
+      "pro（向前）+ gress（走）。启蒙运动的\"进步信念\"（belief in progress）。"
+    ],
+    "usphone": "ˈprɑːɡres",
+    "ukphone": "ˈprəʊɡres"
+  },
+  {
+    "name": "progressive",
+    "trans": [
+      "进步的；渐进的",
+      "progressivism（进步主义）相信历史向善。"
+    ],
+    "usphone": "prəˈɡresɪv",
+    "ukphone": "prəˈɡresɪv"
+  },
+  {
+    "name": "regress",
+    "trans": [
+      "退步；回归 n. 退行",
+      "re（回）+ gress；无限回溯（infinite regress）是论证中的逻辑问题。"
+    ],
+    "usphone": "rɪˈɡres",
+    "ukphone": "rɪˈɡres"
+  },
+  {
+    "name": "process",
+    "trans": [
+      "过程；进程",
+      "pro（向前）+ cess（走）。黑格尔把真理当作一个 process。"
+    ],
+    "usphone": "ˈprɑːses",
+    "ukphone": "ˈprəʊses"
+  },
+  {
+    "name": "history",
+    "trans": [
+      "历史",
+      "黑格尔：历史是精神自我展开的过程；马克思：历史是阶级斗争史。"
+    ],
+    "usphone": "ˈhɪstri",
+    "ukphone": "ˈhɪstri"
+  },
+  {
+    "name": "historical",
+    "trans": [
+      "历史的",
+      "historical materialism（历史唯物主义）是马克思的哲学。"
+    ],
+    "usphone": "hɪˈstɔːrɪkl",
+    "ukphone": "hɪˈstɒrɪkl"
+  },
+  {
+    "name": "destiny",
+    "trans": [
+      "命运；天命",
+      "与 fate 近义；哲学上讨论\"自由 vs 宿命\"（destiny）。"
+    ],
+    "usphone": "ˈdestəni",
+    "ukphone": "ˈdestəni"
+  },
+  {
+    "name": "liberty",
+    "trans": [
+      "自由；自由权",
+      "liber（自由）+ ty；政治自由（political liberty）。"
+    ],
+    "usphone": "ˈlɪbərti",
+    "ukphone": "ˈlɪbəti"
+  },
+  {
+    "name": "liberal",
+    "trans": [
+      "自由主义的；开明的",
+      "liberal arts（人文学科/自由技艺）是大学教育的古典根基。"
+    ],
+    "usphone": "ˈlɪbərəl",
+    "ukphone": "ˈlɪbərəl"
+  },
+  {
+    "name": "liberation",
+    "trans": [
+      "解放",
+      "liberation philosophy（解放哲学）关注受压迫者的解放。"
+    ],
+    "usphone": "ˌlɪbəˈreɪʃn",
+    "ukphone": "ˌlɪbəˈreɪʃn"
+  },
+  {
+    "name": "liberate",
+    "trans": [
+      "解放；释放",
+      "liberate from 从……中解放。"
+    ],
+    "usphone": "ˈlɪbəreɪt",
+    "ukphone": "ˈlɪbəreɪt"
+  },
+  {
+    "name": "freedom",
+    "trans": [
+      "自由",
+      "与 liberty 近义；存在主义的自由（freedom）是\"被判处\"的重担。"
+    ],
+    "usphone": "ˈfriːdəm",
+    "ukphone": "ˈfriːdəm"
+  },
+  {
+    "name": "free",
+    "trans": [
+      "自由的 v. 使自由",
+      "free will（自由意志）是哲学最古老的争论之一。"
+    ],
+    "usphone": "friː",
+    "ukphone": "friː"
+  },
+  {
+    "name": "autonomy",
+    "trans": [
+      "自主；自治",
+      "auto（自己）+ nom（法则）——\"自己立法\"。康德：道德自律（autonomy）。"
+    ],
+    "usphone": "ɔːˈtɑːnəmi",
+    "ukphone": "ɔːˈtɒnəmi"
+  },
+  {
+    "name": "autonomous",
+    "trans": [
+      "自主的；自治的",
+      "autonomous agent（自主行动者）是伦理学与人工智能的共同概念。"
+    ],
+    "usphone": "ɔːˈtɑːnəməs",
+    "ukphone": "ɔːˈtɒnəməs"
+  },
+  {
+    "name": "automatic",
+    "trans": [
+      "自动的；无意识的",
+      "auto（自己）+ matic（动）——\"自己动\"。"
+    ],
+    "usphone": "ˌɔːtəˈmætɪk",
+    "ukphone": "ˌɔːtəˈmætɪk"
+  },
+  {
+    "name": "responsibility",
+    "trans": [
+      "责任；负责",
+      "萨特：人被判处自由，必须为选择承担全部 responsibility。"
+    ],
+    "usphone": "rɪˌspɑːnsəˈbɪləti",
+    "ukphone": "rɪˌspɒnsəˈbɪləti"
+  },
+  {
+    "name": "responsible",
+    "trans": [
+      "负责的；有责任的",
+      "be responsible for 对……负责。"
+    ],
+    "usphone": "rɪˈspɑːnsəbl",
+    "ukphone": "rɪˈspɒnsəbl"
+  },
+  {
+    "name": "respond",
+    "trans": [
+      "回应；反应",
+      "re（回）+ spond（承诺）——\"回应\"他人。"
+    ],
+    "usphone": "rɪˈspɑːnd",
+    "ukphone": "rɪˈspɒnd"
+  },
+  {
+    "name": "response",
+    "trans": [
+      "回应；反应",
+      "自由行动即对处境（situation）的 response。"
+    ],
+    "usphone": "rɪˈspɑːns",
+    "ukphone": "rɪˈspɒns"
+  },
+  {
+    "name": "commitment",
+    "trans": [
+      "承诺；投入",
+      "萨特：选择即 commitment——我对自己和全人类负责。"
+    ],
+    "usphone": "kəˈmɪtmənt",
+    "ukphone": "kəˈmɪtmənt"
+  },
+  {
+    "name": "committed",
+    "trans": [
+      "坚定的；投入的",
+      "萨特主张\"入世\"（engagement），做 committed 的写作者。"
+    ],
+    "usphone": "kəˈmɪtɪd",
+    "ukphone": "kəˈmɪtɪd"
+  },
+  {
+    "name": "choice",
+    "trans": [
+      "选择",
+      "存在主义：人由 choice 定义——\"人是其行动的总和\"。"
+    ],
+    "usphone": "tʃɔɪs",
+    "ukphone": "tʃɔɪs"
+  },
+  {
+    "name": "decision",
+    "trans": [
+      "决定；决策",
+      "decision-making（决策）在伦理学与经济学中都是核心。"
+    ],
+    "usphone": "dɪˈsɪʒn",
+    "ukphone": "dɪˈsɪʒn"
+  },
+  {
+    "name": "determination",
+    "trans": [
+      "决定；决心；确定",
+      "determinism（决定论）：一切事件由先前原因必然决定。"
+    ],
+    "usphone": "dɪˌtɜːrmɪˈneɪʃn",
+    "ukphone": "dɪˌtɜːmɪˈneɪʃn"
+  },
+  {
+    "name": "determinism",
+    "trans": [
+      "决定论",
+      "与 free will（自由意志）之争是形而上学核心问题。"
+    ],
+    "usphone": "dɪˈtɜːrmɪnɪzəm",
+    "ukphone": "dɪˈtɜːmɪnɪzəm"
+  },
+  {
+    "name": "fatalism",
+    "trans": [
+      "宿命论",
+      "与 determinism 近义，更强调\"命运不可抗拒\"。"
+    ],
+    "usphone": "ˈfeɪtəlɪzəm",
+    "ukphone": "ˈfeɪtəlɪzəm"
+  },
+  {
+    "name": "existentialism",
+    "trans": [
+      "存在主义",
+      "祁克果开创、萨特集大成；\"存在先于本质\"，自由选择塑造自我。"
+    ],
+    "usphone": "ˌeɡzɪˈstenʃəlɪzəm",
+    "ukphone": "ˌeɡzɪˈstenʃəlɪzəm"
+  },
+  {
+    "name": "existentialist",
+    "trans": [
+      "/adj. 存在主义者（的）",
+      "无神论存在主义（萨特）vs 有神论存在主义（祁克果）。"
+    ],
+    "usphone": "ˌeɡzɪˈstenʃəlɪst",
+    "ukphone": "ˌeɡzɪˈstenʃəlɪst"
+  },
+  {
+    "name": "nihilism",
+    "trans": [
+      "虚无主义",
+      "nihil（无）+ ism。主张一切价值无根基；尼采\"上帝已死\"直面虚无。"
+    ],
+    "usphone": "ˈnaɪɪlɪzəm",
+    "ukphone": "ˈnaɪɪlɪzəm"
+  },
+  {
+    "name": "nihilist",
+    "trans": [
+      "虚无主义者",
+      "存在主义要超越的对手：虚无主义否定意义，存在主义在荒诞中创造意义。"
+    ],
+    "usphone": "ˈnaɪɪlɪst",
+    "ukphone": "ˈnaɪɪlɪst"
+  },
+  {
+    "name": "absurd",
+    "trans": [
+      "荒诞的 n.（the absurd）荒诞",
+      "加缪：人在无意义宇宙中追求意义，二者碰撞即\"荒诞\"。"
+    ],
+    "usphone": "əbˈsɜːrd",
+    "ukphone": "əbˈsɜːd"
+  },
+  {
+    "name": "absurdity",
+    "trans": [
+      "荒诞；荒谬",
+      "面对荒诞，加缪主张反抗与坚持（西西弗推石上山）。"
+    ],
+    "usphone": "əbˈsɜːrdəti",
+    "ukphone": "əbˈsɜːdəti"
+  },
+  {
+    "name": "alienation",
+    "trans": [
+      "异化；疏离",
+      "alien（异己的）+ ation。马克思：工人与劳动产品、自身类本质相异化。"
+    ],
+    "usphone": "ˌeɪliəˈneɪʃn",
+    "ukphone": "ˌeɪliəˈneɪʃn"
+  },
+  {
+    "name": "alienate",
+    "trans": [
+      "使疏远；使异化",
+      "alienated labor（异化劳动）是马克思早期哲学的关键。"
+    ],
+    "usphone": "ˈeɪliəneɪt",
+    "ukphone": "ˈeɪliəneɪt"
+  },
+  {
+    "name": "alien",
+    "trans": [
+      "陌生的；异己的 n. 外星人；外侨",
+      "alienation 的词根；\"世界对我而言是 alien 的\"。"
+    ],
+    "usphone": "ˈeɪliən",
+    "ukphone": "ˈeɪliən"
+  },
+  {
+    "name": "authentic",
+    "trans": [
+      "本真的；真实的；原版的",
+      "存在主义核心价值：忠实于自己的自由选择，拒绝\"自欺\"。"
+    ],
+    "usphone": "ɔːˈθentɪk",
+    "ukphone": "ɔːˈθentɪk"
+  },
+  {
+    "name": "authenticity",
+    "trans": [
+      "本真性；真实性",
+      "authentic existence（本真的存在）vs 沉沦于\"常人\"的非本真状态。"
+    ],
+    "usphone": "ˌɔːθenˈtɪsəti",
+    "ukphone": "ˌɔːθenˈtɪsəti"
+  },
+  {
+    "name": "bad faith",
+    "trans": [
+      "自欺（萨特术语）",
+      "假装\"我没有选择\"，逃避自由与责任（如侍者完全认同角色）。"
+    ],
+    "usphone": "ˌbæd ˈfeɪθ",
+    "ukphone": "ˌbæd ˈfeɪθ"
+  },
+  {
+    "name": "engagement",
+    "trans": [
+      "介入；参与；约定",
+      "萨特主张\"入世\"（engagement）：哲学必须介入政治与时代。"
+    ],
+    "usphone": "ɪnˈɡeɪdʒmənt",
+    "ukphone": "ɪnˈɡeɪdʒmənt"
+  },
+  {
+    "name": "contingency",
+    "trans": [
+      "偶然性；偶然事件",
+      "存在主义：人的存在是偶然（contingent）的，非必然如此。"
+    ],
+    "usphone": "kənˈtɪndʒənsi",
+    "ukphone": "kənˈtɪndʒənsi"
+  },
+  {
+    "name": "facticity",
+    "trans": [
+      "事实性；被给予性（萨特术语）",
+      "我无法选择的既成事实（出生、时代），与自由（超越）相对。"
+    ],
+    "usphone": "fækˈtɪsəti",
+    "ukphone": "fækˈtɪsəti"
+  },
+  {
+    "name": "nothingness",
+    "trans": [
+      "虚无；无",
+      "萨特《存在与虚无》（Being and Nothingness）；意识即\"虚无\"。"
+    ],
+    "usphone": "ˈnʌθɪŋnəs",
+    "ukphone": "ˈnʌθɪŋnəs"
+  },
+  {
+    "name": "nausea",
+    "trans": [
+      "恶心；反胃",
+      "萨特《恶心》（Nausea）：对存在之偶然与荒谬的生理性体验。"
+    ],
+    "usphone": "ˈnɔːʒə",
+    "ukphone": "ˈnɔːziə"
+  },
+  {
+    "name": "anguish",
+    "trans": [
+      "极度痛苦；焦虑",
+      "萨特：面对自由的焦虑（anguish）——我必须选择，无可逃避。"
+    ],
+    "usphone": "ˈæŋɡwɪʃ",
+    "ukphone": "ˈæŋɡwɪʃ"
+  },
+  {
+    "name": "despair",
+    "trans": [
+      "/v. 绝望",
+      "祁克果《致死的疾病》：绝望是不愿成为/成为自己。"
+    ],
+    "usphone": "dɪˈsper",
+    "ukphone": "dɪˈspeə(r)"
+  },
+  {
+    "name": "radical",
+    "trans": [
+      "根本的；激进的",
+      "源自 radix（根）。radical doubt（根本怀疑）是笛卡尔的方法。"
+    ],
+    "usphone": "ˈrædɪkl",
+    "ukphone": "ˈrædɪkl"
+  },
+  {
+    "name": "emancipate",
+    "trans": [
+      "解放；使摆脱",
+      "e（出）+ mancip（手）+ ate——\"从手中放出\"；启蒙的解放理想。"
+    ],
+    "usphone": "ɪˈmænsɪpeɪt",
+    "ukphone": "ɪˈmænsɪpeɪt"
+  },
+  {
+    "name": "ancient",
+    "trans": [
+      "古代的 n. 古人",
+      "古希腊罗马哲学（ancient philosophy）是西方哲学的源头。"
+    ],
+    "usphone": "ˈeɪnʃənt",
+    "ukphone": "ˈeɪnʃənt"
+  },
+  {
+    "name": "antiquity",
+    "trans": [
+      "古代；古典时代",
+      "classical antiquity（古典古代）指希腊罗马时期。"
+    ],
+    "usphone": "ænˈtɪkwəti",
+    "ukphone": "ænˈtɪkwəti"
+  },
+  {
+    "name": "classical",
+    "trans": [
+      "古典的；经典的",
+      "古典希腊哲学（苏格拉底、柏拉图、亚里士多德）。"
+    ],
+    "usphone": "ˈklæsɪkl",
+    "ukphone": "ˈklæsɪkl"
+  },
+  {
+    "name": "Hellenistic",
+    "trans": [
+      "希腊化时代的",
+      "希腊化哲学（Hellenistic philosophy）：犬儒、斯多葛、伊比鸠鲁。"
+    ],
+    "usphone": "ˌhelɪˈnɪstɪk",
+    "ukphone": "ˌhelɪˈnɪstɪk"
+  },
+  {
+    "name": "medieval",
+    "trans": [
+      "中世纪的",
+      "中世纪哲学（medieval philosophy）以基督教神学为主（奥古斯丁、阿奎那）。"
+    ],
+    "usphone": "ˌmediˈiːvl",
+    "ukphone": "ˌmediˈiːvl"
+  },
+  {
+    "name": "Scholastic",
+    "trans": [
+      "经院哲学的",
+      "经院哲学（Scholasticism）是欧洲中世纪的学院哲学。"
+    ],
+    "usphone": "skəˈlæstɪk",
+    "ukphone": "skəˈlæstɪk"
+  },
+  {
+    "name": "Renaissance",
+    "trans": [
+      "文艺复兴",
+      "re（再）+ naiss（诞生）——\"再生\"；人文主义（humanism）兴起。"
+    ],
+    "usphone": "rɪˈneɪsns",
+    "ukphone": "rɪˈneɪsns"
+  },
+  {
+    "name": "Baroque",
+    "trans": [
+      "/adj. 巴洛克（的）",
+      "17 世纪巴洛克时期：人生如梦、理想与唯物对峙。"
+    ],
+    "usphone": "bəˈroʊk",
+    "ukphone": "bəˈrɒk"
+  },
+  {
+    "name": "Enlightenment",
+    "trans": [
+      "启蒙运动",
+      "启蒙（Enlightenment）：以理性摆脱蒙昧，追求人权与进步。"
+    ],
+    "usphone": "ɪnˈlaɪtnmənt",
+    "ukphone": "ɪnˈlaɪtnmənt"
+  },
+  {
+    "name": "modern",
+    "trans": [
+      "现代的；近代的",
+      "近代哲学（modern philosophy）从笛卡尔开始。"
+    ],
+    "usphone": "ˈmɑːdərn",
+    "ukphone": "ˈmɒdn"
+  },
+  {
+    "name": "contemporary",
+    "trans": [
+      "当代的；同时代的",
+      "当代哲学（contemporary philosophy）涵盖分析哲学与欧陆哲学。"
+    ],
+    "usphone": "kənˈtempəreri",
+    "ukphone": "kənˈtemprəri"
+  },
+  {
+    "name": "secular",
+    "trans": [
+      "世俗的；非宗教的",
+      "secularization（世俗化）：近代思想从中世纪宗教权威中解放。"
+    ],
+    "usphone": "ˈsekjələ(r)",
+    "ukphone": "ˈsekjələ(r)"
+  },
+  {
+    "name": "humanism",
+    "trans": [
+      "人文主义；人道主义",
+      "human（人）+ ism。文艺复兴的核心：以人为中心。"
+    ],
+    "usphone": "ˈhjuːmənɪzəm",
+    "ukphone": "ˈhjuːmənɪzəm"
+  },
+  {
+    "name": "humanities",
+    "trans": [
+      "人文学科",
+      "大学中人文学科（literature, philosophy, history 等）的总称。"
+    ],
+    "usphone": "hjuːˈmænətiz",
+    "ukphone": "hjuːˈmænətiz"
+  },
+  {
+    "name": "liberal arts",
+    "trans": [
+      "博雅教育；自由技艺",
+      "古典大学教育基础，含文法、修辞、逻辑、数学等\"七艺\"。"
+    ],
+    "usphone": "ˌlɪbərəl ˈɑːrts",
+    "ukphone": "ˌlɪbərəl ˈɑːts"
+  },
+  {
+    "name": "materialism",
+    "trans": [
+      "唯物主义；物质主义",
+      "主张物质是唯一实在（德谟克里特斯、马克思）。"
+    ],
+    "usphone": "məˈtɪriəlɪzəm",
+    "ukphone": "məˈtɪəriəlɪzəm"
+  },
+  {
+    "name": "materialist",
+    "trans": [
+      "唯物主义者",
+      "与 idealist（唯心论者）相对。"
+    ],
+    "usphone": "məˈtɪriəlɪst",
+    "ukphone": "məˈtɪəriəlɪst"
+  },
+  {
+    "name": "realism",
+    "trans": [
+      "实在论；现实主义",
+      "共相问题中的\"唯实论\"（universals are real）。"
+    ],
+    "usphone": "ˈrɪəlɪzəm",
+    "ukphone": "ˈrɪəlɪzəm"
+  },
+  {
+    "name": "nominalism",
+    "trans": [
+      "唯名论",
+      "nomen（名称）+ ism。主张共相只是名称，只有个体真实存在。"
+    ],
+    "usphone": "ˈnɑːmɪnəlɪzəm",
+    "ukphone": "ˈnɒmɪnəlɪzəm"
+  },
+  {
+    "name": "universal",
+    "trans": [
+      "普遍的 n. 共相",
+      "共相问题（problem of universals）：普遍概念是否真实存在。"
+    ],
+    "usphone": "ˌjuːnɪˈvɜːrsl",
+    "ukphone": "ˌjuːnɪˈvɜːsl"
+  },
+  {
+    "name": "particular",
+    "trans": [
+      "特殊的 n. 个别事物",
+      "共相（universal）与殊相（particular）相对。"
+    ],
+    "usphone": "pərˈtɪkjələr",
+    "ukphone": "pəˈtɪkjələ(r)"
+  },
+  {
+    "name": "individual",
+    "trans": [
+      "个体 adj. 个人的",
+      "in（不）+ divid（分）+ ual——\"不可再分者\"；祁克果：哲学须回到个体。"
+    ],
+    "usphone": "ˌɪndɪˈvɪdʒuəl",
+    "ukphone": "ˌɪndɪˈvɪdʒuəl"
+  },
+  {
+    "name": "empiricism（复习）",
+    "trans": [
+      "经验主义",
+      "见第五章；英国经验主义（洛克、休谟、柏克莱）。"
+    ],
+    "usphone": "ɪmˈpɪrɪsɪzəm",
+    "ukphone": "ɪmˈpɪrɪsɪzəm"
+  },
+  {
+    "name": "rationalism（复习）",
+    "trans": [
+      "理性主义",
+      "见第六章；大陆理性主义（笛卡尔、史宾诺莎、莱布尼茨）。"
+    ],
+    "usphone": "ˈræʃənəlɪzəm",
+    "ukphone": "ˈræʃənəlɪzəm"
+  },
+  {
+    "name": "thesis",
+    "trans": [
+      "论题；学位论文",
+      "黑格尔辩证法的\"正题\"（thesis）。"
+    ],
+    "usphone": "ˈθiːsɪs",
+    "ukphone": "ˈθiːsɪs"
+  },
+  {
+    "name": "antithesis",
+    "trans": [
+      "反题；对立面",
+      "anti（反）+ thesis；辩证法的\"反题\"。"
+    ],
+    "usphone": "ænˈtɪθəsɪs",
+    "ukphone": "ænˈtɪθəsɪs"
+  },
+  {
+    "name": "synthesis",
+    "trans": [
+      "合题；综合",
+      "syn（共同）+ thesis；正题+反题→合题（黑格尔三段式）。"
+    ],
+    "usphone": "ˈsɪnθəsɪs",
+    "ukphone": "ˈsɪnθəsɪs"
+  },
+  {
+    "name": "dialectic",
+    "trans": [
+      "辩证法",
+      "苏格拉底对话法→黑格尔思辨辩证法→马克思唯物辩证法。"
+    ],
+    "usphone": "ˌdaɪəˈlektɪk",
+    "ukphone": "ˌdaɪəˈlektɪk"
+  },
+  {
+    "name": "dialectical",
+    "trans": [
+      "辩证的",
+      "dialectical materialism（辩证唯物主义）。"
+    ],
+    "usphone": "ˌdaɪəˈlektɪkl",
+    "ukphone": "ˌdaɪəˈlektɪkl"
+  },
+  {
+    "name": "hypothesis",
+    "trans": [
+      "假设；假说",
+      "hypo（在下）+ thesis——\"置于其下的预设\"；科学始于 hypothesis。"
+    ],
+    "usphone": "haɪˈpɑːθəsɪs",
+    "ukphone": "haɪˈpɒθəsɪs"
+  },
+  {
+    "name": "hypothetical",
+    "trans": [
+      "假设的",
+      "假言令式（hypothetical imperative）vs 定言令式（categorical imperative）。"
+    ],
+    "usphone": "ˌhaɪpəˈθetɪkl",
+    "ukphone": "ˌhaɪpəˈθetɪkl"
+  },
+  {
+    "name": "postulate",
+    "trans": [
+      "/v. 假定；公设",
+      "作为论证起点的假定，如康德\"实践理性的公设\"。"
+    ],
+    "usphone": "ˈpɑːstʃəleɪt",
+    "ukphone": "ˈpɒstjuleɪt"
+  },
+  {
+    "name": "axiom",
+    "trans": [
+      "公理；自明之理",
+      "欧几里得式公理；史宾诺莎以公理建构《伦理学》。"
+    ],
+    "usphone": "ˈæksiəm",
+    "ukphone": "ˈæksiəm"
+  },
+  {
+    "name": "definition",
+    "trans": [
+      "定义",
+      "苏格拉底追问\"什么是正义\"——寻求 definition。"
+    ],
+    "usphone": "ˌdefɪˈnɪʃn",
+    "ukphone": "ˌdefɪˈnɪʃn"
+  },
+  {
+    "name": "define",
+    "trans": [
+      "定义；界定",
+      "de（完全）+ fine（界限）——\"划清界限\"。"
+    ],
+    "usphone": "dɪˈfaɪn",
+    "ukphone": "dɪˈfaɪn"
+  },
+  {
+    "name": "distinction",
+    "trans": [
+      "区分；区别",
+      "哲学论证始于 distinction（如\"先天 vs 后天\"）。"
+    ],
+    "usphone": "dɪˈstɪŋkʃn",
+    "ukphone": "dɪˈstɪŋkʃn"
+  },
+  {
+    "name": "distinguish",
+    "trans": [
+      "区分；辨别",
+      "distinguish A from B 是论文常用表达。"
+    ],
+    "usphone": "dɪˈstɪŋɡwɪʃ",
+    "ukphone": "dɪˈstɪŋɡwɪʃ"
+  },
+  {
+    "name": "classify",
+    "trans": [
+      "分类；归类",
+      "亚里士多德的分类学传统。"
+    ],
+    "usphone": "ˈklæsɪfaɪ",
+    "ukphone": "ˈklæsɪfaɪ"
+  },
+  {
+    "name": "analogy（复习）",
+    "trans": [
+      "类比",
+      "见第二章；analogical argument（类比论证）。"
+    ],
+    "usphone": "əˈnælədʒi",
+    "ukphone": "əˈnælədʒi"
+  },
+  {
+    "name": "metaphor",
+    "trans": [
+      "隐喻",
+      "meta（超越）+ phor（携带）——\"由此及彼\"；洞穴寓言即大隐喻。"
+    ],
+    "usphone": "ˈmetəfər",
+    "ukphone": "ˈmetəfə(r)"
+  },
+  {
+    "name": "literal",
+    "trans": [
+      "字面的；照字面的",
+      "literal meaning（字面义）与 metaphorical meaning（隐喻义）相对。"
+    ],
+    "usphone": "ˈlɪtərəl",
+    "ukphone": "ˈlɪtərəl"
+  },
+  {
+    "name": "figurative",
+    "trans": [
+      "比喻的；象征的",
+      "figurative language（比喻语言）。"
+    ],
+    "usphone": "ˈfɪɡərətɪv",
+    "ukphone": "ˈfɪɡərətɪv"
+  },
+  {
+    "name": "imply",
+    "trans": [
+      "暗示；意味着",
+      "论证中\"隐含\"之意；勿与 infer（推断）混淆。"
+    ],
+    "usphone": "ɪmˈplaɪ",
+    "ukphone": "ɪmˈplaɪ"
+  },
+  {
+    "name": "implication",
+    "trans": [
+      "含义；影响；蕴含",
+      "logical implication（逻辑蕴含）；论文中的 implications（启示）。"
+    ],
+    "usphone": "ˌɪmplɪˈkeɪʃn",
+    "ukphone": "ˌɪmplɪˈkeɪʃn"
+  },
+  {
+    "name": "infer",
+    "trans": [
+      "推断；推论",
+      "infer from 从……推断；说话者 imply，听者 infer。"
+    ],
+    "usphone": "ɪnˈfɜːr",
+    "ukphone": "ɪnˈfɜː(r)"
+  },
+  {
+    "name": "inference",
+    "trans": [
+      "推理；推断",
+      "inductive inference（归纳推理）与 deductive inference（演绎推理）。"
+    ],
+    "usphone": "ˈɪnfərəns",
+    "ukphone": "ˈɪnfərəns"
+  },
+  {
+    "name": "assert",
+    "trans": [
+      "断言；主张",
+      "assertion（断言）是论证中需要支持的观点。"
+    ],
+    "usphone": "əˈsɜːrt",
+    "ukphone": "əˈsɜːt"
+  },
+  {
+    "name": "claim",
+    "trans": [
+      "/v. 主张；断言",
+      "论证分析第一步：识别 claim（结论）与支持它的理由。"
+    ],
+    "usphone": "kleɪm",
+    "ukphone": "kleɪm"
+  },
+  {
+    "name": "justify",
+    "trans": [
+      "证明……正当；辩护",
+      "justified true belief（被证成的真信念）是知识的标准定义。"
+    ],
+    "usphone": "ˈdʒʌstɪfaɪ",
+    "ukphone": "ˈdʒʌstɪfaɪ"
+  },
+  {
+    "name": "justification",
+    "trans": [
+      "正当理由；辩护",
+      "认识论：知识=真信念+justification。"
+    ],
+    "usphone": "ˌdʒʌstɪfɪˈkeɪʃn",
+    "ukphone": "ˌdʒʌstɪfɪˈkeɪʃn"
+  },
+  {
+    "name": "clarify",
+    "trans": [
+      "澄清；阐明",
+      "哲学写作的核心动作：clarify 概念、论点与论证。"
+    ],
+    "usphone": "ˈklærɪfaɪ",
+    "ukphone": "ˈklærɪfaɪ"
+  },
+  {
+    "name": "interpret",
+    "trans": [
+      "解释；诠释",
+      "interpretation（诠释）是人文研究的基本方法；诠释学（hermeneutics）。"
+    ],
+    "usphone": "ɪnˈtɜːrprɪt",
+    "ukphone": "ɪnˈtɜːprɪt"
+  },
+  {
+    "name": "perspective",
+    "trans": [
+      "视角；观点；透视",
+      "per（透过）+ spect（看）——\"透过某角度观看\"；多视角看问题。"
+    ],
+    "usphone": "pərˈspektɪv",
+    "ukphone": "pəˈspektɪv"
+  }
+]

@@ -10,45 +10,36 @@ interface ArticleCategoryDictsProps {
 }
 
 /**
- * 文章分类组：结构对齐单词 DictionaryGroup
- * DictTagSwitcher + 相同 grid 参数
+ * 文章分类组：结构 1:1 对齐单词侧 CategoryDicts（DictionaryGroup）
+ * DictTagSwitcher + 固定 w-80 卡片网格，不额外插入标题以免布局偏移
  */
 export default function ArticleCategoryDicts({
   groupedArticlesByTag,
   currentArticleId,
   onSelectArticle,
 }: ArticleCategoryDictsProps) {
-  const tagList = useMemo(() => {
-    const keys = Object.keys(groupedArticlesByTag)
-    // Level 优先排序，其余字典序 —— 接近单词词典标签条可读性
-    return keys.sort((a, b) => {
-      const la = a.match(/^Level (\d)$/)
-      const lb = b.match(/^Level (\d)$/)
-      if (la && lb) return Number(la[1]) - Number(lb[1])
-      if (la) return -1
-      if (lb) return 1
-      return a.localeCompare(b, 'zh')
-    })
-  }, [groupedArticlesByTag])
+  const tagList = useMemo(() => Object.keys(groupedArticlesByTag), [groupedArticlesByTag])
   const [currentTag, setCurrentTag] = useState(tagList.length > 0 ? tagList[0] : '')
+
+  const onChangeCurrentTag = useCallback((tag: string) => {
+    setCurrentTag(tag)
+  }, [])
 
   useEffect(() => {
     if (tagList.length === 0) {
       setCurrentTag('')
       return
     }
+    // 与单词侧类似：标签集合变化时，若当前 tag 失效则回退到第一个
     if (!tagList.includes(currentTag)) {
       setCurrentTag(tagList[0])
     }
   }, [tagList, currentTag])
 
-  const onChangeCurrentTag = useCallback((tag: string) => {
-    setCurrentTag(tag)
-  }, [])
-
   return (
     <div>
       <DictTagSwitcher tagList={tagList} currentTag={currentTag} onChangeCurrentTag={onChangeCurrentTag} />
+      {/* 与线上单词词典一致：固定 w-80 卡片 + 响应列数，不铺满拉伸 */}
       <div className="mt-8 grid gap-x-5 gap-y-10 px-1 pb-4 sm:grid-cols-1 md:grid-cols-2 dic3:grid-cols-3 dic4:grid-cols-4">
         {currentTag && groupedArticlesByTag[currentTag] ? (
           groupedArticlesByTag[currentTag].map((article) => (

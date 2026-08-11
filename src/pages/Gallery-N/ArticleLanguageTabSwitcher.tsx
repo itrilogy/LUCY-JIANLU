@@ -11,8 +11,8 @@ type ArticleTabOption = {
 }
 
 /**
- * 文章语种/轨道切换：视觉对齐 LanguageTabSwitcher
- * （下划线 + 图标 + text-lg，space-x-4）
+ * 文章语种/轨道切换：布局 1:1 对齐 LanguageTabSwitcher
+ * （单行 space-x-4 + 下划线，不用 flex-wrap 以免与单词顶栏不一致）
  */
 const options: ArticleTabOption[] = [
   { id: 'all', name: '全部' },
@@ -20,6 +20,7 @@ const options: ArticleTabOption[] = [
   { id: 'javascript', name: 'JS / TS', flag: codeFlag },
   { id: 'python', name: 'Python', flag: codeFlag },
   { id: 'english', name: '英文', flag: enFlag },
+  { id: 'sophie-philosophy', name: '苏菲哲学' },
   { id: 'knowledge-eng', name: '知识工程' },
   { id: 'finance-concept', name: 'SAFTI' },
   { id: 'fintech-code', name: 'FinTech码' },
@@ -40,7 +41,7 @@ export function ArticleLanguageTabSwitcher() {
 
   return (
     <RadioGroup value={state.currentArticleLanguageTab} onChange={onChangeTab}>
-      <div className="flex flex-wrap items-center gap-y-2 space-x-4">
+      <div className="flex items-center space-x-4">
         {options.map((option) => (
           <RadioGroup.Option key={option.id} value={option.id} className="cursor-pointer">
             {({ checked }) => (

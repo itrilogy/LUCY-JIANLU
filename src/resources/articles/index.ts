@@ -7,6 +7,7 @@ import { KNOWLEDGE_ENG_ARTICLES } from './path-knowledge-eng'
 import { PYTHON_ARTICLES } from './path-python'
 import { ROBOTICS_ARTICLES } from './path-robotics'
 import { SAFTI_CONCEPT_ARTICLES } from './path-safti-concepts'
+import { SOPHIE_PHILOSOPHY_ARTICLES } from './path-sophie-philosophy'
 import { SSQ_FINTECH_ARTICLES } from './path-ssq-fintech'
 import { TS_ARTICLES } from './path-ts'
 
@@ -18,8 +19,8 @@ import { TS_ARTICLES } from './path-ts'
  * 1. knowledge-eng  — Obsidian / Markdown / Mermaid 知识工程
  * 2. cs-programming — SAFTI 程序设计 + 计算科学 + ROS2/OOMWOO
  * 3. fintech-code   — 金融科技编程 + 双色球 FinTech 起步
- * 4. finance-concept— SAFTI 金融认知 / 经管跨课英文
- * 5. english-literacy — 通用技术英文素养
+ * 4. finance-concept— SAFTI 金融认知 / 跨课概念
+ * 5. english-literacy — 技术英文 + 《苏菲的世界》哲学精读
  */
 export const ARTICLE_RESOURCES: ArticleResource[] = [
   // ── 0. 知识工程（建议与「搭笔记系统」同步开始）──────────────
@@ -38,8 +39,9 @@ export const ARTICLE_RESOURCES: ArticleResource[] = [
   ...withTrack(FINTECH_ARTICLES, 'fintech-code', 'SAFTI-FinTech代码'),
   ...SSQ_FINTECH_ARTICLES,
 
-  // ── 4. 通用技术英文（素养向，非 SAFTI 专属）────────────────
+  // ── 4. 通用技术英文 + 哲学主题精读 ────────────────────────
   ...withTrack(ENGLISH_ARTICLES, 'english-literacy', 'English-Tech'),
+  ...SOPHIE_PHILOSOPHY_ARTICLES,
 ]
 
 export const articleResourceById: Record<string, ArticleResource> = Object.fromEntries(
