@@ -54,14 +54,14 @@ const Footer: React.FC = () => {
         onClose={() => handleCloseInfoPanel('donate')}
       >
         <p className="indent-4 text-sm text-gray-500 dark:text-gray-300">
-          非常感谢大家使用 Qwerty Learner，目前该网站使用业余时间在维护，为了保证网站能够持续地提供给大家高质量的服务，我们需要您的帮助！
+          非常感谢大家使用见鹿 · JianLu。本站在开源上游基础上由实验室持续维护；为了保证高质量服务，我们需要您的帮助！
           <br />
           您的捐款将有助于我们支付网站的运营成本，改进网站的功能和设计，并提高用户体验。
           <br />
         </p>
         <br />
         <p className="indent-4 text-sm text-gray-700 dark:text-gray-200">
-          我们相信，共同的努力可以让 Qwerty Learner 成为更好的学习平台，也相信您的支持将给予我们持续前进的动力。 感谢您的支持！
+          我们相信，共同的努力可以让见鹿成为更好的学习平台，也相信您的支持将给予我们持续前进的动力。感谢您的支持！
         </p>
         <br />
         <p className="indent-4 text-sm text-gray-700 dark:text-gray-200">

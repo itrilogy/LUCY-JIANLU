@@ -1,3 +1,4 @@
+import AboutModal from '@/components/AboutModal'
 import logo from '@/assets/logo.svg'
 import labLogo from '@/assets/lab-logo.svg'
 import codeImg from '@/assets/mobile/detail/code.png'
@@ -33,11 +34,18 @@ const detail = [
 
 const MobilePage: React.FC = () => {
   const [activeIndex, setActiveIndex] = useState(0)
+  const [aboutOpen, setAboutOpen] = useState(false)
 
   return (
     <div className="flex w-screen flex-col bg-white lg:mx-auto lg:max-w-7xl">
       <header className="fixed left-0 right-0 top-0 z-50 flex items-center justify-between border-b border-emerald-900/10 bg-white/80 px-6 py-5 backdrop-blur-xl lg:px-12">
-        <div className="flex items-center">
+        <button
+          type="button"
+          className="flex items-center bg-transparent p-0 text-left"
+          onClick={() => setAboutOpen(true)}
+          aria-label="关于见鹿 · JianLu"
+          title="产品说明"
+        >
           <img src={logo} className="mr-3 h-10 w-10 rounded-xl object-contain shadow-sm ring-1 ring-[#0D5E42]/10 lg:h-11 lg:w-11" alt="见鹿 Logo" />
           <div className="flex flex-col leading-tight">
             <h1 className="text-lg font-semibold tracking-tight text-[#0D5E42] lg:text-xl">
@@ -46,7 +54,7 @@ const MobilePage: React.FC = () => {
             </h1>
             <span className="text-xs font-normal text-gray-500">打字 · 单词 · 知识 · 鹿溪联合创新实验室出品</span>
           </div>
-        </div>
+        </button>
         <a
           href="/"
           className="hidden items-center gap-2 rounded-xl bg-[#0D5E42] px-6 py-3 text-sm font-medium text-white transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#0a4a34] hover:shadow-lg md:flex"
@@ -76,6 +84,7 @@ const MobilePage: React.FC = () => {
           </svg>
         </a>
       </header>
+      <AboutModal open={aboutOpen} onClose={() => setAboutOpen(false)} />
 
       {/* 面包屑导航 */}
       <nav aria-label="面包屑导航" className="bg-gray-50/50 px-6 py-3 lg:px-24">
@@ -115,7 +124,7 @@ const MobilePage: React.FC = () => {
           <div className="relative z-10 mx-auto w-full max-w-5xl px-6 py-24 text-center">
             {/* 品牌标识 */}
             <div className="mb-8 inline-flex items-center gap-2 rounded-full border border-emerald-100 bg-emerald-50 px-5 py-2.5 text-sm font-medium text-[#0D5E42]">
-              <span className="font-semibold">见鹿 JianLu</span>
+              <span className="font-semibold">见鹿 · JianLu</span>
               <span className="text-emerald-300">·</span>
               <span>鹿溪联合创新实验室出品</span>
             </div>
@@ -129,7 +138,7 @@ const MobilePage: React.FC = () => {
 
             {/* 副标题 */}
             <p className="mx-auto mb-4 max-w-3xl text-lg font-medium tracking-wide text-[#0D5E42]/80 sm:text-xl">
-              林深见鹿，源启清溪
+              指间林深，心澄见鹿
             </p>
             <p className="mx-auto mb-16 max-w-3xl text-xl font-light leading-relaxed text-gray-600 sm:text-2xl" itemProp="description">
               打字练习 · 单词记忆 · 知识内化——让专业表达成为肌肉记忆
@@ -177,7 +186,7 @@ const MobilePage: React.FC = () => {
                 {BRAND.productTagline.replace(/ · /g, '、')}。
               </p>
               <p>
-                「鹿溪」寓意在复杂知识中看见规律（见鹿），以清澈、可持续的技术与练习路径启源赋能（源启清溪）。
+                「见鹿」取自「指间林深，心澄见鹿」：键入林深，豁然见鹿。通过反复敲击练习，把词汇与语法沉淀为肌肉记忆。
                 实验室使命：{BRAND.mission}
               </p>
               <p className="text-gray-500">
@@ -189,9 +198,9 @@ const MobilePage: React.FC = () => {
 
         <section className="mt-24 bg-gray-50/30 px-6 py-24 lg:mt-32 lg:px-24" itemScope itemType="https://schema.org/Product">
           <div className="mx-auto max-w-7xl">
-            <meta itemProp="name" content="见鹿" />
-            <meta itemProp="description" content="见鹿（JianLu）——鹿溪联合创新实验室出品的键盘学习工具：打字练习 · 单词记忆 · 知识内化" />
-            <meta itemProp="brand" content="见鹿 JianLu" />
+            <meta itemProp="name" content="见鹿 · JianLu" />
+            <meta itemProp="description" content="见鹿（JianLu）——鹿溪联合创新实验室出品的键盘学习产品：打字练习 · 单词记忆 · 知识内化" />
+            <meta itemProp="brand" content="见鹿 · JianLu" />
 
             {/* Offers Schema */}
             <div itemProp="offers" itemScope itemType="https://schema.org/Offer">

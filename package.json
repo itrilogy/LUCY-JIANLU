@@ -1,7 +1,8 @@
 {
-  "name": "qwerty-learner",
+  "name": "jianlu",
   "version": "0.1.0",
   "private": true,
+  "description": "见鹿 (JianLu) - 鹿溪联合创新实验室出品的键盘学习产品",
   "homepage": ".",
   "dependencies": {
     "@floating-ui/react": "^0.20.1",

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/favicon.svg" width="96" height="96" alt="见鹿 JianLu" />
+  <img src="public/favicon.svg" width="96" height="96" alt="见鹿 · JianLu" />
 </div>
 
 <h1 align="center">见鹿 · JianLu</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  林深见鹿，源启清溪 · Deep Insights, Evolutionary Origin.
+  指间林深，心澄见鹿 · Repetition breeds intuition; clarity emerges from practice.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 与原版 Qwerty Learner 一脉相承的是 **错误即重输、巩固正确肌肉记忆**；见鹿在此之上，把练习从「词条」延伸到 **文章段落、代码片段、课程对齐的知识词库**，让打字成为知识内化的路径。
 
-> **命名**：取自 Slogan「林深见鹿」——在复杂知识中看见规律，在指尖练习中把表达练成肌肉记忆。
+> **命名**：取自 Slogan「指间林深，心澄见鹿」——键入林深，豁然见鹿；在反复敲击中把词汇与语法沉淀为肌肉记忆。
 
 | 层级 | 名称 | 说明 |
 | :--- | :--- | :--- |
@@ -90,7 +90,7 @@
 ### 4. 品牌与产品体验
 
 - 产品标识：**favicon（键帽 + 溪流 + 源启星点）** + 名称 **见鹿 JianLu**
-- Footer：实验室官方 Logo +「林深见鹿，源启清溪」阐述
+- Footer：实验室官方 Logo +「指间林深，心澄见鹿」阐述
 - 主色：**鹿溪绿 `#0D5E42`**、进化青 `#00D2FF`
 - 常量集中：`src/constants/brand.ts`
 
@@ -227,5 +227,5 @@ yarn start
   <p><strong>见鹿 · JianLu</strong></p>
   <p>打字练习 · 单词记忆 · 知识内化</p>
   <p>鹿溪联合创新实验室 出品</p>
-  <p><em>林深见鹿，源启清溪</em></p>
+  <p><em>指间林深，心澄见鹿</em></p>
 </div>

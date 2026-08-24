@@ -12,7 +12,7 @@
 | 产品名 | 见鹿 · JianLu |
 | 出品方 | 鹿溪联合创新实验室（LUXI Lab） |
 | 定位 | 打字练习 · 单词记忆 · 知识内化 |
-| Slogan | 林深见鹿，源启清溪 |
+| Slogan | 指间林深，心澄见鹿 |
 | 线上域名 | `https://qwerty.plod.online/` |
 | 私有仓库 | `https://github.com/itrilogy/jianlu` |
 | 本地工程 | `/Users/kwangwah/Project/qwerty-learner` |
