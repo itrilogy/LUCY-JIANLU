@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="public/favicon.svg" width="96" height="96" alt="见鹿 · JianLu" />
+  <img src="public/favicon.svg" width="64" height="64" alt="见鹿 · JianLu 产品标" />
+  &nbsp;&nbsp;
+  <img src="src/assets/luxi-lab-main.svg" width="64" height="64" alt="鹿溪联合创新实验室 LUXI LAB" />
 </div>
 
 <h1 align="center">见鹿 · JianLu</h1>
 
 <p align="center">
-  <strong>打字练习 · 单词记忆 · 知识内化</strong>
+  <strong>指间林深，心澄见鹿</strong><br/>
+  <em>Repetition breeds intuition; clarity emerges from practice.</em>
 </p>
 
 <p align="center">
-  指间林深，心澄见鹿 · Repetition breeds intuition; clarity emerges from practice.
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Matrix-知行%C2%B7三动-0D5E42" alt="matrix" />
   <img src="https://img.shields.io/badge/Product-见鹿%20JianLu-0D5E42" alt="product" />
   <img src="https://img.shields.io/badge/Lab-鹿溪联合创新实验室-047538" alt="lab" />
   <img src="https://img.shields.io/badge/Based%20on-Qwerty%20Learner-6366f1" alt="upstream" />
@@ -20,11 +20,14 @@
   <img src="https://img.shields.io/github/license/itrilogy/LUCY-JIANLU" alt="license" />
 </p>
 
+<p align="center">
+  <b>鹿溪联合创新实验室</b>（LUXI Joint Innovation Lab）出品<br/>
+  仓库：<a href="https://github.com/itrilogy/LUCY-JIANLU">itrilogy/LUCY-JIANLU</a>
+</p>
+
 ---
 
-**鹿溪联合创新实验室** 出品 · 基于开源项目 [Qwerty Learner](https://github.com/RealKai42/qwerty-learner) 二次开发
-
-> **见鹿（JianLu）** 是一款面向「用键盘工作与学习」人群的练习工具：在打字中记单词，在段落与代码中内化专业表达。
+> **见鹿（JianLu）** 是一款面向「用键盘工作与学习」人群的练习工具：在打字中记单词，在段落与代码中内化专业表达。由 **鹿溪联合创新实验室** 在开源 [Qwerty Learner](https://github.com/RealKai42/qwerty-learner) 基础上二次开发。
 
 ---
 
@@ -93,7 +96,7 @@ yarn start
 
 ---
 
-## 📁 仓库结构
+## 🏗 项目结构
 
 ```text
 src/
@@ -107,6 +110,24 @@ docs/
   operations_guide.md         # 构建 / 部署 / 品牌资产
   article_*.md                # 文章练习设计与课程映射
 ```
+
+---
+
+## 🎨 品牌标识
+
+| 标识 | 预览 | 说明 | 源文件 |
+| :---: | :---: | :--- | :--- |
+| **产品方标** | <img src="public/favicon.svg" width="32" height="32" alt="见鹿" /> | 键帽 + 光标 + 溪流 + 源启星（鹿溪绿底） | `public/favicon.svg` |
+| **实验室主标** | <img src="src/assets/luxi-lab-main.svg" width="32" height="32" alt="LUXI LAB" /> | 官方 LUXI LAB（鹿角 + 芯片纹 + 源启水滴） | `src/assets/luxi-lab-main.svg` |
+
+**色板（LUXI CI）**
+
+| Token | 色值 | 用途 |
+| :--- | :--- | :--- |
+| 鹿溪绿 | `#0D5E42` | 主色 / 图标底板 / 强调 |
+| 源启白 | `#F5F7FA` | 浅色背景 / 反白文案 |
+| 进化蓝 | `#00D2FF` | 溪流 / 源启星 / 高光 |
+| 标题金 | `#F1C40F` | 落点 / 显著信号 |
 
 ---
 
@@ -132,8 +153,8 @@ docs/
 ---
 
 <div align="center">
-  <p><strong>见鹿 · JianLu</strong></p>
-  <p>打字练习 · 单词记忆 · 知识内化</p>
-  <p>鹿溪联合创新实验室 出品</p>
-  <p><em>指间林深，心澄见鹿</em></p>
+  <img src="src/assets/luxi-lab-main.svg" width="48" height="48" alt="LUXI LAB" />
+  <p><strong>见鹿 · JianLu</strong> · 指间林深，心澄见鹿</p>
+  <p>© 鹿溪联合创新实验室 · LUXI Joint Innovation Lab</p>
+  <p><em>林深见鹿，源启清溪 · Deep Insights, Evolutionary Origin.</em></p>
 </div>
