@@ -14,7 +14,7 @@
 | 定位 | 打字练习 · 单词记忆 · 知识内化 |
 | Slogan | 指间林深，心澄见鹿 |
 | 线上域名 | `https://qwerty.plod.online/` |
-| 私有仓库 | `https://github.com/itrilogy/jianlu` |
+| 公开仓库 | `https://github.com/itrilogy/LUCY-JIANLU` |
 | 本地工程 | `/Users/kwangwah/Project/qwerty-learner` |
 | 上游原项目 | `https://github.com/RealKai42/qwerty-learner`（remote: `upstream`） |
 
@@ -215,19 +215,17 @@ curl -sI https://qwerty.plod.online/dicts/knowledge-from-articles.json | head -5
 ## 6. Git 远程约定
 
 ```text
-origin    → https://github.com/itrilogy/jianlu.git     # 私有产品仓
+origin    → https://github.com/itrilogy/LUCY-JIANLU.git     # 公开产品仓
 upstream  → https://github.com/RealKai42/qwerty-learner.git
 ```
 
-推送私有仓：
+推送到公开仓：
 
 ```bash
 git add -A
 git commit -m "..."
 git push origin HEAD:master
 ```
-
-> 若 PAT 缺少 `workflow` 权限，无法推送含 `.github/workflows/*` 的完整历史；当前私有仓采用快照式提交时可去掉 workflow 文件。
 
 ---
 
